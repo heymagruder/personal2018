@@ -1,20 +1,19 @@
-/* ----------------------------- */
-/* == Main */
-/* ----------------------------- */
-
 ol {
 	list-style: none;
 	padding: 0;
 	margin: 1.5rem 0 5rem 0;
 	line-height: 1.25em;
 }
+
 li {
 	margin: 1.25em 0;
 }
+
 li .date {
 	display: block;
 	line-height:  1.875em;
 }
+
 strong {
 	font-weight: bold;
 }
@@ -22,7 +21,6 @@ strong {
 .highlight {
 	box-shadow: inset 0 -16px 0 0px #97F5F1;
 }
-
 
 .flex-container {
   display: flex;
@@ -58,7 +56,6 @@ strong {
   width: 100%;
   border: 2px solid #333333;
 }
-
 
 .work-list {
 	font-size: 1.4em;
@@ -110,6 +107,5 @@ nav ul li a:hover { opacity: 0.4; }
 }
 
 .brand-nav {
-	font-size: 1.0em;
+	font-size: 1em;
 }
-
