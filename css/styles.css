@@ -1,3 +1,11 @@
+.intro-text{
+  font-size: 4.2em;
+  line-height: 75px;
+  padding-bottom: 40px;
+  color: #1dc7d0;
+}
+
+
 ol {
 	list-style: none;
 	padding: 0;
@@ -37,24 +45,28 @@ strong {
   padding: 20px;	
   font-size: 30px;
   width: 100%;
-  border: 3px solid #666666;
+  border: 1px solid #666666;
+  height: 400px;
+  text-align: center;
 }
 
 .flex-container .third {
-  background-color: #cecece;
+  background-color: #ededed;
   padding: 20px;	
   font-size: 30px;
   width: 100%;
-  border: 5px solid #666666;
+  border: 1px solid #666666;
+  height: 400px;
+  text-align: center;
 }
 
 .flex-container .full {
-  background-color: #cccccc;
+  background-color: #ededed;
   padding: 160px;
   text-align: center;	
   font-size: 30px;
   width: 100%;
-  border: 2px solid #333333;
+  border: 1px solid #666666;
 }
 
 .work-list {
