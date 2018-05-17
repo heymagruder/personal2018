@@ -13,6 +13,35 @@ ol {
 	line-height: 1.25em;
 }
 
+.big-biz li {
+  margin: 1.25em 0;
+  font-size: 1.6em;
+  color: #55555d;
+  line-height: 30px;
+}
+
+
+.sm-biz li {
+  margin: 1.25em 0;
+  font-size: 1.3em;
+  color: #292A33;
+}
+
+/*.sm-biz h6 {
+  font-family: 'Source Sans Pro', Sans-Serif;
+  font-size: 0.6em;
+  color: #A2A2A2;
+  letter-spacing: 0.5px;
+}
+*/
+.biz {
+  font-family: 'Source Sans Pro', Sans-Serif;
+  font-size: 0.8em;
+  color: #A2A2A2;
+  letter-spacing: 0.5px;
+}
+
+
 li {
 	margin: 1.25em 0;
 }
@@ -98,6 +127,25 @@ strong {
   font-size: 0.9em;
   color: #979a9a;
   line-height: 4px;
+}
+
+footer {
+  color: #666;
+  background-color: #efefef;
+}
+
+.main-name {
+  color: #A3A0A0;
+  font-size: 0.9em;
+  letter-spacing: 1.1px;
+  padding-bottom: 65px;
+}
+
+.intro-para {
+  font-size: 1.2em;
+  line-height: 0.6px;
+  color: #A3A0A0;
+  letter-spacing: 1.1px;
 }
 
 /* ----------------------------- */
