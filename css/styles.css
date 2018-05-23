@@ -27,6 +27,23 @@ ol {
   color: #292A33;
 }
 
+.descriptor {
+  font-size: 15px;
+  font-style: italic;
+  color: #888;
+  padding-top: 3px;
+  letter-spacing: 0.4px;
+}
+
+.descriptor-sm {
+  font-size: 14px;
+  font-style: italic;
+  color: #888;
+  padding-top: 3px;
+  letter-spacing: 0.4px;
+}
+
+
 /*.sm-biz h6 {
   font-family: 'Source Sans Pro', Sans-Serif;
   font-size: 0.6em;
