@@ -238,3 +238,8 @@ nav ul li a:hover { opacity: 0.4; }
 .brand-nav {
 	font-size: 1em;
 }
+
+/* Animations */
+.thingToAnimate.hidden {
+  visibility: hidden;
+}
