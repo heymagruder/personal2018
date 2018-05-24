@@ -15,7 +15,7 @@ ol {
 
 .big-biz li {
   margin: 1.25em 0;
-  font-size: 1.6em;
+  font-size: 1.9em;
   color: #55555d;
   line-height: 30px;
 }
@@ -23,7 +23,7 @@ ol {
 
 .sm-biz li {
   margin: 1.25em 0;
-  font-size: 1.3em;
+  font-size: 1.2em;
   color: #292A33;
 }
 
@@ -53,9 +53,10 @@ ol {
 */
 .biz {
   font-family: 'Source Sans Pro', Sans-Serif;
-  font-size: 0.8em;
-  color: #A2A2A2;
-  letter-spacing: 0.5px;
+  font-size: 0.7em;
+  color: #8f9696;
+  letter-spacing: 0.7px;
+  text-transform: uppercase;
 }
 
 
