@@ -1,7 +1,7 @@
 .intro-text{
   font-size: 4.2em;
   line-height: 75px;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
   color: #1dc7d0;
 }
 
@@ -36,11 +36,11 @@ ol {
 }
 
 .descriptor-sm {
-  font-size: 14px;
+  font-size: 0.7em;
   font-style: italic;
   color: #888;
   padding-top: 3px;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.5px;
 }
 
 
@@ -149,22 +149,25 @@ strong {
 }
 
 footer {
-  color: #666;
-  background-color: #efefef;
-  font-size: 0.8em;
+  border-top: 1px solid #e4e4e4;
+  color: #828282;
+  font-size: 0.7em;
+  height: 100px;
+  padding-top: 20px;
+  letter-spacing: 1.0px;
 }
 
 .main-name {
-  color: #A3A0A0;
-  font-size: 0.8em;
+  color: #738586;
+  font-size: 0.7em;
   letter-spacing: 1.1px;
-  padding-bottom: 25px;
+  text-transform: uppercase;
 }
 
 .intro-para {
   font-size: 1.2em;
   line-height: 0.6px;
-  color: #A3A0A0;
+  color: #738586;
   letter-spacing: 1.1px;
 }
 
@@ -174,11 +177,14 @@ footer {
   color: #666;
   font-size: 1.6em;
   margin-top: 100px;
+  background-color: #fff;
+  padding: 160px;
 }
 
 .view-work-cta {
   text-align: center;
-  font-size: 1.3em;
+  font-family: 'Source Sans Pro', Sans-Serif;
+  font-size: 1.0em;
   margin-top: 100px;
 }
 
@@ -223,21 +229,23 @@ i {
 
 nav { padding-top: 40px; }
 nav ul { list-style: none; }
-nav ul li { display: inline; margin-left: 15px; font-weight: bold; }
+nav ul li { display: inline; margin-left: 15px; }
 nav ul li a { color: black; }
 nav ul li a:visited { color: black; }
 nav ul li a:hover { opacity: 0.4; }
 
 .brand-logo {
-	text-decoration:none;
+	text-decoration: none;
 	border: 1px solid;
 	padding: 12px;
 	color: #1A9495;
 }
 
 .brand-nav {
-	font-size: 1em;
+	font-size: 1.0em;
+  padding: 10px;
 }
+
 
 /* Animations */
 .thingToAnimate.hidden {
