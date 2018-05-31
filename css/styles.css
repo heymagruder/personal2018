@@ -27,6 +27,17 @@ ol {
   color: #292A33;
 }
 
+.view-big-biz {
+  font-size: 1.2em;
+  border-right: 1px solid #cdcdcd;
+  padding: 60px;
+}
+
+.view-sm-biz {
+  font-size: 1.2em;
+  padding: 60px;
+}
+
 .descriptor {
   font-size: 15px;
   font-style: italic;
@@ -132,14 +143,16 @@ strong {
 }
 
 .work-title {
-  font-size: 2.0em;
-  color: #0e5765;
+  font-size: 2.6em;
+  color: #1dc7d0;
   line-height: 35px;
 }
 
 .work-role {
-  font-size: 1.1em;
+  font-size: 1.0em;
   color: #979a9a;
+  font-family: 'Source Sans Pro', Sans-Serif;
+  letter-spacing: 0.9px;
 }
 
 .work-year {
@@ -174,18 +187,18 @@ footer {
 .contact-cta {
   text-align: center;
   font-family: 'Playfair Display', Serif;
-  color: #666;
+  color: #fff;
   font-size: 1.6em;
   margin-top: 100px;
-  background-color: #fff;
-  padding: 160px;
+  background-color: #1dc7d0;
+  padding: 120px;
 }
 
 .view-work-cta {
   text-align: center;
-  font-family: 'Source Sans Pro', Sans-Serif;
-  font-size: 1.0em;
-  margin-top: 100px;
+  background-color: #fff;
+  padding: 80px;
+  height: 200px;
 }
 
 i {
@@ -213,13 +226,11 @@ i {
 }
 
 .grid-img {
-  padding: 80px;
-  background-color: #ececec;
-  /* width: 400px; */
-  /* height: 300px; */
+  padding: 60px;
+  background-color: #f1f1f1;
   margin: 0 auto;
-      -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
 }
 
 
@@ -244,6 +255,13 @@ nav ul li a:hover { opacity: 0.4; }
 .brand-nav {
 	font-size: 1.0em;
   padding: 10px;
+}
+
+.footnote{
+  text-align: center;
+  font-size: 0.9em;
+  color: #a59f9f;
+  padding-top: 30px;
 }
 
 
