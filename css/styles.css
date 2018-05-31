@@ -20,7 +20,6 @@ ol {
   line-height: 30px;
 }
 
-
 .sm-biz li {
   margin: 1.25em 0;
   font-size: 1.2em;
@@ -30,12 +29,12 @@ ol {
 .view-big-biz {
   font-size: 1.2em;
   border-right: 1px solid #cdcdcd;
-  padding: 60px;
+  padding: 80px;
 }
 
 .view-sm-biz {
   font-size: 1.2em;
-  padding: 60px;
+  padding: 80px;
 }
 
 .descriptor {
@@ -198,7 +197,7 @@ footer {
   text-align: center;
   background-color: #fff;
   padding: 80px;
-  height: 200px;
+  height: 360px;
 }
 
 i {
