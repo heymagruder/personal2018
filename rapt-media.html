@@ -21,13 +21,13 @@
 
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,700i|Source+Sans+Pro" rel="stylesheet">
 
-
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
   <link rel="stylesheet" href="css/styles.css">
   <link rel="stylesheet" href="css/animate.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/css/animsition.min.css">
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -38,8 +38,13 @@
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <div class="container">
-    <div data-include="nav.html"></div>
+  <div
+    class="container animsition"
+    data-animsition-in-class="fade-in-down-sm"
+    data-animsition-in-duration="1000"
+    data-animsition-out-class="fade-out-down-sm"
+    data-animsition-out-duration="800"
+  >
     <nav>
       <ul>
         <a href='index.html' class="brand-logo">Logo</a>
@@ -112,16 +117,24 @@
     <div class="contact-cta u-full-width">
       <p>Let Make Something Awesome.</p>
       <button>Say Hello</button>
-      
-      <div class="view-work-cta">
-        <p class="view-more"><i class="arrow left"></i>View More Work<i class="arrow right"></i></p>
-      </div>
-    </div> 
+    </div>
 
+      <div class="view-work-cta">
+        <div class="one-half column view-big-biz">
+          <p class="view-more"><a href="#">View More Big Business Work</a></p>
+          <img class="u-full-width" src="http://via.placeholder.com/200x80">
+        </div>
+        <div class="one-half column view-sm-biz">
+          <p class="view-more"><a href="#">View More Small Business Work</a></p>
+          <img class="u-full-width" src="http://via.placeholder.com/200x80">
+        </div>
+       </div>
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script type="text/javascript" src="js/custom.js"></script>
 <script type="text/javascript" src="js/animate.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/js/animsition.min.js"></script>
 </body>
 </html>
