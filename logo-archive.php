@@ -94,19 +94,10 @@
       </div> 
     </div> 
   </div><!-- End Container -->
-
   
+<?php include('cta.php'); ?>
 
-
-    <div class="contact-cta">
-      <p>Let Make Something Awesome.</p>
-      <button>Say Hello</button>
-    </div>  
-
-    <div class="view-work-cta">
-      <p class="view-more"><i class="arrow left"></i>View More Work<i class="arrow right"></i></p>
-    </div>
-    </div><!-- End Container -->
+<?php include('footer.php'); ?>
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

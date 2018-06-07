@@ -106,21 +106,9 @@
 <p class="footnote">Rapt Media was recently acquired by Kaltura <a href="https://techcrunch.com/2018/05/25/kaltura-acquires-rapt-media/" target="_blank">Read More</a></p>
     </div><!-- End Container -->
 
-    <div class="contact-cta u-full-width">
-      <p>Let Make Something Awesome.</p>
-      <button>Say Hello</button>
-    </div>
+<?php include('cta.php'); ?>
 
-      <div class="view-work-cta">
-        <div class="one-half column view-big-biz">
-          <p class="view-more"><a href="#">View More Big Business Work</a></p>
-          <img class="u-full-width" src="http://via.placeholder.com/200x80">
-        </div>
-        <div class="one-half column view-sm-biz">
-          <p class="view-more"><a href="#">View More Small Business Work</a></p>
-          <img class="u-full-width" src="http://via.placeholder.com/200x80">
-        </div>
-       </div>
+<?php include('footer.php'); ?>
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

@@ -10,7 +10,7 @@ ol {
 	list-style: none;
 	padding: 0;
 	margin: 1.5rem 0 5rem 0;
-	line-height: 1.25em;
+/*	line-height: 1.25em;*/
 }
 
 .big-biz li {
@@ -161,6 +161,7 @@ strong {
 }
 
 footer {
+  margin-top: 80px;
   border-top: 1px solid #e4e4e4;
   color: #828282;
   font-size: 0.7em;

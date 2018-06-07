@@ -120,6 +120,8 @@
 
 </div><!-- End Container -->
 
+<?php include('footer.php'); ?>
+
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
