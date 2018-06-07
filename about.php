@@ -46,16 +46,7 @@
     data-animsition-out-class="fade-out-down-sm"
     data-animsition-out-duration="800"
   >
-    <nav>
-      <ul>
-        <a href='index.html' class="brand-logo">Logo</a>
-        <div class="u-pull-right">
-          <li class="brand-nav"><a href='index.html'>Work</a></li>
-          <li class="brand-nav"><a href='about.html'>About</a></li>
-        </div>
-      </ul>
-    </nav>
-
+   <?php include('nav.php'); ?>
 
     <div class="row">
       <div class="ten columns" style="margin-top: 6%">
@@ -115,6 +106,16 @@
             <li><a href="http://coderdojodenver.com/" target="_blank">CoderDojo</a></li>
             <li><a href="#" target="_blank">Project Gilly</a></li>
           </ol>
+  </div>
+
+<div class="row"> 
+  <div class="seven columns testimonials">
+    <h6>Testimonials</h6>
+    <div class="company-name"></div>
+    <p>Christopher is a talented designer who's always thinking about the business needs around the design.</p>
+        <p>Christopher is a talented designer who's always thinking about the business needs around the design.</p>
+            <p>Christopher is a talented designer who's always thinking about the business needs around the design.</p>
+                <p>Christopher is a talented designer who's always thinking about the business needs around the design.</p>
   </div>
 
 </div><!-- End Container -->

@@ -26,6 +26,7 @@
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/css/animsition.min.css">
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -36,18 +37,15 @@
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <div class="container">
-    <nav>
-      <ul>
-        <a href='index.html' class="brand-logo">Logo</a>
-        <div class="u-pull-right">
-          <li class="brand-nav"><a href='index.html'>Work</a></li>
-          <li class="brand-nav"><a href='about.html'>About</a></li>
-        </div>
-      </ul>
-    </nav>
+  <div
+    class="container animsition"
+    data-animsition-in-class="fade-in-down-sm"
+    data-animsition-in-duration="1000"
+    data-animsition-out-class="fade-out-down-sm"
+    data-animsition-out-duration="800"
+  >
+ <?php include('nav.php'); ?>
 
-    </div><!-- End Container For Intro Content -->
 
   <div class="container">
     <div class="row">
@@ -65,6 +63,8 @@
      <div class="wrapper">
         <div class="grid-img"><img src="images/logos/Briefly.png"></div>
         <div class="grid-img"><img src="images/logos/BigF-icon.png"></div>
+        <div class="grid-img"><img src="images/logos/MQ-icon.png"></div>
+        <div class="grid-img"><img src="images/logos/MQ-type.png"></div>
         <div class="grid-img"><img src="images/logos/Burger-Train.png"></div>
         <div class="grid-img"><img src="images/logos/Benkert.png"></div>
         <div class="grid-img"><img src="images/logos/CHT-icon.png"></div>
@@ -110,5 +110,9 @@
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script type="text/javascript" src="js/custom.js"></script>
+  <script type="text/javascript" src="js/animate.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/js/animsition.min.js"></script>
 </body>
 </html>

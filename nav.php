@@ -1,12 +1,9 @@
-<? php
-echo '<nav>';
-echo '<ul>';
-echo '<a href='index.html' class="brand-logo">Logo</a>';
-echo '<div class="u-pull-right">';
-echo '<li class="brand-nav"><a href='index.html'>Work</a></li>';
-echo '<li class="brand-nav"><a href='about.html'>About</a></li>';
-echo '</div>';
-echo '</ul>';
-echo '</nav>';
-echo '';
-?>
+<nav>
+  <ul>
+    <a href='index.php' class="brand-logo">Logo</a>
+    <div class="u-pull-right">
+      <li class="brand-nav"><a href='index.php'>Work</a></li>
+      <li class="brand-nav"><a href='about.php'>About</a></li>
+    </div>
+  </ul>
+</nav>

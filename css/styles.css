@@ -225,7 +225,7 @@ i {
 }
 
 .grid-img {
-  padding: 60px;
+  padding: 40px;
   background-color: #f1f1f1;
   margin: 0 auto;
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
@@ -267,4 +267,8 @@ nav ul li a:hover { opacity: 0.4; }
 /* Animations */
 .thingToAnimate.hidden {
   visibility: hidden;
+}
+
+.testimonials{
+border: 1px solid;
 }

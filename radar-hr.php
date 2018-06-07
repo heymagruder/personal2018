@@ -45,19 +45,11 @@
     data-animsition-out-class="fade-out-down-sm"
     data-animsition-out-duration="800"
   >
-    <nav>
-      <ul>
-        <a href='index.html' class="brand-logo">Logo</a>
-        <div class="u-pull-right">
-          <li class="brand-nav"><a href='index.html'>Work</a></li>
-          <li class="brand-nav"><a href='about.html'>About</a></li>
-        </div>
-      </ul>
-    </nav>
+  <?php include('nav.php'); ?>
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/rapt/rapt-cards.jpg">
+          <img class="u-full-width" src="images/radar/radar-logo-main.jpg">
         </div>
       </div>
 
@@ -65,13 +57,13 @@
     <div class="container u-full-width">
       <div class="row">
         <div class="six columns" style="margin-top: 15%">
-          <h2 class="work-title">Rapt Media</h2>
-          <h6 class="work-role">Marketing, UI/UX, Video Production</h6>
-          <h6 class="work-year">2017</h6>
+          <h2 class="work-title">Radar HR</h2>
+          <h6 class="work-role">Branding</h6>
+          <h6 class="work-year">2016</h6>
         </div>
           <div class="six columns" style="margin-top: 15%">
-            <h5>Launching an interactive video technology.</h5>
-            <p>Working at a startup is both exciting and exhausting. Not only are you working nonstop to build a new technology but sometimes you find yourself laying down the tracks as the train is moving. It's scary. It's exciting. It's motivating. But most of all it's working together to create something new.</p>
+            <h5>Keep your team on the radar.</h5>
+            <p>Radar built a SaaS platform which provides employee performance analytics. What their product was missing was a solid brand identity. Building off their name and mission statement I created an iconic brand system structured around the traditional radar concept.</p>
 
             <p>During my time I was responsible for three major areas: Interactive Video & Production, Product & Content Marketing, and Brand & Visual Language.</p>
           </div>

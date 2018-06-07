@@ -47,15 +47,7 @@
     data-animsition-out-class="fade-out-down-sm"
     data-animsition-out-duration="800"
   >
-    <nav>
-      <ul>
-        <a href='index.html' class="brand-logo">Logo</a>
-        <div class="u-pull-right">
-          <li class="brand-nav"><a href='index.html'>Work</a></li>
-          <li class="brand-nav"><a href='about.html'>About</a></li>
-        </div>
-      </ul>
-    </nav>
+ <?php include('nav.php'); ?>
 
     <div class="row">
       <div class="ten columns" style="margin-top: 6%">
@@ -91,13 +83,13 @@
       <div class="sm-biz one-half column" style="margin-top: 8%">
         <h6 class="biz">Small Business</h6>
           <ol>
-            <li><a href="keyzio.html">Keyzio
+            <li><a href="keyzio.php">Keyzio
             <p class="descriptor-sm">Refining the app user flow.</p>
             </a></li>
-            <li><a href="rapt-media.html">Rapt Media
+            <li><a href="rapt-media.php">Rapt Media
             <p class="descriptor-sm">Helping build an interactive video platform.</p>
             </a></li>
-            <li><a href="radar-hr.html">Radar HR
+            <li><a href="radar-hr.php">Radar HR
             <p class="descriptor-sm">Branding Human Resource.</p>
             </a></li>
             <li><a href="#">Atour Foods
@@ -106,7 +98,7 @@
             <li><a href="#">Fireplace Blocker
             <p class="descriptor-sm">Building trust with a product.</p>
             </a></li>
-            <li><a href="logo-archive.html">Logo Archive
+            <li><a href="logo-archive.php">Logo Archive
             <p class="descriptor-sm">A collection of logos.</p>
             </a></li>
           </ol>
