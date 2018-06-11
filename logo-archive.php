@@ -26,6 +26,7 @@
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/animate.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/css/animsition.min.css">
 
   <!-- Favicon
@@ -46,20 +47,23 @@
   >
  <?php include('nav.php'); ?>
 
-
-  <div class="container">
-    <div class="row">
-        <div class="one-third column" style="margin-top: 10%">
-          <h2 class="work-title">Logo Archive</h2>
-          <h6 class="work-role">Branding, Logo Design</h6>
+    <div class="container u-full-width">
+      <div class="row">
+        <div class="six columns" style="margin-top: 15%">
+          <h2 class="work-title">Keyzio</h2>
+          <h6 class="work-role">Branding, Website, UI, UX</h6>
           <h6 class="work-year">2017</h6>
         </div>
-          <div class="two-thirds column" style="margin-top: 10%">
-            <h5>Logo Design Archive</h5>
-            <p>A great logo is fundamental to a great brand identity. The ability for a logo to stand alone in any application is a principal requirement of every well-considered logo.</p>
+          <div class="six columns" style="margin-top: 15%">
+            <h5>Where Every House is for Sale</h5>
+            <p>Keyzio is altering the way buyers and sellers do real estate. Through thier fresh approach and modern tools, the team of agents are able to provide unrivaled service while saving time and money. These efficiencies are passed on to our clients in the form of lower fees.</p>
           </div>
-    </div>
-    <div class="row" style="margin-top: 8%">
+      </div>
+    </div><!-- End Container For Intro Content -->
+
+
+
+ <div class="row" style="margin-top: 8%">
      <div class="wrapper">
         <div class="grid-img"><img src="images/logos/Briefly.png"></div>
         <div class="grid-img"><img src="images/logos/BigF-icon.png"></div>
@@ -94,7 +98,6 @@
       </div> 
     </div> 
   </div><!-- End Container -->
-  
 <?php include('cta.php'); ?>
 
 <?php include('footer.php'); ?>

@@ -273,3 +273,7 @@ nav ul li a:hover { opacity: 0.4; }
 .testimonials{
 border: 1px solid;
 }
+
+.darker {
+  color: #324142;
+}
