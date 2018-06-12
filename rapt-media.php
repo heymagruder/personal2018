@@ -58,7 +58,7 @@
       <div class="row">
         <div class="six columns" style="margin-top: 15%">
           <h2 class="work-title">Rapt Media</h2>
-          <h6 class="work-role">Marketing, UI/UX, Video Production</h6>
+          <span class="work-role">Marketing, UI/UX, Video Production</span>
           <h6 class="work-year">2017</h6>
         </div>
           <div class="six columns" style="margin-top: 15%">

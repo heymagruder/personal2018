@@ -50,13 +50,13 @@
     <div class="container u-full-width">
       <div class="row">
         <div class="six columns" style="margin-top: 15%">
-          <h2 class="work-title">Keyzio</h2>
-          <h6 class="work-role">Branding, Website, UI, UX</h6>
-          <h6 class="work-year">2017</h6>
+          <h2 class="work-title">Logo Archive</h2>
+          <span class="work-role">Branding, Logo Design</span>
+          <h6 class="work-year">2018</h6>
         </div>
           <div class="six columns" style="margin-top: 15%">
-            <h5>Where Every House is for Sale</h5>
-            <p>Keyzio is altering the way buyers and sellers do real estate. Through thier fresh approach and modern tools, the team of agents are able to provide unrivaled service while saving time and money. These efficiencies are passed on to our clients in the form of lower fees.</p>
+            <!-- <h5>Logo Design Archive</h5> -->
+            <p>A memorable logo is fundamental to a solid brand identity. The ability for a logo to stand alone in any application is a principal requirement of every well-crafted brand.</p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->

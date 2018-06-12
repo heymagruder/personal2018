@@ -58,7 +58,7 @@
       <div class="row">
         <div class="six columns" style="margin-top: 15%">
           <h2 class="work-title">Radar HR</h2>
-          <h6 class="work-role">Branding</h6>
+          <span class="work-role">Branding</span>
           <h6 class="work-year">2016</h6>
         </div>
           <div class="six columns" style="margin-top: 15%">

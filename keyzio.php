@@ -58,7 +58,7 @@
       <div class="row">
         <div class="six columns" style="margin-top: 15%">
           <h2 class="work-title">Keyzio</h2>
-          <h6 class="work-role">Branding, Website, UI, UX</h6>
+          <span class="work-role">Branding, Website, UI, UX</span>
           <h6 class="work-year">2017</h6>
         </div>
           <div class="six columns" style="margin-top: 15%">
