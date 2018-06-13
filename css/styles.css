@@ -180,7 +180,7 @@ footer {
 
 .intro-para {
   font-size: 1.2em;
-  line-height: 0.6px;
+  line-height: 5px;
   color: #738586;
   letter-spacing: 1.1px;
 }
@@ -196,10 +196,9 @@ footer {
 }
 
 .view-work-cta {
-  text-align: center;
   background-color: #fff;
   padding: 80px;
-  height: 360px;
+  height: 600px;
 }
 
 i {

@@ -99,7 +99,7 @@
             <p class="descriptor-sm">Building trust with a product.</p>
             </a></li>
             <li><a href="logo-archive.php">Logo Archive
-            <p class="descriptor-sm">A collection of logos.</p>
+            <p class="descriptor-sm">A collection of logos, icons & brand elements.</p>
             </a></li>
           </ol>
       </div>
