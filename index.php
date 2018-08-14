@@ -54,7 +54,7 @@
         <p class="main-name">Christopher Magruder - Brand &amp; Interface Designer</p>
         <h3 class="intro-text" id="shuffle">Design for Business, <br>Big and Small.</h3>
         <p class="intro-para">Hello. I'm Christopher Magruder, and I'm a designer.</p>
-        <p class="intro-para">I've spent the last decade helping <span class="darker">build brands</span> of all sizes.</p>
+        <p class="intro-para">I've spent the fifteen years helping <span class="darker">build brands</span> of all sizes.</p>
       </div>
     </div>
 

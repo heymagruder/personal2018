@@ -172,7 +172,7 @@ footer {
 }
 
 .main-name {
-  color: #738586;
+  color: #B2B5B9;
   font-size: 0.7em;
   letter-spacing: 1.1px;
   text-transform: uppercase;
@@ -181,7 +181,7 @@ footer {
 .intro-para {
   font-size: 1.2em;
   line-height: 5px;
-  color: #738586;
+  color: #738292;
   letter-spacing: 1.1px;
 }
 
@@ -276,4 +276,5 @@ border: 1px solid;
 
 .darker {
   color: #324142;
+  font-weight: 600;
 }

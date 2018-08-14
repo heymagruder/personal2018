@@ -124,8 +124,8 @@ body {
   font-size: 1.9em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.7;
   font-family: 'Source Sans Pro', Sans-Serif;
-  color: #738586; 
-  background: #F7F7F7;
+  color: #738292; 
+  background: #FFF;
 /*  border: 20px solid #ffffff;*/
 }
 
