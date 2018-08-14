@@ -250,6 +250,7 @@ nav ul li a:hover { opacity: 0.4; }
 	border: 1px solid;
 	padding: 12px;
 	color: #1A9495;
+  font-family: 'Kanit', sans-serif;
 }
 
 .brand-nav {
