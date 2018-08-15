@@ -58,9 +58,14 @@
     <div class="container u-full-width">
       <div class="row">
         <div class="six columns" style="margin-top: 15%">
-          <h2 class="work-title">Keyzio</h2>
-          <span class="work-role">Branding, Website, UI, UX</span>
-          <h6 class="work-year">2017</h6>
+          <div class="project-info">
+              <h2 class="work-title">Keyzio</h2>
+              <p class="work-role">Branding, Product Design</p>
+              <p class="work-data">design team: Designers</p>
+              <div id="circle-sm" class="circle"></div><div id="circle-sm" class="circle"></div>
+              <p class="work-data">project timeframe: Months</p>
+              <div id="circle-sm" class="circle"></div><div id="circle-sm" class="circle"></div>
+          </div>
         </div>
           <div class="six columns" style="margin-top: 15%">
             <h5>Where Every House is for Sale</h5>
