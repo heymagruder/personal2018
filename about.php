@@ -18,6 +18,7 @@
 <!--   <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css"> -->
 
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Kanit:800" rel="stylesheet">
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -58,6 +59,9 @@
 
     <div class="row">
       <div class="ten columns" style="margin-top: 8%">
+                <div class="twelve column">
+          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
+        </div>
         <h3>Let's Talk About Me.</h3>
         <h6>It's a story that's 15 years in the making.</h6>
         <p>I've spent a better part of a decade using design to help. Whether it's been helping users navigate through an experience or helping a startup establish thier brand.</p>

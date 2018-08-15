@@ -55,7 +55,7 @@
         <p class="main-name">Christopher Magruder - Brand &amp; Interface Designer</p>
         <h3 class="intro-text" id="shuffle">Design for Business, <br>Big and Small.</h3>
         <p class="intro-para">Hello. I'm Christopher Magruder, and I'm a designer.</p>
-        <p class="intro-para">I've spent the fifteen years helping <span class="darker">build brands</span> of all sizes.</p>
+        <p class="intro-para">I've spent the last fourteen years helping <span class="darker">build brands</span> of all sizes.</p>
       </div>
     </div>
 
@@ -72,10 +72,10 @@
             <li><a href="#">USAA
             <p class="descriptor">Redefining the Markets &amp; Research experience.</p>
             </a></li>
-            <li><a href="#">PIMCO
+<!--             <li><a href="#">PIMCO
             <p class="descriptor">Global landing page design.</p>
-            </a></li>
-            <li><a href="#">Markit Digital
+            </a></li> -->
+            <li><a href="#">Markit Digital Design
             <p class="descriptor">Building a web presence for a white label company.</p>
             </a></li>
           </ol>
@@ -90,9 +90,9 @@
             <li><a href="rapt-media.php">Rapt Media
             <p class="descriptor-sm">Helping build an interactive video platform.</p>
             </a></li>
-            <li><a href="radar-hr.php">Radar HR
+<!--             <li><a href="radar-hr.php">Radar HR
             <p class="descriptor-sm">Branding Human Resource.</p>
-            </a></li>
+            </a></li> -->
             <li><a href="#">Atour Foods
             <p class="descriptor-sm">Moving from a kitchen to a dairy.</p>
             </a></li>

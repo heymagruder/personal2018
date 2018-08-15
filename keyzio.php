@@ -20,6 +20,7 @@
   -->
 
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Kanit:800" rel="stylesheet">
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -49,7 +50,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="http://via.placeholder.com/1200x800">
+          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
         </div>
       </div>
 

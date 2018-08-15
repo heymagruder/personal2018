@@ -255,6 +255,10 @@ nav ul li a:hover { opacity: 0.4; }
   font-weight: 800;
 }
 
+a.brand-logo {
+  text-decoration: none;
+}
+
 .brand-nav {
 	font-size: 1.0em;
   padding: 10px;
