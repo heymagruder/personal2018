@@ -61,7 +61,7 @@
       <div class="six columns about-me" style="margin-top: 8%">
         <h3>Let's Talk About Me.</h3>
         <h6>It's a story that's 15 years in the making.</h6>
-        <p>I've spent a better part of a decade using design to help. Whether it's been helping users navigate through an experience or helping a startup establish thier brand.</p>
+        <p>I've spent a better part of a decade using design to help. Whether it's helping users navigate through an experience or helping a startup establish thier brand.</p>
 
         <p>Hello, I’m Christopher Magruder, a traditionally trained and digitally focused designer with over a decade of experience delivering user-centered design. I’ve combined my passion for design and technology to create engaging and interactive experiences for brands of all sizes.</p>
       </div>
