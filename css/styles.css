@@ -5,6 +5,11 @@
   color: #1dc7d0;
 }
 
+.about-me {
+  font-size: 22px;
+  font-weight: 200;
+  line-height: 40px;
+}
 
 ol {
 	list-style: none;

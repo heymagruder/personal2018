@@ -17,7 +17,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 <!--   <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css"> -->
 
-  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:300,400,700" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Kanit:800" rel="stylesheet">
 
   <!-- CSS
@@ -58,16 +58,14 @@
 
 
     <div class="row">
-      <div class="ten columns" style="margin-top: 8%">
-                <div class="twelve column">
-          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
-        </div>
+      <div class="six columns about-me" style="margin-top: 8%">
         <h3>Let's Talk About Me.</h3>
         <h6>It's a story that's 15 years in the making.</h6>
         <p>I've spent a better part of a decade using design to help. Whether it's been helping users navigate through an experience or helping a startup establish thier brand.</p>
 
         <p>Hello, I’m Christopher Magruder, a traditionally trained and digitally focused designer with over a decade of experience delivering user-centered design. I’ve combined my passion for design and technology to create engaging and interactive experiences for brands of all sizes.</p>
-
+      </div>
+      <div class="six columns" style="margin-top: 8%">
         <p>I'm a designer focused on crafting memorable brand experiences. I live in beautiful Colorado with my wife, two sons and a couple of rescue dogs. I'm passionate about design, technology, hockey, the outdoors, building / breaking / making things and vintage 4x4's.</p>
 
         <p>Over the past 14 years I've had the privilege of working with countless clients ranging from startups to global brands. I bring a lot to the table, from running my own business to working within an agency and most recently helping a startup pioneer a new technology. Between brand, digital, product and marketing – I’ve worked in and delivered it all. I've spent my life helping other people succeed and it's something that I truly enjoy.</p>
