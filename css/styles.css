@@ -5,6 +5,11 @@
   color: #1dc7d0;
 }
 
+.about-me {
+  font-size: 22px;
+  font-weight: 200;
+  line-height: 40px;
+}
 
 ol {
 	list-style: none;
@@ -129,6 +134,10 @@ strong {
   padding-bottom: 5rem;
 }
 
+.project-info {
+  line-height: 1.8px;
+}
+
 .work-list {
 	font-size: 1.4em;
   padding: 0;
@@ -142,16 +151,22 @@ strong {
 }
 
 .work-title {
-  font-size: 2.4em;
+  font-size: 2.0em;
   color: #1dc7d0;
-  line-height: 19px;
-}
+  line-height: 25px;
+  padding-bottom: 10px;
+}s
 
 .work-role {
-  font-size: 1.0em;
+  font-size: 0.9em;
   color: #979a9a;
-  letter-spacing: 0.9px;
 }
+
+.work-data {
+  font-size: 0.7em;
+  color: #979a9a;
+}
+
 
 .work-year {
   font-size: 0.9em;
@@ -159,6 +174,18 @@ strong {
   line-height: 25px;
   font-style: italic;
   font-family: 'Playfair Display', Serif;
+}
+
+.circle {
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#circle-sm {
+  width: 15px;
+  height: 15px;
+  background: #cdcdcd;
 }
 
 footer {
@@ -246,11 +273,17 @@ nav ul li a:visited { color: black; }
 nav ul li a:hover { opacity: 0.4; }
 
 .brand-logo {
-	text-decoration: none;
-	border: 1px solid;
-	padding: 12px;
-	color: #1A9495;
+  color: #666;
   font-family: 'Kanit', sans-serif;
+  text-align: left;
+  font-size: 2em;
+  line-height: 2px;
+  text-decoration: none;
+  font-weight: 800;
+}
+
+a.brand-logo {
+  text-decoration: none;
 }
 
 .brand-nav {
@@ -279,3 +312,20 @@ border: 1px solid;
   color: #324142;
   font-weight: 600;
 }
+
+
+/* ----------------------------- */
+/* == Media */
+/* ----------------------------- */
+
+
+@media only screen and (max-width: 950px) {
+    .intro-para {
+    font-size: 1.2em;
+    color: #738292;
+    letter-spacing: 1.1px;
+    line-height: 25px;
+    }
+}
+
+

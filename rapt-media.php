@@ -20,6 +20,7 @@
   -->
 
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Kanit:800" rel="stylesheet">
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -57,9 +58,17 @@
     <div class="container u-full-width">
       <div class="row">
         <div class="six columns" style="margin-top: 15%">
+<<<<<<< HEAD
           <h2 class="work-title">Rapt Media</h2>
           <p class="work-role">Marketing, UI/UX, Video Production</p>
           <p class="work-year">2016-2017</p>
+=======
+           <div class="project-info">
+              <h2 class="work-title">Rapt Media</h2>
+              <p class="work-role">Marketing, UI/UX, Video Production</p>
+              <p class="work-data">2016 - 2017</p>
+          </div>
+>>>>>>> 96c08aea3b5d67db1603354e9bb675aa4a50ddae
         </div>
           <div class="six columns" style="margin-top: 15%">
             <h5>Launching an interactive video technology.</h5>

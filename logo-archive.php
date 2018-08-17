@@ -20,6 +20,7 @@
   -->
 
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Kanit:800" rel="stylesheet">
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -56,7 +57,7 @@
         </div>
           <div class="six columns" style="margin-top: 15%">
             <!-- <h5>Logo Design Archive</h5> -->
-            <p>A memorable logo is fundamental to a solid brand identity. The ability for a logo to stand alone in any application is a principal requirement of every well-crafted brand.</p>
+            <p>Memorable logos are paramont to a solid brand identities. The ability for a logo to stand alone, in any application, is a principal requirement of every well-crafted brand.</p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
@@ -90,6 +91,7 @@
         <div class="grid-img"><img src="images/logos/Push2Me.png"></div>
         <div class="grid-img"><img src="images/logos/refresh.png"></div>
         <div class="grid-img"><img src="images/logos/Rolling-Sans.png"></div>
+        <div class="grid-img"><img src="images/logos/radarhr.png"></div>
         <div class="grid-img"><img src="images/logos/SmartCrops.png"></div>
         <div class="grid-img"><img src="images/logos/upstack.png"></div>
         <div class="grid-img"><img src="images/logos/WaterWaveDrip.png"></div>

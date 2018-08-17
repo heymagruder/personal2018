@@ -20,6 +20,7 @@
   -->
 
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Kanit:800" rel="stylesheet">
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -103,7 +104,6 @@
       <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
     </div>
   </div> --><!-- Animate CSS image group - End Container -->
-<p class="footnote">Rapt Media was recently acquired by Kaltura <a href="https://techcrunch.com/2018/05/25/kaltura-acquires-rapt-media/" target="_blank">Read More</a></p>
     </div><!-- End Container -->
 
 <?php include('cta.php'); ?>
