@@ -58,9 +58,11 @@
     <div class="container u-full-width">
       <div class="row">
         <div class="six columns" style="margin-top: 15%">
-          <h2 class="work-title">Rapt Media</h2>
-          <span class="work-role">Marketing, UI/UX, Video Production</span>
-          <h6 class="work-year">2017</h6>
+           <div class="project-info">
+              <h2 class="work-title">Rapt Media</h2>
+              <p class="work-role">Marketing, UI/UX, Video Production</p>
+              <p class="work-data">2016 - 2017</p>
+          </div>
         </div>
           <div class="six columns" style="margin-top: 15%">
             <h5>Launching an interactive video technology.</h5>
