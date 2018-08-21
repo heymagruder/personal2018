@@ -63,7 +63,7 @@
     </div><!-- End Container For Intro Content -->
 
 
-
+<div class="container">
  <div class="row" style="margin-top: 8%">
      <div class="wrapper">
         <div class="grid-img"><img src="images/logos/Briefly.png"></div>
