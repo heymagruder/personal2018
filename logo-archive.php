@@ -82,6 +82,7 @@
         <div class="grid-img"><img src="images/logos/GameSale.png"></div>
         <div class="grid-img"><img src="images/logos/Golden-2.png"></div>
         <div class="grid-img"><img src="images/logos/GreenOverGrey.png"></div>
+        <div class="grid-img"><img src="images/logos/GreatLakes.png"></div>
         <div class="grid-img"><img src="images/logos/F-Icon.png"></div>
         <div class="grid-img"><img src="images/logos/iradon.png"></div>
         <div class="grid-img"><img src="images/logos/Listzu-2.png"></div>

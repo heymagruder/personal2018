@@ -65,7 +65,7 @@
           </div>
         </div>
           <div class="six columns" style="margin-top: 15%">
-            <h5>Where Every House is for Sale</h5>
+            <h5>Where Every House Is For Sale</h5>
             <p>Keyzio is altering the way buyers and sellers do real estate. Through thier fresh approach and modern tools, the team of agents are able to provide unrivaled service while saving time and money. These efficiencies are passed on to our clients in the form of lower fees.</p>
           </div>
       </div>
@@ -77,22 +77,22 @@
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="http://via.placeholder.com/500x225">
+          <img class="u-full-width" src="http://via.placeholder.com/800x600">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 4%">
         <div class="one-half column">
-          <img class="u-full-width" src="http://via.placeholder.com/500x600">
+          <img class="u-full-width" src="http://via.placeholder.com/400x300">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="http://via.placeholder.com/500x600">
+          <img class="u-full-width" src="http://via.placeholder.com/400x300">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="http://via.placeholder.com/400x500">
+          <img class="u-full-width" src="http://via.placeholder.com/800x600">
         </div>
       </div>
       <!-- End Grid Demo -->
