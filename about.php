@@ -56,6 +56,12 @@
       </div>
     </div>
 
+    <div class="row">
+      <div class="eight columns">
+        <img src="images/about/SweetJumpKick-sm.png">
+      </div>
+    </div>
+
 
     <div class="row">
       <div class="six columns about-me" style="margin-top: 8%">
@@ -97,8 +103,10 @@
               <strong class="jobtitle">Design Director</strong>, Forte
             </li>
           </ol>
-  </div>
-  <div class="row">   
+      </div>
+
+
+  
       <div class="one-third column" style="margin-top: 8%">
         <h5>Side Projects</h5>
           <ol>
@@ -108,17 +116,69 @@
             <li><a href="http://coderdojodenver.com/" target="_blank">CoderDojo</a></li>
             <li><a href="#" target="_blank">Project Gilly</a></li>
           </ol>
+      </div>
   </div>
 
-<!-- <div class="row"> 
-  <div class="seven columns testimonials">
-    <h6>Testimonials</h6>
-    <div class="company-name"></div>
-    <p>Christopher is a talented designer who's always thinking about the business needs around the design.</p>
-        <p>Christopher is a talented designer who's always thinking about the business needs around the design.</p>
-            <p>Christopher is a talented designer who's always thinking about the business needs around the design.</p>
-                <p>Christopher is a talented designer who's always thinking about the business needs around the design.</p>
-  </div> -->
+</div><!-- End Container -->
+
+   <div class="trust-bar u-full-width">
+    <div class="container">
+    <h6>Trust Bar of Logos</h6>
+        <div class="grid-client-logos">
+          <img src="images/clients/netflix.svg">
+          <img src="images/clients/netflix.svg">
+          <img src="images/clients/netflix.svg">
+          <img src="images/clients/netflix.svg">
+          <img src="images/clients/netflix.svg">
+          <img src="images/clients/netflix.svg">
+          <img src="images/clients/netflix.svg">
+          <img src="images/clients/netflix.svg">
+          <img src="images/clients/netflix.svg">
+          <img src="images/clients/netflix.svg">
+          <img src="images/clients/netflix.svg">
+          <img src="images/clients/netflix.svg">
+        </div> 
+      </div> 
+</div><!-- End Container --> 
+
+
+<div class="container">
+
+<div class="row"> 
+  <div class="tweleve columns testimonials">
+    <h6>Nice things people say about me</h6>
+
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width slides/quotes -->
+  <div class="mySlides">
+    <q>Christopher is a talented designer who's always thinking about the business needs around the design.</q>
+    <p class="author">- Caleb Hanson, VP Product, Rapt Media</p>
+  </div>
+
+  <div class="mySlides">
+    <q>But man is not made for defeat. A man can be destroyed but not defeated.</q>
+    <p class="author">- Ernest Hemingway</p>
+  </div>
+
+  <div class="mySlides">
+    <q>I have not failed. I've just found 10,000 ways that won't work.</q>
+    <p class="author">- Thomas A. Edison</p>
+  </div>
+
+  <!-- Next/prev buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+
+<!-- Dots/bullets/indicators -->
+<div class="dot-container">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+</div>
 
 </div><!-- End Container -->
 
@@ -129,6 +189,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
   <script type="text/javascript" src="js/custom.js"></script>
+  <script type="text/javascript" src="js/slider.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/js/animsition.min.js"></script>
 </body>
 </html>
