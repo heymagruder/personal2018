@@ -73,22 +73,27 @@
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="http://via.placeholder.com/800x600">
+          <img class="u-full-width" src="images/keyzio/keyzio-icon-logo.png">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 4%">
         <div class="one-half column">
-          <img class="u-full-width" src="http://via.placeholder.com/400x300">
+          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="http://via.placeholder.com/400x300">
+          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="http://via.placeholder.com/800x600">
+          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
+        </div>
+      </div>
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
         </div>
       </div>
       <!-- End Grid Demo -->
