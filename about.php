@@ -123,13 +123,13 @@
 
    <div class="trust-bar u-full-width">
     <div class="container">
-    <h6>Trust Bar of Logos</h6>
+    <h5>Great People Make Great Work</h5>
         <div class="grid-client-logos">
+          <img src="images/clients/Ping.svg">
           <img src="images/clients/netflix.svg">
-          <img src="images/clients/netflix.svg">
-          <img src="images/clients/netflix.svg">
-          <img src="images/clients/netflix.svg">
-          <img src="images/clients/netflix.svg">
+          <img src="images/clients/Google.svg">
+          <img src="images/clients/USAA.svg">
+          <img src="images/clients/MorganStanley.svg">
           <img src="images/clients/netflix.svg">
           <img src="images/clients/netflix.svg">
           <img src="images/clients/netflix.svg">

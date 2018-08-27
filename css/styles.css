@@ -246,20 +246,21 @@ i {
 }
 
 
-.wrapper {
+.wrapper { 
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(399px, 1fr));
-  grid-gap: 4vw;
-}
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  grid-gap: 100px;
+  align-items: stretch;
+  grid-row-gap: 4em;
+  }
 
-.grid-img {
-  padding: 40px;
+.grid-img img {
+  padding: 20px;
   background-color: #f1f1f1;
   margin: 0 auto;
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
 }
-
 
 /* ----------------------------- */
 /* == Nav */
@@ -316,7 +317,12 @@ a.brand-logo {
 .trust-bar {
   padding-top: 100px;
   background-color: #eaeaea;
-  height: 440px;
+  height: 700px;
+}
+
+.trust-bar h5 {
+  padding-bottom: 60px;
+  text-align: center;
 }
 
 .grid-client-logos { 
@@ -330,6 +336,8 @@ a.brand-logo {
 .grid-client-logos img {
   color: #fff;
   max-width: 100%;
+  filter: grayscale(100%);
+  opacity: 0.4;
 }
 
 
