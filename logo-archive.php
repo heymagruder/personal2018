@@ -15,10 +15,6 @@
 
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <!--
-    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
-  -->
-
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:400,700" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Kanit:800" rel="stylesheet">
 
@@ -101,6 +97,7 @@
       </div> 
     </div> 
   </div><!-- End Container -->
+  
 <?php include('cta.php'); ?>
 
 <?php include('footer.php'); ?>

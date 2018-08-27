@@ -15,11 +15,7 @@
 
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <!--
-    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
-  -->
-
-  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:400,700" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:400,700" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Kanit:800" rel="stylesheet">
 
   <!-- CSS
@@ -58,17 +54,11 @@
     <div class="container u-full-width">
       <div class="row">
         <div class="six columns" style="margin-top: 15%">
-<<<<<<< HEAD
-          <h2 class="work-title">Rapt Media</h2>
-          <p class="work-role">Marketing, UI/UX, Video Production</p>
-          <p class="work-year">2016-2017</p>
-=======
-           <div class="project-info">
+          <div class="project-info">
               <h2 class="work-title">Rapt Media</h2>
-              <p class="work-role">Marketing, UI/UX, Video Production</p>
-              <p class="work-data">2016 - 2017</p>
+              <p class="work-role">Design, Branding, Product Design</p>
+              <p class="work-data">2016-2017</p>
           </div>
->>>>>>> 96c08aea3b5d67db1603354e9bb675aa4a50ddae
         </div>
           <div class="six columns" style="margin-top: 15%">
             <h5>Launching an interactive video technology.</h5>
@@ -79,39 +69,32 @@
       </div>
     </div><!-- End Container For Intro Content -->
 
-
-
-<!-- Grid Demo
-      –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="http://via.placeholder.com/500x225">
+          <img class="u-full-width" src="images/rapt/rapt-icons.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 4%">
         <div class="one-half column">
-          <img class="u-full-width" src="http://via.placeholder.com/500x600">
+          <img class="u-full-width" src="images/rapt/rapt-foc-spread.jpg">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="http://via.placeholder.com/500x600">
+          <img class="u-full-width" src="images/rapt/rapt-foc-spread.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="http://via.placeholder.com/400x500">
+          <img class="u-full-width" src="images/rapt/rapt-ny.jpg">
         </div>
       </div>
-      <!-- End Grid Demo -->
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/rapt/rapt-sites2.jpg">
+        </div>
+      </div>
 
-<!--   <div class="container scrollTarget">
-    <div class="row thingToAnimate hidden">
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-    </div>
-  </div> --><!-- Animate CSS image group - End Container -->
 <p class="footnote">Rapt Media was recently acquired by Kaltura <a href="https://techcrunch.com/2018/05/25/kaltura-acquires-rapt-media/" target="_blank">Read More</a></p>
     </div><!-- End Container -->
 
