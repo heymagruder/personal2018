@@ -1,5 +1,5 @@
 <div class="contact-cta u-full-width">
-  <p>Let's Make Something Awesome.</p>
+  <p>Let's Make Something Awesome Today.</p>
   <button>Say Hello</button>
 </div>
 

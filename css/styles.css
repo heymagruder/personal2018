@@ -1,14 +1,15 @@
 .intro-text{
   font-size: 4.2em;
-  line-height: 75px;
+  line-height: 85px;
   padding-bottom: 30px;
   color: #1dc7d0;
 }
 
 .about-me {
-  font-size: 22px;
-  font-weight: 200;
+  font-size: 26px;
+  font-weight: 100;
   line-height: 40px;
+  color: #9da9b5;
 }
 
 ol {
@@ -207,7 +208,7 @@ footer {
 
 .intro-para {
   font-size: 1.2em;
-  line-height: 5px;
+  line-height: 10px;
   color: #738292;
   letter-spacing: 1.1px;
 }
@@ -216,7 +217,7 @@ footer {
   text-align: center;
   font-family: 'Playfair Display', Serif;
   color: #fff;
-  font-size: 1.6em;
+  font-size: 2.1em;
   margin-top: 100px;
   background-color: #1dc7d0;
   padding: 120px;
@@ -416,12 +417,12 @@ q {font-style: italic;}
 /* ----------------------------- */
 
 
-@media only screen and (max-width: 950px) {
+@media only screen and (max-width: 1058px) {
     .intro-para {
     font-size: 1.2em;
     color: #738292;
     letter-spacing: 1.1px;
-    line-height: 25px;
+    line-height: 30px;
     }
 }
 

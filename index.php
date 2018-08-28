@@ -15,9 +15,7 @@
 
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<!--   <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css"> -->
-
-  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:400,700,100" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Kanit:800" rel="stylesheet">
 
   <!-- CSS
@@ -63,7 +61,7 @@
       <div class="big-biz one-half column" style="margin-top: 8%">
         <h6 class="biz">Big Business</h6>
         <ol>
-            <li><a href="#">IHS Markit
+            <li><a href="ihsmarkit.php">IHS Markit
               <p class="descriptor">Helping two business merge into one.</p>
             </a></li>
             <li><a href="#">Morgan Stanley

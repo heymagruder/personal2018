@@ -60,7 +60,7 @@
 
 
 <div class="container">
- <div class="row" style="margin-top: 8%">
+ <div class="row" style="margin-top: 12%">
      <div class="wrapper">
         <div class="grid-img"><img src="images/logos/Briefly.png"></div>
         <div class="grid-img"><img src="images/logos/BigF-icon.png"></div>
@@ -95,8 +95,8 @@
         <div class="grid-img"><img src="images/logos/we-work-nights.png"></div>
         <div class="grid-img"><img src="images/logos/Zenubu.png"></div>
       </div> 
-    </div> 
-  </div><!-- End Container -->
+  </div> 
+</div><!-- End Container -->
   
 <?php include('cta.php'); ?>
 
