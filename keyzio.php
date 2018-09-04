@@ -56,13 +56,14 @@
         <div class="six columns" style="margin-top: 15%">
           <div class="project-info">
               <h2 class="work-title">Keyzio</h2>
-              <p class="work-role">Branding, Product Design</p>
+              <p class="work-role">Art Direction, Branding, Product Design, Print</p>
               <p class="work-data">2016-2017</p>
           </div>
         </div>
           <div class="six columns" style="margin-top: 15%">
             <h5>Where Every House Is For Sale</h5>
-            <p>Keyzio is altering the way buyers and sellers do real estate. Through thier fresh approach and modern tools, the team of agents are able to provide unrivaled service while saving time and money. These efficiencies are passed on to our clients in the form of lower fees.</p>
+            <p>Keyzio is a nationwide, consumer-to-consumer real estate marketplace where buyers and sellers connect with each other directly and optionally get the specific help they need to close the deal through our in-house and partner agents.</p>
+            <p>I helped improve the overall user experaince on their mobile app and marketing site. I also provide art direction on their sales and marketing materials. Lastly, I refined thier logo to help sell the idea. </p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
