@@ -128,7 +128,7 @@
           <img src="images/clients/USAA.svg">
           <img src="images/clients/MorganStanley.svg">
           <img src="images/clients/lrxd.svg">
-          <img src="images/clients/netflix.svg">
+          <img src="images/clients/spiredigital.svg">
           <img src="images/clients/netflix.svg">
           <img src="images/clients/netflix.svg">
           <img src="images/clients/netflix.svg">
