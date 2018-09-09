@@ -46,7 +46,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-           <img class="u-full-width" src="images/colorado/14ers-logo-main.jpg">
+           <img class="u-full-width" src="images/bauer/bauervapor-hero.jpg">
         </div>
       </div>
 
@@ -55,21 +55,19 @@
       <div class="row">
         <div class="six columns" style="margin-top: 15%">
           <div class="project-info">
-              <h2 class="work-title">Colorado 14ers</h2>
+              <h2 class="work-title">Bauer Vapors</h2>
               <p class="work-role">Visual Design</p>
-              <p class="work-data">2016</p>
+              <p class="work-data">2017</p>
           </div>
         </div>
           <div class="six columns" style="margin-top: 15%">
-            <h5>Gain The Summit</h5>
+            <h5>Perform Like A Pro</h5>
             
-              <p>14ers.com has it all, it's home to Colorado's highest peaks. Fifty-four to be exact. More than 140 routes and hundreds of thousands of feet in elevation.</p>
+              <p>Passion projects keep the skills sharp. They allow you to push boundaries and comfort levels. It’s an opportunity to get outside the normal restraints that sometimes come along from client work.</p>
 
-              <p>Each peak and hiking route contains detailed directions, maps, satellite imagery, elevations, and a ton of photos. It's an online 14er guidebook that is constantly updated by the dedicated users.</p>
+              <p>I have played hockey all my life. That means I've watched the evolution of the sport and with it the advancement of the equipment. When I came across these Bauer Vapors it sparked a burst of creative energy. A few minutes later I was feverishly sketching out a wireframe and pulling it into my computer to layout the page.</p>
 
-              <p>As one of those users, I absolutely love the site. There is tons of great information that is being updated daily. You can find the most relevant and up-to-date info on just about any trail in Colorado. That's awesome. What's not awesome is the design and overall look of the site. It's easy on the information, but a bit rough on the eyes.</p>
-
-              <p>I wanted to change that and set out to redesign a few pages to make them modern and visually engaging. I also wanted to update the current logo to reflect the new direction and give site a cohesive feel.</p>
+              <p>The result was something that wasn't planned. It didn't have months of research and competitive analysis. It's wasn't something that an entire team poured weeks of sleepless nights into. It was the result of a passion for a product and few hours work. One of the best creative exercises I've had.</p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
@@ -80,7 +78,7 @@
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/colorado/14ers-logo-main.jpg">
+          <img class="u-full-width" src="images/bauer/bauervapor-site.jpg">
         </div>
       </div>
       <br/>
@@ -95,18 +93,7 @@
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/colorado/14ers-site1.jpg">
-        </div>
-      </div>
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column work-quote">
-            <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
-            <p>-Caleb Hanson, VP Product, Rapt Media</p>
-        </div>
-      </div>
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/colorado/14ers-site2.jpg">
+          <img class="u-full-width" src="images/bauer/bauer-responsive.jpg">
         </div>
       </div>
       <!-- End Grid Demo -->
@@ -118,7 +105,7 @@
       <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
     </div>
   </div> --><!-- Animate CSS image group - End Container -->
-
+<p class="footnote">This concept is in no way associated BAUER Hockey, Inc. and its affiliates.</p>
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
 

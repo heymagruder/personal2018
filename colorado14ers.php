@@ -46,7 +46,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-           <img class="u-full-width" src="images/colorado/14ers-logo-main.jpg">
+           <img class="u-full-width" src="images/colorado/14ers-hero.jpg">
         </div>
       </div>
 
@@ -57,7 +57,7 @@
           <div class="project-info">
               <h2 class="work-title">Colorado 14ers</h2>
               <p class="work-role">Visual Design</p>
-              <p class="work-data">2016</p>
+              <p class="work-data">2017</p>
           </div>
         </div>
           <div class="six columns" style="margin-top: 15%">

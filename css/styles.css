@@ -13,12 +13,10 @@
   color: #9da9b5;
 }
 
-/*.about-me-photo  {
-  background-color: #cccccc;
+.about-me-photo  {
   padding: 40px;
 
 }
-*/
 
 .about-me-photo img {
   -webkit-box-shadow: 0px 47px 100px 20px rgba(200,200,200,0.4);
@@ -346,6 +344,7 @@ a[href]:not(.brand-logo) {
 .trust-bar {
   padding: 100px 0;
   background-color: #eaeaea;
+  margin: 60px 0px;
 }
 
 .trust-bar h5 {

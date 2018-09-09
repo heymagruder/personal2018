@@ -97,7 +97,7 @@
             </li>
             <li>
               <span class="date">2012 &mdash; 2014</span>
-              <strong class="jobtitle">Design Director</strong>, Forte
+              <strong class="jobtitle">Design Director</strong>, Forte Information Systems
             </li>
           </ol>
       </div>
@@ -129,11 +129,6 @@
           <img src="images/clients/MorganStanley.svg">
           <img src="images/clients/lrxd.svg">
           <img src="images/clients/spiredigital.svg">
-          <img src="images/clients/netflix.svg">
-          <img src="images/clients/netflix.svg">
-          <img src="images/clients/netflix.svg">
-          <img src="images/clients/netflix.svg">
-          <img src="images/clients/netflix.svg">
         </div> 
       </div> 
 </div><!-- End Container --> 

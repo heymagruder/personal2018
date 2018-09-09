@@ -73,8 +73,11 @@
             <li><a href="#">PIMCO
             <p class="descriptor">Global landing page design.</p>
             </a></li>
-            <li><a href="#">Markit Digital Design
+<!--             <li><a href="#">Markit Digital Design
             <p class="descriptor">Building a web presence for a white label company.</p>
+            </a></li> -->
+            <li><a href="bauer.php">Bauer Hockey
+            <p class="descriptor">A passion project</p>
             </a></li>
           </ol>
       </div>
@@ -83,7 +86,7 @@
         <h6 class="biz">Small Business</h6>
           <ol>
             <li><a href="keyzio.php">Keyzio
-            <p class="descriptor-sm">Refining the app user flow.</p>
+            <p class="descriptor-sm">Improving the user experience.</p>
             </a></li>
             <li><a href="rapt-media.php">Rapt Media
             <p class="descriptor-sm">Helping build an interactive video platform.</p>
@@ -92,7 +95,7 @@
             <p class="descriptor-sm">Redesigning Colorado's best online hiking resource.</p>
             </a></li>
             <li><a href="#">Atour Foods
-            <p class="descriptor-sm">Moving from a kitchen to a dairy.</p>
+            <p class="descriptor-sm">Branding a business from a kitchen to a dairy.</p>
             </a></li>
             <li><a href="#">Fireplace Blocker
             <p class="descriptor-sm">Building trust with a product.</p>
