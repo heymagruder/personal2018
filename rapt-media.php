@@ -56,7 +56,7 @@
         <div class="six columns" style="margin-top: 15%">
           <div class="project-info">
               <h2 class="work-title">Rapt Media</h2>
-              <p class="work-role">Design, Branding, Product Design</p>
+              <p class="work-role">Design, Branding, Marketing, Product Design</p>
               <p class="work-data">2016-2017</p>
           </div>
         </div>
@@ -89,6 +89,12 @@
           <img class="u-full-width" src="images/rapt/rapt-ny.jpg">
         </div>
       </div>
+        <div class="row" style="margin-top: 10%">
+          <div class="twelve column work-quote">
+              <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
+              <p>-Caleb Hanson, VP Product, Rapt Media</p>
+          </div>
+        </div>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/rapt/rapt-sites2.jpg">

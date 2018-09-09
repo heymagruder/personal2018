@@ -15,7 +15,7 @@
 
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-   <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900|Source+Sans+Pro:400,700,100" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900|Source+Sans+Pro:400,700,100" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Kanit:800" rel="stylesheet">
 
   <!-- CSS
@@ -46,7 +46,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-nasdaq.jpg">
+           <img class="u-full-width" src="images/colorado/14ers-logo-main.jpg">
         </div>
       </div>
 
@@ -55,23 +55,21 @@
       <div class="row">
         <div class="six columns" style="margin-top: 15%">
           <div class="project-info">
-              <h2 class="work-title">IHS Markit</h2>
-              <p class="work-role">Website Design, User Experience, User Interface</p>
-              <p class="work-data">2017-2018</p>
+              <h2 class="work-title">Colorado 14ers</h2>
+              <p class="work-role">Visual Design</p>
+              <p class="work-data">2016</p>
           </div>
         </div>
           <div class="six columns" style="margin-top: 15%">
-            <h5>A wider picture, a deeper focus.</h5>
-             <p>IHS Markit (Nasdaq: INFO) delivers data and analytics to customers in business, finance and government, improving operational efficiency and providing business insights for global decision makers.p>
+            <h5>Gain The Summit</h5>
             
-            <p>I worked with a internal team of three designers, C level skakeholder and marketing team staff and our CEO to create a site that married the two business together after our year long merger.</p>
-           
+              <p>14ers.com has it all, it's home to Colorado's highest peaks. Fifty-four to be exact. More than 140 routes and hundreds of thousands of feet in elevation.</p>
 
-            <p>When IHS and Markit on Demand was neraly completed with their year long merger, it was time to start working on a new site that allowed the two business to start becoming one.</p>
+              <p>Each peak and hiking route contains detailed directions, maps, satellite imagery, elevations, and a ton of photos. It's an online 14er guidebook that is constantly updated by the dedicated users.</p>
 
-            <p>With nearly 3000 products in over 20 verticals and two weeks of discovery, definition, stakeholder interview and findings document, the challenge was evident.</p> 
-            <p>Not only did we need to combine the two sites but we also needed to think about the technology behind both sites.</p>
+              <p>As one of those users, I absolutely love the site. There is tons of great information that is being updated daily. You can find the most relevant and up-to-date info on just about any trail in Colorado. That's awesome. What's not awesome is the design and overall look of the site. It's easy on the information, but a bit rough on the eyes.</p>
 
+              <p>I wanted to change that and set out to redesign a few pages to make them modern and visually engaging. I also wanted to update the current logo to reflect the new direction and give site a cohesive feel.</p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
@@ -82,38 +80,33 @@
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-02.jpg">
+          <img class="u-full-width" src="images/colorado/14ers-logo-main.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 4%">
         <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-01.jpg">
+          <img class="u-full-width" src="images/colorado/14ers-logo-type.jpg">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-03.jpg">
+          <img class="u-full-width" src="images/colorado/14ers-logo-type.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
-        <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-04.jpg">
-        </div>
-        <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-05.jpg">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/colorado/14ers-site1.jpg">
         </div>
       </div>
-      
       <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
             <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
             <p>-Caleb Hanson, VP Product, Rapt Media</p>
         </div>
       </div>
-
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-nasdaq.jpg">
+          <img class="u-full-width" src="images/colorado/14ers-site2.jpg">
         </div>
       </div>
       <!-- End Grid Demo -->

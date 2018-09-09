@@ -155,8 +155,8 @@
   </div>
 
   <div class="mySlides">
-    <q>But man is not made for defeat. A man can be destroyed but not defeated.</q>
-    <p class="author">- Ernest Hemingway</p>
+    <q>What sets Christopher apart is his passion for design and his natural curiosity for developing compelling solutions. </q>
+    <p class="author">- Ben Dybas, Creative Director - Bearings Branding</p>
   </div>
 
   <div class="mySlides">

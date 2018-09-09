@@ -56,6 +56,7 @@ ol {
 .view-sm-biz {
   font-size: 1.2em;
   padding: 80px;
+  text-align: right;
 }
 
 .descriptor {
@@ -229,10 +230,15 @@ footer {
   font-weight: 400;
 }
 
+.work-quote {
+  text-align: center;
+  font-family: 'Playfair Display', Serif;
+  padding: 100px;
+}
+
 .view-work-cta {
-  background-color: #fff;
-  padding: 80px;
-  height: 600px;
+  height: 200px;
+  margin: 150px 0px;
 }
 
 i {
@@ -445,3 +451,12 @@ q {font-style: italic;}
     line-height: 30px;
     }
 }
+
+@media only screen and (max-width: 900px) {
+    .work-quote {
+  text-align: center;
+  font-family: 'Playfair Display', Serif;
+  }
+}
+
+

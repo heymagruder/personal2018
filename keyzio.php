@@ -62,8 +62,10 @@
         </div>
           <div class="six columns" style="margin-top: 15%">
             <h5>Where Every House Is For Sale</h5>
+            
             <p>Keyzio is a nationwide, consumer-to-consumer real estate marketplace where buyers and sellers connect with each other directly and optionally get the specific help they need to close the deal through our in-house and partner agents.</p>
-            <p>I helped improve the overall user experaince on their mobile app and marketing site. I also provide art direction on their sales and marketing materials. Lastly, I refined thier logo to help sell the idea. </p>
+            
+            <p>I was asked to help improve the overall user experaince on their recently launched mobile application. I also provided art direction on their sales and marketing materials. Lastly, I refined thier logo to help sell the idea. </p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
@@ -90,6 +92,12 @@
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
+        </div>
+      </div>
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column work-quote">
+            <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
+            <p>-Caleb Hanson, VP Product, Rapt Media</p>
         </div>
       </div>
       <div class="row" style="margin-top: 10%">

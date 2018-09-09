@@ -70,9 +70,9 @@
             <li><a href="#">USAA
             <p class="descriptor">Redefining the Markets &amp; Research experience.</p>
             </a></li>
-<!--             <li><a href="#">PIMCO
+            <li><a href="#">PIMCO
             <p class="descriptor">Global landing page design.</p>
-            </a></li> -->
+            </a></li>
             <li><a href="#">Markit Digital Design
             <p class="descriptor">Building a web presence for a white label company.</p>
             </a></li>
@@ -88,9 +88,9 @@
             <li><a href="rapt-media.php">Rapt Media
             <p class="descriptor-sm">Helping build an interactive video platform.</p>
             </a></li>
-<!--             <li><a href="radar-hr.php">Radar HR
-            <p class="descriptor-sm">Branding Human Resource.</p>
-            </a></li> -->
+           <li><a href="colorado14ers.php">Colorado 14ers
+            <p class="descriptor-sm">Redesigning Colorado's best online hiking resource.</p>
+            </a></li>
             <li><a href="#">Atour Foods
             <p class="descriptor-sm">Moving from a kitchen to a dairy.</p>
             </a></li>
