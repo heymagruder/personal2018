@@ -25,6 +25,17 @@
     box-shadow: 0px 47px 100px 20px rgba(200,200,200,0.4);
   }
 
+.soft-pillow {
+    -webkit-box-shadow: 0px 47px 100px 20px rgba(200,200,200,0.4);
+    -ms-box-shadow: 0px 47px 100px 20px rgba(200,200,200,0.4);
+    -o-box-shadow: 0px 47px 100px 20px rgba(200,200,200,0.4);
+    box-shadow: 0px 47px 100px 20px rgba(200,200,200,0.4);
+}
+
+.center{
+  text-align: center;
+}
+
 ol {
 	list-style: none;
 	padding: 0;
@@ -73,14 +84,6 @@ ol {
   letter-spacing: 0.5px;
 }
 
-
-/*.sm-biz h6 {
-  font-family: 'Source Sans Pro', Sans-Serif;
-  font-size: 0.6em;
-  color: #A2A2A2;
-  letter-spacing: 0.5px;
-}
-*/
 .biz {
   font-family: 'Source Sans Pro', Sans-Serif;
   font-size: 0.7em;
@@ -88,7 +91,6 @@ ol {
   letter-spacing: 0.7px;
   text-transform: uppercase;
 }
-
 
 li {
 	margin: 1.25em 0;

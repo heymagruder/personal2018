@@ -52,7 +52,7 @@
       <div class="ten columns" style="margin-top: 6%">
         <p class="main-name">Christopher Magruder - Brand &amp; Interface Designer</p>
         <h3 class="intro-text" id="shuffle">Design for Business, <br>Big and Small.</h3>
-        <p class="intro-para">Hello. I'm Christopher Magruder, and I'm a designer.</p>
+        <p class="intro-para">Hello. I'm Christopher Magruder and I'm a designer.</p>
         <p class="intro-para">I've spent the last fourteen years helping <span class="darker">build brands</span> of all sizes.</p>
       </div>
     </div>
@@ -94,7 +94,7 @@
            <li><a href="colorado14ers.php">Colorado 14ers
             <p class="descriptor-sm">Redesigning Colorado's best online hiking resource.</p>
             </a></li>
-            <li><a href="#">Atour Foods
+            <li><a href="atour-foods.php">Atour Foods
             <p class="descriptor-sm">Branding a business from a kitchen to a dairy.</p>
             </a></li>
             <li><a href="#">Fireplace Blocker

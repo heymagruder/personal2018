@@ -50,61 +50,57 @@
    <?php include('nav.php'); ?>
 
     <div class="row">
-      <div class="six columns" style="margin-top: 6%">
+      <div class="six columns" style="margin-top: 10%">
         <p class="main-name">Christopher Magruder | Brand & Interface Designer</p>
         <h3 class="intro-text" id="shuffle">Making Your Business, <br>My Business.</h3>
       </div>
-      <div class="six columns about-me-photo">
+      <div class="six columns about-me-photo" style="margin-top: 10%">
         <img src="images/about/about-me.jpg">
       </div>
     </div>
 
 
     <div class="row" style="margin-top: 15%">
-      <div class="six columns about-me">
-        <h3>Let's Talk About Me.</h3>
-        <h6>It's a story that's 15 years in the making.</h6>
-        <p>I've spent a better part of a decade using design to help. Whether it's helping users navigate through an experience or helping a startup establish thier brand.</p>
-
-        <p>Hello, I’m Christopher Magruder, a traditionally trained and digitally focused designer with over a decade of experience delivering user-centered design. I’ve combined my passion for design and technology to create engaging and interactive experiences for brands of all sizes.</p>
+      <div class="five columns about-me">
+        <h3>A little about me</h3>
+        <p>I've spent over a decade using design to help. Whether it's helping users navigate an experience or helping startups establish their brand. I've combined my passion for design and technology to create simple and engaging experiences for brands of all sizes.</p>
       </div>
-      <div class="six columns">
-        <p>I'm a designer focused on crafting memorable brand experiences. I live in beautiful Colorado with my wife, two sons and a couple of rescue dogs. I'm passionate about design, technology, hockey, the outdoors, building / breaking / making things and vintage 4x4's.</p>
 
-        <p>Over the past 14 years I've had the privilege of working with countless clients ranging from startups to global brands. I bring a lot to the table, from running my own business to working within an agency and most recently helping a startup pioneer a new technology. Between brand, digital, product and marketing – I’ve worked in and delivered it all. I've spent my life helping other people succeed and it's something that I truly enjoy.</p>
+      <div class="six columns offset-by-one" style="margin-top: 6%">
+        <p>Over the past 14 years, I've had the privilege of working with clients from startups to global brands. Between brand, digital, product and marketing–I’ve worked and delivered it all. I've spent my life helping other people succeed and it's something that I enjoy.</p>
 
-        <p>My work has been featured in <strong>award-winning campaigns</strong> and international publications including: Logo Nest, Smashing Logo Design, Logo Lounge and Green Graphics.</p>
+        <p>I also believe in pushing the boundaries of technology, to me learning is growing. I'm one of the organizers of RefreshDenver, a local meetup focused on advancing the creative and technical aspects of our industry. If you're local or looking to learn something new, feel free to stop by and say hello.</p>
 
-        <p>I also strongly believe in continually pushing the boundaries of technology. To me, learning is growing. That's why I'm one of the co-organizers of Refresh Denver, a local meetup focused on advancing the creative and technical aspects of our industry. If you're local or just looking to learn something new, feel free to stop by and say hello.</p>
+        <p>I currently live in beautiful Colorado with my wife, two sons and a couple of rescue dogs. When I'm not working, I'm playing hockey, enjoying the outdoors, or working on my vintage 4x4.</p>
       </div>
     </div>
 
   <div class="row">
-      <div class="two-thirds column" style="margin-top: 8%">
+      <div class="two-thirds column" style="margin-top: 25%">
         <h5>Experience</h5>
         <ol>
-            <li>
+            <li class="experience">
               <span class="date">2017 &mdash; Today</span>
-              <strong class="jobtitle">VP Design</strong>, IHS Markit
+              <strong>VP Design</strong>, IHS Markit
             </li>
             <li>
               <span class="date">2015 &mdash; 2016</span>
-              <strong class="jobtitle">Head of Design</strong>, Rapt Media
+              <strong>Head of Design</strong>, Rapt Media
             </li>
             <li>
               <span class="date">2014 &mdash; 2015</span>
-              <strong class="jobtitle">Creative Director</strong>, Zenman
+              <strong>Creative Director</strong>, Zenman
             </li>
             <li>
               <span class="date">2012 &mdash; 2014</span>
-              <strong class="jobtitle">Design Director</strong>, Forte Information Systems
+              <strong>Design Director</strong>, Forte Information Systems
             </li>
           </ol>
       </div>
 
 
   
-      <div class="one-third column" style="margin-top: 8%">
+      <div class="one-third column" style="margin-top: 25%">
         <h5>Side Projects</h5>
           <ol>
             <li><a href="http://refreshdenver.org/" target="_blank">RefreshDenver</a></li>
@@ -118,7 +114,7 @@
 
 </div><!-- End Container -->
 
-   <div class="trust-bar u-full-width">
+   <div class="trust-bar u-full-width" style="margin-top: 15%">
     <div class="container">
     <h5>Great People Make Great Work</h5>
         <div class="grid-client-logos">
@@ -137,8 +133,8 @@
 <div class="container">
 
 <div class="row"> 
-  <div class="tweleve columns testimonials">
-    <h6>Nice things people say about me</h6>
+  <div class="tweleve columns testimonials" style="margin-top: 15%">
+    <h5 class="center">Nice things people say about me</h5>
 
 <!-- Slideshow container -->
 <div class="slideshow-container">

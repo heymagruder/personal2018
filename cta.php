@@ -1,6 +1,6 @@
 <div class="contact-cta u-full-width">
   <p>Let's Make Something Awesome Today.</p>
-  <button>Say Hello</button>
+  <button><a href="mailto:heymagruder@gmail.com?subject=Hello">Say Hello</a> </button>
 </div>
 
 <div class="view-work-cta u-full-width">
