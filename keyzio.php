@@ -118,6 +118,17 @@
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
 
+<div class="view-work-cta u-full-width">
+    <div class="one-half column view-big-biz">
+      <p class="view-more"><a href="bauer.php">&larr; View Previous</p>
+    </div>
+
+    <div class="one-half column view-sm-biz">
+       <p class="view-more"><a href="rapt-media.php">View Next &rarr;</p>
+    </div>
+</div>
+
+
 <?php include('footer.php'); ?>
 
 <!-- End Document
@@ -125,6 +136,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
   <script type="text/javascript" src="js/custom.js"></script>
   <script type="text/javascript" src="js/animate.js"></script>
+    <script type="text/javascript" src="js/accordion.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/js/animsition.min.js"></script>
 </body>
 </html>
