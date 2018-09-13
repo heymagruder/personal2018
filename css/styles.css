@@ -220,15 +220,22 @@ footer {
 
 .contact-cta {
   text-align: center;
+  height: 700px;
+  background-color: #1dc7d0;
+  margin-top: 120px;
+}
+
+.cta-info {
+  text-align: center;
   font-family: 'Playfair Display', Serif;
   color: #fff;
   font-size: 2.1em;
-  margin-top: 100px;
   background-color: #1dc7d0;
-  padding: 120px;
   letter-spacing: 1.3px;
   font-weight: 400;
+  padding-top: 160px;
 }
+
 
 .work-quote {
   text-align: center;
@@ -464,7 +471,6 @@ q {font-style: italic;}
 }
 
 .panel {
-    padding: 0 18px;
     background-color: white;
     max-height: 0;
     overflow: hidden;
