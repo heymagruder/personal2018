@@ -4,7 +4,7 @@
 		<div class="panel">
 			  <section id="contact">
 					<div class="container-contact">
-							<form name="htmlform" method="post" action="toyousender.php">
+							<form name="htmlform" method="post" action="contactform.php">
 
 							<input type="text" name="first_name" placeholder="NAME" required>
 							  
