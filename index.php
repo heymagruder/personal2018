@@ -97,7 +97,7 @@
             <li><a href="atour-foods.php">Atour Foods
             <p class="descriptor-sm">Branding a business from a kitchen to a dairy.</p>
             </a></li>
-            <li><a href="#">Fireplace Blocker
+            <li><a href="fireplace-blocker.php">Fireplace Blocker
             <p class="descriptor-sm">Building trust with a product.</p>
             </a></li>
             <li><a href="logo-archive.php">Logo Archive

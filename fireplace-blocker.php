@@ -46,7 +46,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-           <img class="u-full-width" src="images/colorado/14ers-hero.jpg">
+          <img class="u-full-width" src="images/fireplaceblocker/fireplace-blocker-hero.jpg">
         </div>
       </div>
 
@@ -55,19 +55,17 @@
       <div class="row">
         <div class="six columns" style="margin-top: 15%">
           <div class="project-info">
-              <h2 class="work-title">Colorado 14ers</h2>
-              <p class="work-role">Visual Design</p>
-              <p class="work-data">2017</p>
+              <h2 class="work-title">Fireplace Blocker</h2>
+              <p class="work-role">Art Direction, Packaging Design, Photography, Visual Design</p>
+              <p class="work-data">2010-2018</p>
           </div>
         </div>
           <div class="six columns" style="margin-top: 15%">
-            <h5>Gain The Summit</h5>
+            <h5>From Our Family, To Yours</h5>
+            <p>Entrepreneur sprit. When you see a need for a product you go out and build it. </p>
+            <p>The revolutionary fireplace blocker saves you money by reducing heat loss from your fireplace.</p>
+            <p>From Skymall to Amazon, the Orginal Fireplace Blocker has been around helping people save money for years.</p>
             
-              <p>14ers.com has it all, it's home to Colorado's highest peaks. Fifty-four to be exact. More than 140 routes and hundreds of thousands of feet in elevation.</p>
-
-              <p>There is tons of great information that is being updated daily. You can find the most relevant and up-to-date info on any trail in Colorado and that's awesome. What's not awesome is the clunky, dated look of the site. It's easy on the information, but a bit rough on the eyes.</p>
-
-              <p>I wanted to change that and set out to redesign a few pages to make them modern and engaging. I also wanted to update the current logo to reflect the new direction and give the site a cohesive feel.</p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
@@ -78,19 +76,19 @@
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/colorado/14ers-logo-main.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_guidelines.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 4%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/colorado/14ers-logo.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_honey.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/colorado/14ers-site1.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_recipe.jpg">
         </div>
       </div>
       <div class="row" style="margin-top: 10%">
@@ -101,7 +99,7 @@
       </div>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/colorado/14ers-site2.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_tubs.jpg">
         </div>
       </div>
       <!-- End Grid Demo -->
@@ -116,6 +114,16 @@
 
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
+
+<div class="view-work-cta u-full-width">
+    <div class="one-half column view-big-biz">
+      <p class="view-more"><a href="colorado14ers.php">&larr; View Previous</p>
+    </div>
+
+    <div class="one-half column view-sm-biz">
+       <p class="view-more"><a href="#">View Next &rarr;</p>
+    </div>
+</div>
 
 <?php include('footer.php'); ?>
 <?php include('footer-code.php'); ?>

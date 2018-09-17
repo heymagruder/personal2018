@@ -52,8 +52,8 @@
           <h6 class="work-year">2018</h6>
         </div>
           <div class="six columns" style="margin-top: 15%">
-            <!-- <h5>Logo Design Archive</h5> -->
-            <p>Memorable logos are paramont to a solid brand identities. The ability for a logo to stand alone, in any application, is a principal requirement of every well-crafted brand.</p>
+            <h5>I Love Logos</h5>
+            <p>Funny I know, but I do. Memorable logos are paramont to a solid brand identities. The ability for a logo to stand alone, in any application, is a principal requirement of every well-crafted brand.</p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
