@@ -46,7 +46,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width soft-pillow" src="images/phone.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_hero.jpg">
         </div>
       </div>
 
@@ -66,6 +66,7 @@
             <p>A family recipe that has been passed down from generation to generation, finally makes it to the shelves.</p>
             
             <p>From the orginal product launch at thier local corner store to stocking the shelves of major supermarkets, I've been working together with Atour Foods for close to a decade. Building a logo into a brand is hard work. From sales and marketing materials, to packaging and branding. </p>
+            <p>What started as an engagement to update some sales and marketing materials has turned into a decade-long partnership with projects ranging from brand overhauls to web and packaging work.</p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
@@ -76,22 +77,19 @@
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/phone.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_guidelines.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 4%">
-        <div class="one-half column">
-          <img class="u-full-width" src="images/atourfoods/Recipe.jpg">
-        </div>
-        <div class="one-half column">
-          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_honey.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_recipe.jpg">
         </div>
       </div>
       <div class="row" style="margin-top: 10%">
@@ -102,7 +100,7 @@
       </div>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_tubs.jpg">
         </div>
       </div>
       <!-- End Grid Demo -->
@@ -120,7 +118,7 @@
 
 <div class="view-work-cta u-full-width">
     <div class="one-half column view-big-biz">
-      <p class="view-more"><a href="coloraod14ers.php">&larr; View Previous</p>
+      <p class="view-more"><a href="colorado14ers.php">&larr; View Previous</p>
     </div>
 
     <div class="one-half column view-sm-biz">
