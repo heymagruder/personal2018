@@ -82,6 +82,13 @@
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
+          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-mobile.jpg">
+        </div>
+      </div>
+      <br/>
+
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column">
           <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-02.jpg">
         </div>
       </div>
