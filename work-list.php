@@ -6,13 +6,13 @@
                 <li><a href="ihsmarkit.php">IHS Markit
                   <p class="descriptor">Helping two business merge into one.</p>
                 </a></li>
-                <li><a href="#">Morgan Stanley
+                <li><a href="morgan-stanley.php">Morgan Stanley
                 <p class="descriptor">Refining the users experience.</p>
                 </a></li>
-                <li><a href="#">USAA
+                <li><a href="usaa.php">USAA
                 <p class="descriptor">Redefining the Markets &amp; Research experience.</p>
                 </a></li>
-                <li><a href="#">PIMCO
+                <li><a href="pimco.php">PIMCO
                 <p class="descriptor">Global landing page design.</p>
                 </a></li>
                 <li><a href="bauer.php">Bauer Hockey

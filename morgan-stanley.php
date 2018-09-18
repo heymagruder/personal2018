@@ -59,7 +59,7 @@
       <div class="row">
         <div class="six columns" style="margin-top: 15%">
           <div class="project-info">
-              <h2 class="work-title">USAA</h2>
+              <h2 class="work-title">Morgan Stanley</h2>
               <p class="work-role">Website Design, User Experience, User Interface</p>
               <p class="work-data">2017-2018</p>
           </div>
