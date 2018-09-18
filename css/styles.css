@@ -43,6 +43,10 @@ ol {
 /*	line-height: 1.25em;*/
 }
 
+.view-work-cta {
+  height: 290px;
+}
+
 .big-biz li {
   margin: 1.25em 0;
   font-size: 1.9em;
@@ -59,23 +63,21 @@ ol {
 .view-big-biz {
   font-size: 1.8em;
   border-right: 1px solid #cdcdcd;
-  padding: 80px;
+  padding: 104px;
 }
 
 a .view-big-biz:hover {
-  background-color: #1dc7d0;
-  color: #fff;
+  background-color: #f5f4f4;
 }
 
 .view-sm-biz {
   font-size: 1.8em;
-  padding: 80px;
+  padding: 104px;
   text-align: right;
 }
 
 a .view-sm-biz:hover {
-  background-color: #1dc7d0;
-  color: #fff;
+  background-color: #f5f4f4;
 }
 
 .descriptor {
@@ -165,6 +167,12 @@ strong {
   line-height: 1.8px;
 }
 
+.work-container {
+  border-top: 1px solid #ccc;
+  padding: 50px 100px;
+
+}
+
 .work-list {
 	font-size: 1.4em;
   padding: 0;
@@ -173,9 +181,6 @@ strong {
   line-height: 1.1em;
 }
 
-.work-list a {
-	color: red;
-}
 
 .work-title {
   font-size: 2.0em;
@@ -246,16 +251,10 @@ footer {
   padding-top: 160px;
 }
 
-
 .work-quote {
   text-align: center;
   font-family: 'Playfair Display', Serif;
   padding: 100px;
-}
-
-.view-work-cta {
-  height: 200px;
-  margin: 150px 0px;
 }
 
 i {

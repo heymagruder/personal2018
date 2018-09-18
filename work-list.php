@@ -1,5 +1,4 @@
-<div class="container">
-    <h6 style="margin-top:80px; font-size: 12px; border-bottom: 1px solid #ccc; padding:5px;">View More Work</h6>
+<div class="container u-max-full-width u-full-width work-container">
     <div class="row">
           <div class="big-biz five columns offset-by-one" style="margin-top: 8%">
             <h6 class="biz">Big Business</h6>
@@ -42,5 +41,5 @@
                 </a></li>
               </ol>
           </div>
-
+ </div><!-- End Container -->  
  </div><!-- End Container -->      
