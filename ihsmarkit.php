@@ -42,7 +42,9 @@
     data-animsition-out-class="fade-out-down-sm"
     data-animsition-out-duration="800"
   >
+
  <?php include('nav.php'); ?>
+
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
@@ -62,15 +64,9 @@
         </div>
           <div class="six columns" style="margin-top: 15%">
             <h5>A wider picture, a deeper focus.</h5>
-             <p>IHS Markit (Nasdaq: INFO) delivers data and analytics to customers in business, finance and government, improving operational efficiency and providing business insights for global decision makers.p>
-            
-            <p>I worked with a internal team of three designers, C level skakeholder and marketing team staff and our CEO to create a site that married the two business together after our year long merger.</p>
-           
-
-            <p>When IHS and Markit on Demand was neraly completed with their year long merger, it was time to start working on a new site that allowed the two business to start becoming one.</p>
-
-            <p>With nearly 3000 products in over 20 verticals and two weeks of discovery, definition, stakeholder interview and findings document, the challenge was evident.</p> 
-            <p>Not only did we need to combine the two sites but we also needed to think about the technology behind both sites.</p>
+            <p>While IHS and Markit on Demand worked to finish their merger, our internal design team focused on how to combine the current websites. </p>
+            <p>We had over 3000 products in 20 different verticals, plus multiple technologies powering each legacy site. The idea wasn't to reinvent company, but rather integrate a system that better defines the future for the combined business.</p>
+            <p>Throughout a 6 week timespan we examined the current products, talked to business owners, interviewed stakeholders and gained perspective on how to approach the design.</p>
 
           </div>
       </div>
@@ -80,13 +76,6 @@
 
 <!-- Grid Demo
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-mobile.jpg">
-        </div>
-      </div>
-      <br/>
-
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-02.jpg">
@@ -137,13 +126,13 @@
 <?php include('cta.php'); ?>
 
 <div class="view-work-cta u-full-width">
-    <div class="one-half column view-big-biz">
-      <p class="view-more"><a href="logo-archive.php">&larr; View Previous</p>
-    </div>
+    <a href="logo-archive.php"><div class="one-half column view-big-biz">
+      <p class="view-more">&larr; View Previous</p>
+    </div></a>
 
-    <div class="one-half column view-sm-biz">
-       <p class="view-more"><a href="#">View Next &rarr;</p>
-    </div>
+    <a href="#"><div class="one-half column view-sm-biz">
+       <p class="view-more">View Next &rarr;</p>
+    </div></a>
 </div>
 
 <?php include('footer.php'); ?>

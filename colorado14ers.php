@@ -117,6 +117,16 @@
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
 
+<div class="view-work-cta u-full-width">
+    <a href="rapt-media.php"><div class="one-half column view-big-biz">
+      <p class="view-more">&larr; View Previous</p>
+    </div></a>
+
+    <a href="atour-foods.php"><div class="one-half column view-sm-biz">
+       <p class="view-more">View Next &rarr;</p>
+    </div></a>
+</div>
+
 <?php include('footer.php'); ?>
 <?php include('footer-code.php'); ?>
 

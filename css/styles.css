@@ -57,17 +57,26 @@ ol {
 }
 
 .view-big-biz {
-  font-size: 1.2em;
+  font-size: 1.8em;
   border-right: 1px solid #cdcdcd;
   padding: 80px;
 }
 
+a .view-big-biz:hover {
+  background-color: #1dc7d0;
+  color: #fff;
+}
+
 .view-sm-biz {
-  font-size: 1.2em;
+  font-size: 1.8em;
   padding: 80px;
   text-align: right;
 }
 
+a .view-sm-biz:hover {
+  background-color: #1dc7d0;
+  color: #fff;
+}
 .descriptor {
   font-size: 15px;
   font-style: italic;
