@@ -82,6 +82,12 @@
         </div>
       </div>
       <br/>
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-mobile.jpg">
+        </div>
+      </div>
+      <br/>
       <div class="row" style="margin-top: 4%">
         <div class="one-half column">
           <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-01.jpg">
@@ -114,18 +120,10 @@
       </div>
       <!-- End Grid Demo -->
 
-<!--   <div class="container scrollTarget">
-    <div class="row thingToAnimate hidden">
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-    </div>
-  </div> --><!-- Animate CSS image group - End Container -->
-
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
 
-<div class="view-work-cta u-full-width">
+<!-- <div class="view-work-cta u-full-width">
     <a href="logo-archive.php"><div class="one-half column view-big-biz">
       <p class="view-more">&larr; View Previous</p>
     </div></a>
@@ -134,7 +132,7 @@
        <p class="view-more">View Next &rarr;</p>
     </div></a>
 </div>
-
+ -->
 <?php include('work-list.php'); ?>
 <?php include('footer.php'); ?>
 <?php include('footer-code.php'); ?>

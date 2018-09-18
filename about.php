@@ -49,7 +49,7 @@
 
     <div class="row">
       <div class="six columns" style="margin-top: 10%">
-        <p class="main-name">Christopher Magruder | Brand & Interface Designer</p>
+        <p class="main-name">Christopher Magruder - Senior User Experience Designer</p>
         <h3 class="intro-text" id="shuffle">Making Your Business, <br>My Business.</h3>
       </div>
       <div class="six columns about-me-photo" style="margin-top: 10%">
