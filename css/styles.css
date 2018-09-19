@@ -578,8 +578,8 @@ q {font-style: italic;}
 
 @media only screen and (max-width: 600px) {
     .intro-text{
-      font-size: 4.0em;
-      line-height: 75px;
+      font-size: 3.2em;
+      line-height: 60px;
       padding-bottom: 30px;
       color: #1dc7d0;
       font-weight: 900;
