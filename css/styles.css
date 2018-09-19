@@ -576,4 +576,82 @@ q {font-style: italic;}
   }
 }
 
+@media only screen and (max-width: 600px) {
+    .intro-text{
+      font-size: 4.0em;
+      line-height: 75px;
+      padding-bottom: 30px;
+      color: #1dc7d0;
+      font-weight: 900;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .brand-logo {
+      color: #666;
+      font-family: 'Kanit', sans-serif;
+      text-align: left;
+      font-size: 1.6em;
+      text-decoration: none;
+      font-weight: 800;
+    }
+}
+
+@media only screen and (max-width: 840px) {
+  .work-quote {
+    text-align: center;
+    font-family: 'Playfair Display', Serif;
+    padding: 5px;
+  }
+}
+
+@media only screen and (max-width: 840px) {
+  .contact-cta {
+    text-align: center;
+    height: 700px;
+    background-color: #1dc7d0;
+    margin-top: 120px;
+    padding: 20px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+    .accordion {
+        background-color: #eee;
+        color: #444;
+        cursor: pointer;
+        width: 50%;
+        font-size: 15px;
+        transition: 0.4s;
+        border: 1px solid;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .work-role {
+      font-size: 0.9em;
+      color: #979a9a;
+      line-height: 1;
+    }
+}
+
+@media only screen and (max-width: 660px) {
+    footer {
+      border-top: 1px solid #e4e4e4;
+      color: #828282;
+      font-size: 0.7em;
+      padding-top: 20px;
+      letter-spacing: 1.0px;
+      text-align: center;
+    }
+}
+
+@media only screen and (max-width: 980px) {
+    .big-biz li {
+      margin: 1.25em 0;
+      font-size: 1.6em;
+      color: #55555d;
+      line-height: 30px;
+    }
+}
 

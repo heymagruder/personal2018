@@ -101,19 +101,31 @@ function showLoginPasswordProtect($error_msg) {
   <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
   <META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
 </head>
-<body>
+<body style="background: #1dc7d0; padding: 40px;">
+
   <style>
-    input { border: 1px solid black; }
+    input { border: 1px solid #a2a2a2; padding: 9px; width: 50%;  }
   </style>
-  <div style="width:500px; margin-left:auto; margin-right:auto; text-align:center">
+  <div style="
+      width:55%; 
+      margin: 0 auto; 
+      text-align:center; 
+      background-color: #f5f5f5;
+      padding: 40px;
+      margin-top: 20px;
+        -webkit-box-shadow: 0px 4px 12px 1px rgba(20,151,158,0.8);
+        -moz-box-shadow: 0px 4px 12px 1px rgba(20,151,158,0.8);
+        box-shadow: 0px 4px 12px 1px rgba(20,151,158,0.8);
+  ">
   <form method="post">
-    <h3>Please enter password to access this page</h3>
+    <h3>This case study is password protected.</h3>
     <font color="red"><?php echo $error_msg; ?></font><br />
-<?php if (USE_USERNAME) echo 'Login:<br /><input type="input" name="access_login" /><br />Password:<br />'; ?>
+    <p>Enter Your Password Below</p>
     <input type="password" name="access_password" /><p></p><input type="submit" name="Submit" value="Submit" />
   </form>
   <br />
-  <a style="font-size:9px; color: #B0B0B0; font-family: Verdana, Arial;">Thank you for helping keep this page secure.</a>
+  <p style="font-size:16px; color: #333; font-family: Arial, Helvetica, sans-serif;">No Password? <a href="http://www.cmagruder.me/contact">Head Back To Site</a></p>
+  <p style="font-size:9px; color: #B0B0B0; font-family: Arial, Helvetica, sans-serif;">Thank you for keeping this page secure.</p>
   </div>
 </body>
 </html>

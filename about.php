@@ -53,6 +53,7 @@
         <h3 class="intro-text" id="shuffle">Making Your Business, <br>My Business.</h3>
       </div>
       <div class="six columns about-me-photo" style="margin-top: 10%">
+        <img src="images/about/about-me.jpg" class="u-img-responsive">
         <img src="images/about/about-me.jpg">
       </div>
     </div>
