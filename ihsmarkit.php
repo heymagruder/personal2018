@@ -29,7 +29,32 @@
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="canonical" href="http://cmagruder.me/"/>
 
+  <!-- Meta
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <!-- Facebook Open Graph  -->
+  <meta property="og:site_name" content="Christopher Magruder"/>
+  <meta property="og:title" content="Creating simple, engaging solutions to complex user problems."/>
+  <meta property="og:url" content="http://cmagruder.me"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:description" content="I've spent over a decade combining my passion for design and technology to create, build and deploy interactive experiences, applications and digital marketing."/>
+  <meta property="og:image" content="http://cmagruder.me/content/seo/facebook.jpg"/>
+  
+  <!-- Meta Open Graph  -->
+  <meta property="og:title" content="User Interface Designer" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://cmagruder.me/" />
+  <meta property="og:image" content="http://cmagruder.me/content/seo/facebook.jpg" />
+  
+  <!-- Twitter Open Graph  -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@heymagruder">
+  <meta name="twitter:creator" content="@heymagruder">
+  <meta name="twitter:title" content="Creating simple, engaging solutions to complex user problems.">
+  <meta name="twitter:description" content="I've spent over a decade combining my passion for design and technology to create, build and deploy interactive experiences, applications and digital marketing.">
+  <meta name="twitter:image" content="http://cmagruder.me/content/seo/facebook.jpg">
+  
 </head>
 <body>
 
