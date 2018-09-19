@@ -53,7 +53,6 @@
         <h3 class="intro-text" id="shuffle">Making Your Business, <br>My Business.</h3>
       </div>
       <div class="six columns about-me-photo" style="margin-top: 10%">
-        <img src="images/about/about-me.jpg" class="u-img-responsive">
         <img src="images/about/about-me.jpg">
       </div>
     </div>
@@ -150,8 +149,8 @@
   </div>
 
   <div class="mySlides">
-    <q>I have not failed. I've just found 10,000 ways that won't work.</q>
-    <p class="author">- Thomas A. Edison</p>
+    <q>Christopher is creative, responsive and accomplishes his objectives on time and on budget! He has been instrumental in the success of my business.</q>
+    <p class="author">- Scott Harrison, Founder Fireplace Blocker, LLC</p>
   </div>
 
   <!-- Next/prev buttons -->

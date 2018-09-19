@@ -183,16 +183,24 @@ strong {
 
 
 .work-title {
-  font-size: 2.0em;
-  color: #1dc7d0;
+  font-size: 2.4em;
   line-height: 25px;
   padding-bottom: 10px;
-  font-weight: 700;
 }
 
 .work-role {
   font-size: 0.9em;
   color: #979a9a;
+  line-height: 0.4;
+}
+
+li .work-role {
+  font-size: 0.9em;
+  color: #979a9a;
+}
+
+ul {
+  list-style: none;
 }
 
 .work-data {

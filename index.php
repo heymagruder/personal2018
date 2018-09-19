@@ -89,7 +89,7 @@
                 <p class="descriptor">Helping build an interactive video platform.</p>
                 </a></li>
                <li><a href="colorado14ers.php">Colorado 14ers
-                <p class="descriptor">Redesigning Colorado's best online hiking resource.</p>
+                <p class="descriptor">Redesigning Colorado's best hiking resource.</p>
                 </a></li>
                 <li><a href="atour-foods.php">Atour Foods
                 <p class="descriptor">Branding a business from a kitchen to a dairy.</p>

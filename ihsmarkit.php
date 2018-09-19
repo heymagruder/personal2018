@@ -55,14 +55,20 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="six columns" style="margin-top: 15%">
+        <div class="three columns" style="margin-top: 15%">
           <div class="project-info">
-              <h2 class="work-title">IHS Markit</h2>
-              <p class="work-role">Website Design, User Experience, User Interface</p>
+              <h2>IHS Markit</h2>
+              <ul class="work-role">
+                <li>Discovery & Definition</li>
+                <li>Findings Documentation</li>
+                <li>Stakeholder Interviews</li>
+                <li>User Experience</li>
+                <li>Visual Design</li>
+              </ul>
               <p class="work-data">2017-2018</p>
           </div>
         </div>
-          <div class="six columns" style="margin-top: 15%">
+          <div class="six columns offset-by-three" style="margin-top: 15%">
             <h5>A wider picture, a deeper focus.</h5>
 
             <p>While IHS and Markit on Demand worked to finish their merger, our internal design team focused on how to combine the current websites. </p>
@@ -82,6 +88,15 @@
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-findings.jpg">
+        </div>
+      </div>
+      <br/>
+      <div class="row" style="margin-top: 10%">
+        <div class="one-half column">
+          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-notes.jpg">
+        </div>
+        <div class="one-half column">
+          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-notes2.jpg">
         </div>
       </div>
       <br/>
@@ -126,9 +141,7 @@
         <div class="twelve column">
           <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-nasdaq.jpg">
         </div>
-      </div>
-      <!-- End Grid Demo -->
-
+      </div><!-- End Grid Demo -->
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
 

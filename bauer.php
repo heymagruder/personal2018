@@ -53,14 +53,16 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="six columns" style="margin-top: 15%">
+        <div class="three columns" style="margin-top: 15%">
           <div class="project-info">
-              <h2 class="work-title">Bauer Vapors</h2>
-              <p class="work-role">Visual Design</p>
+            <h2>Bauer Vapors</h2>
+              <ul class="work-role">
+                <li>Visual Design</li>
+              </ul>
               <p class="work-data">2017</p>
           </div>
         </div>
-          <div class="six columns" style="margin-top: 15%">
+          <div class="six columns offset-by-three" style="margin-top: 15%">
             <h5>Perform Like A Pro</h5>
             
               <p>Passion projects keep the skills sharp. They allow you to push boundaries and comfort levels. It’s an opportunity to get outside the normal restraints that sometimes come along from client work.</p>
@@ -82,31 +84,16 @@
         </div>
       </div>
       <br/>
-      <div class="row" style="margin-top: 4%">
-        <div class="one-half column">
-          <img class="u-full-width" src="images/colorado/14ers-logo-type.jpg">
-        </div>
-        <div class="one-half column">
-          <img class="u-full-width" src="images/colorado/14ers-logo-type.jpg">
-        </div>
-      </div>
-      <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/bauer/bauer-responsive.jpg">
         </div>
-      </div>
-      <!-- End Grid Demo -->
+      </div><!-- End Grid Demo -->
 
-<!--   <div class="container scrollTarget">
-    <div class="row thingToAnimate hidden">
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-    </div>
-  </div> --><!-- Animate CSS image group - End Container -->
-<p class="footnote">This concept is in no way associated BAUER Hockey, Inc. and its affiliates.</p>
-    </div><!-- End Container -->
+        <p class="footnote">This concept is in no way associated BAUER Hockey, Inc. and its affiliates.</p>
+
+</div><!-- End Container -->
+
 <?php include('cta.php'); ?>
 
 <div class="view-work-cta u-full-width">
@@ -119,6 +106,7 @@
     </div></a>
 </div>
 
+<?php include('work-list.php'); ?>
 <?php include('footer.php'); ?>
 <?php include('footer-code.php'); ?>
 

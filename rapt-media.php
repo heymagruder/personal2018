@@ -53,14 +53,20 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="six columns" style="margin-top: 15%">
+        <div class="three columns" style="margin-top: 15%">
           <div class="project-info">
-              <h2 class="work-title">Rapt Media</h2>
-              <p class="work-role">Design, Branding, Marketing, Product Design</p>
+            <h2>Rapt Media</h2>
+              <ul class="work-role">
+                <li>Design</li>
+                <li>Branding</li>
+                <li>Marketing</li>
+                <li>Interactive Video Production</li>
+                <li>Product Design</li>
+              </ul>
               <p class="work-data">2016-2017</p>
           </div>
         </div>
-          <div class="six columns" style="margin-top: 15%">
+          <div class="six columns offset-by-three" style="margin-top: 15%">
             <h5>Launching an interactive video technology.</h5>
             <p>Working at a startup is both exciting and exhausting. Not only are you working nonstop to build a new technology but sometimes you find yourself laying down the tracks as the train is moving. It's scary. It's exciting. It's motivating. But most of all it's working together to create something new.</p>
 
@@ -98,10 +104,11 @@
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/rapt/rapt-sites2.jpg">
-        </div>
       </div>
+    </div><!-- End Grid Demo -->
 
-<p class="footnote">Rapt Media was recently acquired by Kaltura <a href="https://techcrunch.com/2018/05/25/kaltura-acquires-rapt-media/" target="_blank">Read More</a></p>
+        <p class="footnote">Rapt Media was recently acquired by Kaltura <a href="https://techcrunch.com/2018/05/25/kaltura-acquires-rapt-media/" target="_blank">Read More</a></p>
+
     </div><!-- End Container -->
 
 <?php include('cta.php'); ?>
@@ -117,6 +124,7 @@
 </div>
 
 
+<?php include('work-list.php'); ?>
 <?php include('footer.php'); ?>
 <?php include('footer-code.php'); ?>
 

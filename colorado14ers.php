@@ -53,14 +53,16 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="six columns" style="margin-top: 15%">
+        <div class="three columns" style="margin-top: 15%">
           <div class="project-info">
-              <h2 class="work-title">Colorado 14ers</h2>
-              <p class="work-role">Visual Design</p>
+              <h2>Colorado 14ers</h2>
+              <ul class="work-role">
+                <li>Visual Design</li>
+              </ul>
               <p class="work-data">2017</p>
           </div>
         </div>
-          <div class="six columns" style="margin-top: 15%">
+          <div class="six columns offset-by-three" style="margin-top: 15%">
             <h5>Gain The Summit</h5>
             
               <p>14ers.com has it all, it's home to Colorado's highest peaks. Fifty-four to be exact. More than 140 routes and hundreds of thousands of feet in elevation.</p>
@@ -103,17 +105,7 @@
         <div class="twelve column">
           <img class="u-full-width" src="images/colorado/14ers-site2.jpg">
         </div>
-      </div>
-      <!-- End Grid Demo -->
-
-<!--   <div class="container scrollTarget">
-    <div class="row thingToAnimate hidden">
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-    </div>
-  </div> --><!-- Animate CSS image group - End Container -->
-
+      </div><!-- End Grid Demo -->
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
 
@@ -127,6 +119,7 @@
     </div></a>
 </div>
 
+<?php include('work-list.php'); ?>
 <?php include('footer.php'); ?>
 <?php include('footer-code.php'); ?>
 

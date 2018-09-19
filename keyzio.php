@@ -53,14 +53,20 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="six columns" style="margin-top: 15%">
+        <div class="three columns" style="margin-top: 15%">
           <div class="project-info">
-              <h2 class="work-title">Keyzio</h2>
-              <p class="work-role">Art Direction, Branding, Product Design, Print</p>
+            <h2>Kayzio</h2>
+              <ul class="work-role">
+                <li>Art Direction</li>
+                <li>Branding</li>
+                <li>Product Design</li>
+                <li>User Experience</li>
+                <li>Print Design</li>
+              </ul>
               <p class="work-data">2016-2017</p>
           </div>
         </div>
-          <div class="six columns" style="margin-top: 15%">
+          <div class="six columns offset-by-three" style="margin-top: 15%">
             <h5>Where Every House Is For Sale</h5>
             
             <p>Keyzio is a nationwide, consumer-to-consumer real estate marketplace where buyers and sellers connect with each other directly and optionally get the specific help they need to close the deal through our in-house and partner agents.</p>
@@ -104,17 +110,7 @@
         <div class="twelve column">
           <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
         </div>
-      </div>
-      <!-- End Grid Demo -->
-
-<!--   <div class="container scrollTarget">
-    <div class="row thingToAnimate hidden">
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-    </div>
-  </div> --><!-- Animate CSS image group - End Container -->
-
+      </div><!-- End Grid Demo -->
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
 
@@ -129,6 +125,7 @@
 </div>
 
 
+<?php include('work-list.php'); ?>
 <?php include('footer.php'); ?>
 <?php include('footer-code.php'); ?>
 

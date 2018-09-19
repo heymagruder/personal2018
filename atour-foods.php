@@ -53,14 +53,20 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="six columns" style="margin-top: 15%">
+        <div class="three columns" style="margin-top: 15%">
           <div class="project-info">
-              <h2 class="work-title">Atour Foods</h2>
-              <p class="work-role">Art Direction, Branding, Packaging Design, Photography, Visual Design</p>
-              <p class="work-data">2009-2018</p>
+              <h2>Atour Foods</h2>
+                <ul class="work-role">
+                  <li>Art Direction</li>
+                  <li>Branding</li>
+                  <li>Packaging Design</li>
+                  <li>Photography</li>
+                  <li>Visual Design</li>
+                </ul>
+                <p class="work-data">2009-2018</p>
           </div>
         </div>
-          <div class="six columns" style="margin-top: 15%">
+          <div class="six columns offset-by-three" style="margin-top: 15%">
             <h5>Our Family, To Yours</h5>
             <p>From a family owned corner store to the shelves of major supermarkets, I've been working with Atour Foods for close to a decade.</p>
             
@@ -78,6 +84,27 @@
 
 <!-- Grid Demo
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_logotype.jpg">
+        </div>
+      </div>
+      <br/>
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_icon.jpg">
+        </div>
+      </div>
+      <br/>
+      <div class="row" style="margin-top: 10%">
+        <div class="one-half column">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_logotype_square.jpg">
+        </div>
+        <div class="one-half column">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_icon_square.jpg">
+        </div>
+      </div>
+      <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/atourfoods/atourfoods_guidelines.jpg">
@@ -105,17 +132,7 @@
         <div class="twelve column">
           <img class="u-full-width" src="images/atourfoods/atourfoods_tubs.jpg">
         </div>
-      </div>
-      <!-- End Grid Demo -->
-
-<!--   <div class="container scrollTarget">
-    <div class="row thingToAnimate hidden">
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-      <div class="one-third column"><img src="http://via.placeholder.com/300x300"></div>
-    </div>
-  </div> --><!-- Animate CSS image group - End Container -->
-
+      </div><!-- End Grid Demo -->
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
 
@@ -129,6 +146,7 @@
     </div></a>
 </div>
 
+<?php include('work-list.php'); ?>
 <?php include('footer.php'); ?>
 <?php include('footer-code.php'); ?>
 
