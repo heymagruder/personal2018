@@ -78,7 +78,7 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="three columns" style="margin-top: 15%">
+        <div class="one-third column" style="margin-top: 15%">
           <div class="project-info">
               <h2>Colorado 14ers</h2>
               <ul class="work-role">
@@ -87,7 +87,7 @@
               <p class="work-data">2017</p>
           </div>
         </div>
-          <div class="six columns offset-by-three" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 15%">
             <h5>Gain The Summit</h5>
             
               <p>14ers.com has it all, it's home to Colorado's highest peaks. Fifty-four to be exact. More than 140 routes and hundreds of thousands of feet in elevation.</p>

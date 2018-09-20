@@ -78,7 +78,7 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="three columns" style="margin-top: 15%">
+        <div class="one-third column" style="margin-top: 15%">
           <div class="project-info">
               <h2>Atour Foods</h2>
                 <ul class="work-role">
@@ -91,7 +91,7 @@
                 <p class="work-data">2009-2018</p>
           </div>
         </div>
-          <div class="six columns offset-by-three" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 15%">
             <h5>Our Family, To Yours</h5>
             <p>From a family owned corner store to the shelves of major supermarkets, I've been working with Atour Foods for close to a decade.</p>
             

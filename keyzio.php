@@ -78,9 +78,9 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="three columns" style="margin-top: 15%">
+        <div class="one-third column" style="margin-top: 15%">
           <div class="project-info">
-            <h2>Kayzio</h2>
+            <h2>Keyzio</h2>
               <ul class="work-role">
                 <li>Art Direction</li>
                 <li>Branding</li>
@@ -91,7 +91,7 @@
               <p class="work-data">2016-2017</p>
           </div>
         </div>
-          <div class="six columns offset-by-three" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 15%">
             <h5>Where Every House Is For Sale</h5>
             
             <p>Keyzio is a nationwide, consumer-to-consumer real estate marketplace where buyers and sellers connect with each other directly and optionally get the specific help they need to close the deal through our in-house and partner agents.</p>

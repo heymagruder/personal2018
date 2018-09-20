@@ -82,14 +82,14 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="six columns" style="margin-top: 15%">
+        <div class="one-third column" style="margin-top: 15%">
           <div class="project-info">
               <h2 class="work-title">Pimco</h2>
               <p class="work-role">Website Design, User Experience, User Interface</p>
               <p class="work-data">2017-2018</p>
           </div>
         </div>
-          <div class="six columns" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 15%">
             <h5>A wider picture, a deeper focus.</h5>
             <p>While IHS and Markit on Demand worked to finish their merger, our internal design team focused on how to combine the current websites. </p>
             <p>We had over 3000 products in 20 different verticals, plus multiple technologies powering each legacy site. The idea wasn't to reinvent company, but rather integrate a system that better defines the future for the combined business.</p>

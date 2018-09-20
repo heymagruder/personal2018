@@ -78,7 +78,7 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="three columns" style="margin-top: 15%">
+        <div class="one-third column" style="margin-top: 15%">
           <div class="project-info">
             <h2>Bauer Vapors</h2>
               <ul class="work-role">
@@ -87,7 +87,7 @@
               <p class="work-data">2017</p>
           </div>
         </div>
-          <div class="six columns offset-by-three" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 15%">
             <h5>Perform Like A Pro</h5>
             
               <p>Passion projects keep the skills sharp. They allow you to push boundaries and comfort levels. It’s an opportunity to get outside the normal restraints that sometimes come along from client work.</p>

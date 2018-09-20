@@ -54,7 +54,7 @@
   <meta name="twitter:title" content="Creating simple, engaging solutions to complex user problems.">
   <meta name="twitter:description" content="I've spent over a decade combining my passion for design and technology to create, build and deploy interactive experiences, applications and digital marketing.">
   <meta name="twitter:image" content="http://cmagruder.me/content/seo/facebook.jpg">
-  
+
 </head>
 <body>
 
@@ -80,7 +80,7 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="three columns" style="margin-top: 15%">
+        <div class="one-third column" style="margin-top: 15%">
           <div class="project-info">
               <h2>IHS Markit</h2>
               <ul class="work-role">
@@ -93,7 +93,7 @@
               <p class="work-data">2017-2018</p>
           </div>
         </div>
-          <div class="six columns offset-by-three" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 15%">
             <h5>A wider picture, a deeper focus.</h5>
 
             <p>While IHS and Markit on Demand worked to finish their merger, our internal design team focused on how to combine the current websites. </p>

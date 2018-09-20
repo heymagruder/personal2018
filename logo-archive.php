@@ -71,12 +71,12 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="six columns" style="margin-top: 15%">
+        <div class="one-third column" style="margin-top: 15%">
           <h2 class="work-title">Logo Archive</h2>
           <span class="work-role">Branding, Logo Design</span>
           <h6 class="work-year">2018</h6>
         </div>
-          <div class="six columns" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 15%">
             <h5>I Love Logos</h5>
             <p>Funny I know, but I do. Memorable logos are paramont to a solid brand identities. The ability for a logo to stand alone, in any application, is a principal requirement of every well-crafted brand.</p>
           </div>

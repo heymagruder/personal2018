@@ -78,14 +78,14 @@
 
     <div class="container u-full-width">
       <div class="row">
-        <div class="six columns" style="margin-top: 15%">
+        <div class="one-third column" style="margin-top: 15%">
           <div class="project-info">
               <h2 class="work-title">Fireplace Blocker</h2>
               <p class="work-role">Art Direction, Packaging Design, Photography, Visual Design</p>
               <p class="work-data">2010-2018</p>
           </div>
         </div>
-          <div class="six columns" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 15%">
             <h5>From Our Family, To Yours</h5>
             <p>Entrepreneur sprit. When you see a need for a product you go out and build it. </p>
             <p>The revolutionary fireplace blocker saves you money by reducing heat loss from your fireplace.</p>
