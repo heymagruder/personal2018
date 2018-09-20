@@ -72,8 +72,12 @@
     <div class="container u-full-width">
       <div class="row">
         <div class="one-third column" style="margin-top: 15%">
-          <h2 class="work-title">Logo Archive</h2>
-          <span class="work-role">Branding, Logo Design</span>
+              <h2>Logo Archive</h2>
+                <ul class="work-role">
+                  <li>Branding</li>
+                  <li>Marketing</li>
+                  <li>Logo Design</li>
+                </ul>
           <h6 class="work-year">2018</h6>
         </div>
           <div class="two-thirds column" style="margin-top: 15%">

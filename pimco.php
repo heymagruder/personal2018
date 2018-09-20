@@ -84,8 +84,14 @@
       <div class="row">
         <div class="one-third column" style="margin-top: 15%">
           <div class="project-info">
-              <h2 class="work-title">Pimco</h2>
-              <p class="work-role">Website Design, User Experience, User Interface</p>
+              <h2>Pimco</h2>
+              <ul class="work-role">
+                <li>Design</li>
+                <li>Branding</li>
+                <li>Marketing</li>
+                <li>Interactive Video Production</li>
+                <li>Product Design</li>
+              </ul>
               <p class="work-data">2017-2018</p>
           </div>
         </div>

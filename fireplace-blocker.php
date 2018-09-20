@@ -80,8 +80,14 @@
       <div class="row">
         <div class="one-third column" style="margin-top: 15%">
           <div class="project-info">
-              <h2 class="work-title">Fireplace Blocker</h2>
-              <p class="work-role">Art Direction, Packaging Design, Photography, Visual Design</p>
+                        <h2>Fireplace Blocker</h2>
+              <ul class="work-role">
+                <li>Art Direction</li>
+                <li>Packaging Design</li>
+                <li>Photography</li>
+                <li>Interactive Video Production</li>
+                <li>Visual Design</li>
+              </ul>
               <p class="work-data">2010-2018</p>
           </div>
         </div>
