@@ -136,6 +136,15 @@
         </div>
       </div>
       <br/>
+      <div class="row" style="margin-top: 10%">
+        <div class="one-half column">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_cards_square.jpg">
+        </div>
+        <div class="one-half column">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_glass.jpg">
+        </div>
+      </div>
+      <br/>
       <div class="row" style="margin-top: 4%">
         <div class="twelve column">
           <img class="u-full-width" src="images/atourfoods/atourfoods_honey.jpg">

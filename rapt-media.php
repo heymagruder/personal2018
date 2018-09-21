@@ -117,9 +117,34 @@
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
+          <img class="u-full-width" src="images/rapt/rapt-foc-spread.jpg">
+        </div>
+      </div>
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column">
           <img class="u-full-width" src="images/rapt/rapt-ny.jpg">
         </div>
       </div>
+
+
+<!--       <div class="row">
+        <div class="one-third column" style="margin-top: 15%">
+          <div class="project-info">
+          <h4>Interactive Video Example</h4>
+          <h6>Dead Lonely: A Zombie Romance</h6>
+        </div>
+          <div class="two-thirds column" style="margin-top: 15%">
+          <p>Dead Lonely was a partnership between Rapt Media and Aardman, the four-time Oscar award-winning studio and talented team of storytellers behind “Wallace and Gromit” and “Shaun the Sheep,” to explore the space between interactivity and storytelling. The result was a fun, engaging, game-like interactive experience.</p>
+          </div>
+      </div>
+
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column">
+            <a href="http://www.raptmedia.com/customers/aardman-dead-lonely/"><img class="u-full-width" src="images/rapt/dead-lonley.png"></a>
+        </div>
+      </div>
+
+       -->
         <div class="row" style="margin-top: 10%">
           <div class="twelve column work-quote">
               <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
