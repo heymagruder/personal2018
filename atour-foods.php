@@ -93,14 +93,8 @@
         </div>
           <div class="two-thirds column" style="margin-top: 15%">
             <h5>Our Family, To Yours</h5>
-            <p>From a family owned corner store to the shelves of major supermarkets, I've been working with Atour Foods for close to a decade.</p>
-            
-            <p>We've worked together building a brand that spans many languages and cultures. </p>
-
-            <p>A family recipe that has been passed down from generation to generation, finally makes it to the shelves.</p>
-            
-            <p>From the orginal product launch at thier local corner store to stocking the shelves of major supermarkets, I've been working together with Atour Foods for close to a decade. Building a logo into a brand is hard work. From sales and marketing materials, to packaging and branding. </p>
-            <p>What started as an engagement to update some sales and marketing materials has turned into a decade-long partnership with projects ranging from brand overhauls to web and packaging work.</p>
+            <p>From a family owned corner store to the shelves of major supermarkets, I've been working with Atour Foods for close to a decade. We've worked together to take a thier faimly receipe across mutiple languages and cultures.</p>
+            <p>......</p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->

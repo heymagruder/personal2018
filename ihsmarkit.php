@@ -98,9 +98,9 @@
 
             <p>While IHS and Markit on Demand worked to finish their merger, our internal design team focused on how to combine the current websites. </p>
 
-            <p>We had over 3000 products in 20 different verticals, plus multiple technologies powering each legacy site. The idea wasn't to reinvent company, but rather integrate a system that better defines the future for the combined business.</p>
+            <p>We had over 3000 products in 20 different verticals, plus multiple technologies powering each. The idea wasn't to reinvent company, but rather integrate into a system that better defines the future for the combined business.</p>
 
-            <p>Throughout a 6 week timespan we examined the current products, talked to business owners, interviewed stakeholders and gained perspective on how to approach the design. We used this knowledge to build a Findings Document, that became our roadmap for moving into design.</p>
+            <p>Throughout a 6 week timespan we examined the current products, talked to business owners, interviewed stakeholders and gained perspective on how to approach the design. We used this knowledge to build a Findings Document, that became our roadmap for moving into visualdesign.</p>
 
           </div>
       </div>
@@ -132,20 +132,26 @@
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
+        <div class="one-half column">
+          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-auto.jpg">
+        </div>
+        <div class="one-half column">
+          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-world.jpg">
+        </div>
+      </div>
+      <br/> 
+      <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-mobile.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
-        <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-01.jpg">
-        </div>
-        <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-03.jpg">
+        <div class="twelve column work-quote">
+            <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
+            <p>-Caleb Hanson, VP Product, Rapt Media</p>
         </div>
       </div>
-      <br/>
       <div class="row" style="margin-top: 10%">
         <div class="one-half column">
           <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-04.jpg">
@@ -154,17 +160,10 @@
           <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-05.jpg">
         </div>
       </div>
-      
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column work-quote">
-            <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
-            <p>-Caleb Hanson, VP Product, Rapt Media</p>
-        </div>
-      </div>
-
+       <br/> 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-nasdaq.jpg">
+          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-working.jpg">
         </div>
       </div><!-- End Grid Demo -->
     </div><!-- End Container -->

@@ -124,7 +124,7 @@ function showLoginPasswordProtect($error_msg) {
     <input type="password" name="access_password" /><p></p><input type="submit" name="Submit" value="Submit" />
   </form>
   <br />
-  <p style="font-size:16px; color: #333; font-family: Arial, Helvetica, sans-serif;">No Password? <a href="http://www.cmagruder.me/contact">Head Back To Site</a></p>
+  <p style="font-size:16px; color: #333; font-family: Arial, Helvetica, sans-serif;">No Password? <a href="http://dev.uneekgrafix.com/2018/">Head Back To Site</a></p>
   <p style="font-size:9px; color: #B0B0B0; font-family: Arial, Helvetica, sans-serif;">Thank you for keeping this page secure.</p>
   </div>
 </body>
