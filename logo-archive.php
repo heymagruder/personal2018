@@ -145,6 +145,7 @@
     </div></a>
 </div>
 
+<?php include('work-list.php'); ?>
 <?php include('footer.php'); ?>
 <?php include('footer-code.php'); ?>
 

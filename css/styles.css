@@ -435,12 +435,12 @@ a[href]:not(.brand-logo) {
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
-  color: white;
+  opacity: 0.4;
+
 }
 
 /* The dot/bullet/indicator container-contact */
-.dot-container-contact {
+.dot-container {
   text-align: center;
   padding: 20px;
 }
@@ -448,8 +448,8 @@ a[href]:not(.brand-logo) {
 /* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
-  height: 15px;
-  width: 15px;
+  height: 10px;
+  width: 10px;
   margin: 0 2px;
   background-color: #bbb;
   border-radius: 50%;

@@ -127,8 +127,6 @@
           </ol>
       </div>
 
-
-  
       <div class="one-third column" style="margin-top: 25%">
         <h5>Side Projects</h5>
           <ol>
@@ -154,6 +152,13 @@
           <img src="images/clients/MorganStanley.svg">
           <img src="images/clients/lrxd.svg">
           <img src="images/clients/spiredigital.svg">
+          <img src="images/clients/Ping.svg">
+          <img src="images/clients/netflix.svg">
+          <img src="images/clients/Google.svg">
+          <img src="images/clients/USAA.svg">
+          <img src="images/clients/MorganStanley.svg">
+          <img src="images/clients/lrxd.svg">
+          <img src="images/clients/spiredigital.svg">
         </div> 
       </div> 
 </div><!-- End Container --> 
@@ -163,7 +168,7 @@
 
 <div class="row"> 
   <div class="tweleve columns testimonials" style="margin-top: 15%">
-    <h5 class="center">Nice things people say about me</h5>
+    <h5 class="center">A Few Nice Things People Have Said About Me.</h5>
 
 <!-- Slideshow container -->
 <div class="slideshow-container">

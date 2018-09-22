@@ -145,6 +145,12 @@
         </div>
       </div>
       <br/>
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column work-quote">
+            <h4>"Atour Foods wouldn't be where it is today at without the hard work and creativity from Christopher. From our logo to our website, he's been leading the charge to elevate the brand. "</h4>
+            <p>-Sonny Khoshaba, Co-Owner, Atour Foods</p>
+        </div>
+      </div>
       <div class="row" style="margin-top: 4%">
         <div class="twelve column">
           <img class="u-full-width" src="images/atourfoods/atourfoods_honey.jpg">
@@ -154,12 +160,6 @@
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/atourfoods/atourfoods_recipe.jpg">
-        </div>
-      </div>
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column work-quote">
-            <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
-            <p>-Caleb Hanson, VP Product, Rapt Media</p>
         </div>
       </div>
       <div class="row" style="margin-top: 10%">

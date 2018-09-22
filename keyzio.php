@@ -91,8 +91,8 @@
                 <li>Art Direction</li>
                 <li>Branding</li>
                 <li>Product Design</li>
-                <li>User Experience</li>
                 <li>Print Design</li>
+                <li>User Experience</li>
               </ul>
               <p class="work-data">2016-2017</p>
           </div>
@@ -128,7 +128,7 @@
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
+          <img class="u-full-width" src="images/keyzio/keyzio-signup.jpg">
         </div>
       </div>
       <div class="row" style="margin-top: 10%">

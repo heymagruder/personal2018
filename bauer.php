@@ -96,7 +96,7 @@
           <div class="two-thirds column" style="margin-top: 15%">
             <h5>Perform Like A Pro</h5>
             
-              <p>Passion projects keep the skills sharp. They allow you to push boundaries and comfort levels. It’s an opportunity to get outside the normal restraints that sometimes come along from client work.</p>
+              <p>Passion projects keep the skills sharp. They allow you to push boundaries and comfort levels. It’s an opportunity to get outside the normal restraints that come along from client work.</p>
 
               <p>I have played hockey all my life. That means I've watched the evolution of the sport and with it the advancement of the equipment. When I came across these Bauer Vapors it sparked a burst of creative energy. A few minutes later I was feverishly sketching out a wireframe and pulling it into my computer to layout the page.</p>
 
