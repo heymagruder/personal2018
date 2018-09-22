@@ -96,11 +96,11 @@
           <div class="two-thirds column" style="margin-top: 15%">
             <h5>A wider picture, a deeper focus.</h5>
 
-            <p>While IHS and Markit on Demand worked to finish their merger, our internal design team focused on how to combine the current websites. </p>
+            <p>While IHS and Markit on Demand completed their merger, our internal design team focused on how to combine the current websites.</p>
 
             <p>We had over 3000 products in 20 different verticals, plus multiple technologies powering each. The idea wasn't to reinvent company, but rather integrate into a system that better defines the future for the combined business.</p>
 
-            <p>Throughout a 6 week timespan we examined the current products, talked to business owners, interviewed stakeholders and gained perspective on how to approach the design. We used this knowledge to build a Findings Document, that became our roadmap for moving into visualdesign.</p>
+            <p>Throughout a 6 week timespan we examined the current products, talked to business owners, interviewed stakeholders and gained perspective on how to approach the design. We used this knowledge to build a Findings Document, that became our roadmap for moving into visual design.</p>
 
           </div>
       </div>
@@ -122,6 +122,12 @@
         </div>
         <div class="one-half column">
           <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-notes2.jpg">
+        </div>
+      </div>
+      <br/>
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-wires.jpg">
         </div>
       </div>
       <br/>
@@ -154,10 +160,10 @@
       </div>
       <div class="row" style="margin-top: 10%">
         <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-04.jpg">
+          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-mobile-style.jpg">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-05.jpg">
+          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-spacing-style.jpg">
         </div>
       </div>
        <br/> 

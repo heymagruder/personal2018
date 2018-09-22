@@ -93,7 +93,7 @@
         </div>
           <div class="two-thirds column" style="margin-top: 15%">
             <h5>Our Family, To Yours</h5>
-            <p>From a family owned corner store to the shelves of major supermarkets, I've been working with Atour Foods for close to a decade. We've worked together to take a thier faimly receipe across mutiple languages and cultures.</p>
+            <p>From a family owned store to the shelves of major supermarkets, I've worked with Atour Foods for close to a decade helping market their traditional Kaymak spread.  We've worked together to take a their family recipe across multiple languages and cultures.</p>
             <p>......</p>
           </div>
       </div>
