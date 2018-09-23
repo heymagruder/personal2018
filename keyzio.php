@@ -117,9 +117,15 @@
         </div>
       </div>
       <br/>
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/keyzio/keyzio-wires-flow.jpg">
+        </div>
+      </div>
+      <br/>
       <div class="row" style="margin-top: 4%">
         <div class="one-half column">
-          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
+          <img class="u-full-width" src="images/keyzio/keyzio-business-set.jpg">
         </div>
         <div class="one-half column">
           <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
@@ -131,6 +137,11 @@
           <img class="u-full-width" src="images/keyzio/keyzio-signup.jpg">
         </div>
       </div>
+        <div class="row" style="margin-top: 10%">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/keyzio/keyzio-onboading-screens.jpg">
+        </div>
+      </div>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
             <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
@@ -139,7 +150,7 @@
       </div>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
+          <img class="u-full-width" src="images/keyzio/keyzio-listings.jpg">
         </div>
       </div><!-- End Grid Demo -->
     </div><!-- End Container -->

@@ -160,8 +160,8 @@
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
-            <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
-            <p>-Caleb Hanson, VP Product, Rapt Media</p>
+            <h4>"It's not just about all the data we have, it’s about tailoring it to our customers needs."</h4>
+            <p>-IHS Markit Executive</p>
         </div>
       </div>
       <div class="row" style="margin-top: 10%">

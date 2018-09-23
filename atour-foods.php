@@ -148,7 +148,7 @@
       <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
             <h4>"Atour Foods wouldn't be where it is today at without the hard work and creativity from Christopher. From our logo to our website, he's been leading the charge to elevate the brand. "</h4>
-            <p>-Sonny Khoshaba, Co-Owner, Atour Foods</p>
+            <p>-Sonny Khoshaba, Co-Founder, Atour Foods</p>
         </div>
       </div>
       <div class="row" style="margin-top: 4%">
@@ -159,7 +159,7 @@
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/atourfoods/atourfoods_recipe.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods_recipe-mockup.jpg">
         </div>
       </div>
       <div class="row" style="margin-top: 10%">
