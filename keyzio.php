@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126384960-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-126384960-1');
+</script>
 
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -100,9 +109,11 @@
           <div class="two-thirds column" style="margin-top: 15%">
             <h5>Where Every House Is For Sale</h5>
             
-            <p>Keyzio is a nationwide, consumer-to-consumer real estate marketplace where buyers and sellers connect with each other directly and optionally get the specific help they need to close the deal through our in-house and partner agents.</p>
+            <p> Keyzio is a network of buyers and sellers that showcase for-sale-by-owner properties. The app creates a profile and allows sellers to use social media to promote and market their houses before listing on the MLS.</p>
             
-            <p>I was asked to help improve the overall user experaince on their recently launched mobile application. I also provided art direction on their sales and marketing materials. Lastly, I refined thier logo to help sell the idea. </p>
+            <p>I helped improve the user flow on their application by providing a simple on-boarding process for users to get started. This helped set the stage for the user experiences throughout the application. We also redesigned the internal pages to help with visual consistency.</p>
+
+            <p>Once the screens where completed, I refined to the app icon and built out brand touchpoints, including website and marketing materials. </p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
@@ -142,12 +153,12 @@
           <img class="u-full-width" src="images/keyzio/keyzio-onboading-screens.jpg">
         </div>
       </div>
-      <div class="row" style="margin-top: 10%">
+      <!-- <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
             <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
             <p>-Caleb Hanson, VP Product, Rapt Media</p>
         </div>
-      </div>
+      </div> -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/keyzio/keyzio-listings.jpg">

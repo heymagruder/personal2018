@@ -94,6 +94,15 @@ if(!function_exists('showLoginPasswordProtect')) {
 function showLoginPasswordProtect($error_msg) {
 ?>
 <html>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126384960-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-126384960-1');
+</script>
 <head>
   <title>Please enter password to access this page</title>
   <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
