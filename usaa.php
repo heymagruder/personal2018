@@ -169,7 +169,7 @@
 <?php include('cta.php'); ?>
 
 
-<div class="view-work-cta u-full-width">
+<!-- <div class="view-work-cta u-full-width">
     <a href="logo-archive.php"><div class="one-half column view-big-biz">
       <p class="view-more">&larr; View Previous</p>
     </div></a>
@@ -178,7 +178,7 @@
        <p class="view-more">View Next &rarr;</p>
     </div></a>
 </div>
-
+ -->
 <?php include('work-list.php'); ?>
 <?php include('footer.php'); ?>
 <?php include('footer-code.php'); ?>

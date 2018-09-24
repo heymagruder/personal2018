@@ -152,7 +152,7 @@
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
 
-<div class="view-work-cta u-full-width">
+<!-- <div class="view-work-cta u-full-width">
     <a href="colorado14ers.php"><div class="one-half column view-big-biz">
       <p class="view-more">&larr; View Previous</p>
     </div></a>
@@ -160,7 +160,7 @@
     <a href="#"><div class="one-half column view-sm-biz">
        <p class="view-more">View Next &rarr;</p>
     </div></a>
-</div>
+</div> -->
 
 <?php include('footer.php'); ?>
 <?php include('footer-code.php'); ?>

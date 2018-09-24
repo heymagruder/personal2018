@@ -7,10 +7,9 @@
 }
 
 .about-me {
-  font-size: 26px;
-  font-weight: 100;
+  font-size: 20px;
   line-height: 40px;
-  color: #9da9b5;
+  margin-top: 12px;
 }
 
 .about-me-photo  {
@@ -242,10 +241,9 @@ footer {
 }
 
 .contact-cta {
-  text-align: center;
-  height: 700px;
   background-color: #1dc7d0;
   margin-top: 120px;
+  padding: 150px 50px;
 }
 
 .cta-info {
@@ -256,7 +254,10 @@ footer {
   background-color: #1dc7d0;
   letter-spacing: 1.3px;
   font-weight: 400;
-  padding-top: 160px;
+}
+
+.cta-info-button {
+  font-size: 2.1em;
 }
 
 .work-quote {
@@ -347,8 +348,8 @@ a[href]:not(.brand-logo) {
 
 .footnote{
   text-align: center;
-  font-size: 0.9em;
-  color: #a59f9f;
+  font-size: 0.7em;
+  color: #bdbdbd;
   padding-top: 30px;
 }
 

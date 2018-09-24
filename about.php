@@ -92,7 +92,7 @@
     <div class="row" style="margin-top: 15%">
       <div class="five columns about-me">
         <h3>A little about me</h3>
-        <p>I've spent over a decade using design to help. Whether it's helping users navigate an experience or helping startups establish their brand. I've combined my passion for design and technology to create simple and engaging experiences for brands of all sizes.</p>
+        <p>I've spent over a decade using design to help. Whether it's helping users navigate an experience or helping startups establish their brand. I've combined my passion for design and technology to create simple, engaging experiences for brands of all sizes.</p>
       </div>
 
       <div class="six columns offset-by-one" style="margin-top: 6%">
@@ -134,33 +134,13 @@
             <li><a href="http://cmagruder.me/fajokes/" target="_blank">Financial Advisor Jokes</a></li>
             <li><a href="http://www.nameies.com" target="_blank">Nameies</a></li>
             <li><a href="http://coderdojodenver.com/" target="_blank">CoderDojo</a></li>
-            <li><a href="#" target="_blank">Project Gilly</a></li>
           </ol>
       </div>
   </div>
 
 </div><!-- End Container -->
 
-   <div class="trust-bar u-full-width" style="margin-top: 15%">
-    <div class="container">
-    <h5>Great People Make Great Work</h5>
-        <div class="grid-client-logos">
-          <img src="images/clients/Ping.svg">
-          <img src="images/clients/netflix.svg">
-          <img src="images/clients/Google.svg">
-          <img src="images/clients/USAA.svg">
-          <img src="images/clients/MorganStanley.svg">
-          <img src="images/clients/lrxd.svg">
-          <img src="images/clients/spiredigital.svg">
-          <img src="images/clients/Ping.svg">
-          <img src="images/clients/netflix.svg">
-          <img src="images/clients/Google.svg">
-          <img src="images/clients/USAA.svg">
-          <img src="images/clients/MorganStanley.svg">
-          <img src="images/clients/lrxd.svg">
-          <img src="images/clients/spiredigital.svg">
-        </div> 
-      </div> 
+   
 </div><!-- End Container --> 
 
 
@@ -186,7 +166,12 @@
 
   <div class="mySlides">
     <q>Christopher is creative, responsive and accomplishes his objectives on time and on budget! He has been instrumental in the success of my business.</q>
-    <p class="author">- Scott Harrison, Founder Fireplace Blocker, LLC</p>
+    <p class="author">- Scott Harrison, Founder - Fireplace Blocker, LLC</p>
+  </div>
+
+    <div class="mySlides">
+    <q>His attention to detail was impeccable, his design process was effective and he created a one-of-a-kind logo for my business.</q>
+    <p class="author">- Andrew A. Iversen, Owner - iRadon</p>
   </div>
 
   <!-- Next/prev buttons -->
@@ -199,6 +184,7 @@
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
 </div>
 </div>
 

@@ -17,13 +17,12 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900|Source+Sans+Pro:400,700,100" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Kanit:800" rel="stylesheet">
-
+  
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
   <link rel="stylesheet" href="css/styles.css">
-  <link rel="stylesheet" href="css/animate.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/css/animsition.min.css">
 
   <!-- Favicon
@@ -61,6 +60,10 @@
   <meta name="twitter:description" content="I've spent over a decade combining my passion for design and technology to create, build and deploy interactive experiences, applications and digital marketing.">
   <meta name="twitter:image" content="http://cmagruder.me/content/seo/facebook.jpg">
 
+  <!-- Scripts
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script type="text/javascript" src="js/shuffle-text.min.js"></script>
+
 </head>
 <body>
 
@@ -75,119 +78,74 @@
   >
  <?php include('nav.php'); ?>
 
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/rapt/rapt-cards.jpg">
-        </div>
+    <div class="row">
+      <div class="seven columns" style="margin-top: 10%">
+        <h3 class="intro-text" id="shuffle">Reach Out, <br>& Say Hi.</h3>
       </div>
-
-
-    <div class="container u-full-width">
-      <div class="row">
-        <div class="one-third column" style="margin-top: 15%">
-          <div class="project-info">
-            <h2>Rapt Media</h2>
-              <ul class="work-role">
-                <li>Design</li>
-                <li>Branding</li>
-                <li>Marketing</li>
-                <li>Interactive Video Production</li>
-                <li>Product Design</li>
-              </ul>
-              <p class="work-data">2016-2017</p>
-          </div>
-        </div>
-          <div class="two-thirds column" style="margin-top: 15%">
-            <h5>Launching an interactive video technology.</h5>
-            <p>Working at a startup is both exciting and exhausting. Not only are you working nonstop to build a new technology but sometimes you find yourself laying down the tracks as the train is moving. It's scary. It's exciting. It's motivating. But most of all it's working together to create something new.</p>
-
-            <p>During my time I was responsible for three major areas: Interactive Video & Production, Product & Content Marketing, and Brand & Visual Language.</p>
-          </div>
-      </div>
-    </div><!-- End Container For Intro Content -->
-
-<!--       <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/rapt/rapt-icons.jpg">
-        </div>
-      </div>
-      <br/> -->
-      <div class="row" style="margin-top: 10%">
-        <div class="one-half column">
-          <img class="u-full-width" src="images/rapt/rapt-logo.gif">
-        </div>
-        <div class="one-half column">
-          <img class="u-full-width" src="images/rapt/rapt-notes.jpg">
-        </div>
-      </div>
-      <br/>
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/rapt/rapt-foc-spread.jpg">
-        </div>
-      </div>
-      <br/>
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/rapt/rapt-foc.jpg">
-        </div>
-      </div>
-      <br/>
-      <div class="row" style="margin-top: 4%">
-        <div class="one-half column">
-          <img class="u-full-width" src="images/rapt/rapt-foc-spread.jpg">
-        </div>
-        <div class="one-half column">
-          <img class="u-full-width" src="images/rapt/rapt-color-palette.gif">
-        </div>
-      </div>
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/rapt/rapt-ny.jpg">
-        </div>
-      </div>
-      <br/>
-        <div class="row" style="margin-top: 10%">
-          <div class="twelve column work-quote">
-              <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
-              <p>-Caleb Hanson, VP Product, Rapt Media</p>
-          </div>
-        </div>
-        <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/rapt/rapt-icons.jpg">
-        </div>
-      </div>
-      <br/>
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/rapt/rapt-sites2.jpg">
-      </div>
-    </div><!-- End Grid Demo -->
-
-        <p class="footnote">Rapt Media was recently acquired by Kaltura <a href="https://techcrunch.com/2018/05/25/kaltura-acquires-rapt-media/" target="_blank">Read More</a></p>
-
-    </div><!-- End Container -->
-
-<?php include('cta.php'); ?>
-
-<!-- <div class="view-work-cta u-full-width">
-    <div class="one-half column view-big-biz">
-      <p class="view-more"><a href="keyzio.php">&larr; View Previous</p>
     </div>
 
-    <div class="one-half column view-sm-biz">
-       <p class="view-more"><a href="colorado14ers.php">View Next &rarr;</p>
-    </div>
-</div> -->
+    <div class="row">
+      <div class="one-third column" style="margin-top: 10%">
+        <h5>Contact Me</h5
+        <p>heymagruder@gmail.com</p>
+      </div>
+      <div class="one-third column" style="margin-top: 10%">
+        <h5>LinkedIn</h5>
+        <p>https://www.linkedin.com/in/heymagruder/</p></div>
+      <div class="one-third column" style="margin-top: 10%">
+        <h5>Twitter</h5>
+        <p>https://twitter.com/heymagruder</p></div>
+      </div>
 
+    <div class="row">
+      <div class="big-biz one-half column" style="margin-top: 8%">
+        <h6 class="biz">Big Business</h6>
+            <ol>
+                <li><a href="ihsmarkit.php">IHS Markit
+                  <p class="descriptor">Helping two business merge into one.</p>
+                </a></li>
+                <li><a href="morgan-stanley.php">Morgan Stanley
+                <p class="descriptor">Refining the users experience.</p>
+                </a></li>
+                <li><a href="usaa.php">USAA
+                <p class="descriptor">Redefining the Markets &amp; Research experience.</p>
+                </a></li>
+                <li><a href="pimco.php">PIMCO
+                <p class="descriptor">Global landing page design.</p>
+                </a></li>
+                <li><a href="bauer.php">Bauer Hockey
+                <p class="descriptor">A passion project</p>
+                </a></li>
+              </ol>
+      </div>
 
-<?php include('work-list.php'); ?>
-<?php include('footer.php'); ?>
-<?php include('footer-code.php'); ?>
+      <div class="big-biz one-half column" style="margin-top: 8%">
+        <h6 class="biz">Small Business</h6>
+              <ol>
+                <li><a href="keyzio.php">Keyzio
+                <p class="descriptor">Improving the user experience.</p>
+                </a></li>
+                <li><a href="rapt-media.php">Rapt Media
+                <p class="descriptor">Helping build an interactive video platform.</p>
+                </a></li>
+               <li><a href="colorado14ers.php">Colorado 14ers
+                <p class="descriptor">Redesigning Colorado's best hiking resource.</p>
+                </a></li>
+                <li><a href="atour-foods.php">Atour Foods
+                <p class="descriptor">Branding a business from a kitchen to a dairy.</p>
+                </a></li>
+                <li><a href="logo-archive.php">Logo Archive
+                <p class="descriptor">A collection of logos, icons & brand elements.</p>
+                </a></li>
+              </ol>
+      </div>
+ </div><!-- End Container -->
+ <?php include('footer.php'); ?>
+ <?php include('footer-code.php'); ?>
+
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  
+
 </body>
 </html>
