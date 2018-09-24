@@ -99,7 +99,6 @@
               <ul class="work-role">
                 <li>Art Direction</li>
                 <li>Branding</li>
-                <li>Product Design</li>
                 <li>Print Design</li>
                 <li>User Experience</li>
               </ul>
@@ -109,11 +108,11 @@
           <div class="two-thirds column" style="margin-top: 15%">
             <h5>Where Every House Is For Sale</h5>
             
-            <p> Keyzio is a network of buyers and sellers that showcase for-sale-by-owner properties. The app creates a profile and allows sellers to use social media to promote and market their houses before listing on the MLS.</p>
+            <p> Keyzio is a network of buyers and sellers that showcase for-sale-by-owner properties. The sellers create a profile and use social media to promote and market their houses before listing on the MLS.</p>
             
-            <p>I helped improve the user flow on their application by providing a simple on-boarding process for users to get started. This helped set the stage for the user experiences throughout the application. We also redesigned the internal pages to help with visual consistency.</p>
+            <p>I helped improve the user flow on their application by providing a simple on-boarding process for users to get started. This helped set the stage for users and guide them through the experience. We also redesigned the internal pages to help with visual consistency.</p>
 
-            <p>Once the screens where completed, I refined to the app icon and built out brand touchpoints, including website and marketing materials. </p>
+            <p>Once the screens where completed, I refined to the app icon and built out brand touchpoints, including web and marketing materials. </p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
@@ -134,25 +133,18 @@
         </div>
       </div>
       <br/>
-      <div class="row" style="margin-top: 4%">
-        <div class="one-half column">
-          <img class="u-full-width" src="images/keyzio/keyzio-business-set.jpg">
-        </div>
-        <div class="one-half column">
-          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
-        </div>
-      </div>
-      <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/keyzio/keyzio-signup.jpg">
         </div>
       </div>
+      <br/>
         <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/keyzio/keyzio-onboading-screens.jpg">
         </div>
       </div>
+      <br/>
       <!-- <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
             <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
@@ -163,7 +155,17 @@
         <div class="twelve column">
           <img class="u-full-width" src="images/keyzio/keyzio-listings.jpg">
         </div>
-      </div><!-- End Grid Demo -->
+      </div>
+      <br/>
+        <div class="row" style="margin-top: 10%">
+        <div class="one-half column">
+          <img class="u-full-width" src="images/keyzio/keyzio-business-set.jpg">
+        </div>
+        <div class="one-half column">
+          <img class="u-full-width" src="images/keyzio/keyzio-site-mock.jpg">
+        </div>
+      </div>
+      <br/><!-- End Grid Demo -->
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
 
