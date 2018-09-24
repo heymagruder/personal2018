@@ -34,9 +34,7 @@ SAMPLE if you only want to request only password on login form.
 Note: only passwords are listed
 
 $LOGIN_INFORMATION = array(
-  'root',
-  'testpass',
-  'passwd'
+  'noneshallpass',
 );
 
 --------------------------------------------------------------------
@@ -135,22 +133,29 @@ function showLoginPasswordProtect($error_msg) {
   <link rel="canonical" href="http://cmagruder.me/"/>
 
 </head>
-<body style="background: #1dc7d0; padding: 40px;">
+<body style="background: #fff; padding: 40px;">
+      <div class="container">
+        <div class="row">
+          <div class="tweleve columns">
+<?php include('nav.php'); ?>
 
   <style>
     input { border: 1px solid #a2a2a2; padding: 9px; width: 50%;  }
   </style>
   <div class="pass-box">
   <form method="post">
-    <h3>This case study is password protected.</h3>
+    <h3>This work is password protected.</h3>
     <font color="red"><?php echo $error_msg; ?></font><br />
     <p>Enter Your Password Below</p>
-    <input type="password" name="access_password" /><p></p><input type="submit" name="Submit" value="Submit" />
+    <input type="password" name="access_password" /><p></p><input type="submit" class="button-primary" name="Submit" value="Submit" />
   </form>
   <br />
-  <p style="font-size:16px; color: #333; font-family: Arial, Helvetica, sans-serif;">No Password? <a href="http://dev.uneekgrafix.com/2018/">Head Back To Site</a></p>
-  <p style="font-size:9px; color: #B0B0B0; font-family: Arial, Helvetica, sans-serif;">Thank you for keeping this page secure.</p>
+  <p style="font-size:10px; color: #B0B0B0; font-family: Arial, Helvetica, sans-serif;">Thank you for keeping this page secure.</p>
   </div>
+   <?php include('footer.php'); ?>
+    </div>
+     </div>
+      </div>
 </body>
 </html>
 
@@ -210,3 +215,4 @@ else {
 }
 
 ?>
+

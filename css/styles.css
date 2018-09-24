@@ -566,10 +566,10 @@ q {font-style: italic;}
   text-align:center; 
   background-color: #f5f5f5;
   padding: 40px;
-  margin-top: 20px;
-   -webkit-box-shadow: 0px 4px 12px 1px rgba(20,151,158,0.8);
-    -moz-box-shadow: 0px 4px 12px 1px rgba(20,151,158,0.8);
-  box-shadow: 0px 4px 12px 1px rgba(20,151,158,0.8);
+  margin-top: 80px;
+   -webkit-box-shadow: 0px 4px 12px 1px rgba(195, 199, 199, 0.8);
+    -moz-box-shadow: 0px 4px 12px 1px rgba(195, 199, 199, 0.8);
+  box-shadow: 0px 4px 12px 1px rgba(195, 199, 199, 0.8);
 }
 
 
