@@ -100,23 +100,47 @@ function showLoginPasswordProtect($error_msg) {
   <title>Please enter password to access this page</title>
   <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
   <META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Christopher Magruder | Brand and Interface Designer</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900|Source+Sans+Pro:400,700,100" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Kanit:800" rel="stylesheet">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/css/animsition.min.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="canonical" href="http://cmagruder.me/"/>
+
 </head>
 <body style="background: #1dc7d0; padding: 40px;">
 
   <style>
     input { border: 1px solid #a2a2a2; padding: 9px; width: 50%;  }
   </style>
-  <div style="
-      width:55%; 
-      margin: 0 auto; 
-      text-align:center; 
-      background-color: #f5f5f5;
-      padding: 40px;
-      margin-top: 20px;
-        -webkit-box-shadow: 0px 4px 12px 1px rgba(20,151,158,0.8);
-        -moz-box-shadow: 0px 4px 12px 1px rgba(20,151,158,0.8);
-        box-shadow: 0px 4px 12px 1px rgba(20,151,158,0.8);
-  ">
+  <div class="pass-box">
   <form method="post">
     <h3>This case study is password protected.</h3>
     <font color="red"><?php echo $error_msg; ?></font><br />
