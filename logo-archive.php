@@ -14,7 +14,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Christopher Magruder | Brand and Interface Designer</title>
+  <title>Christopher Magruder | Senior User Experience Designer</title>
   <meta name="description" content="">
   <meta name="author" content="">
 
@@ -90,14 +90,13 @@
               <h2>Logo Archive</h2>
                 <ul class="work-role">
                   <li>Branding</li>
-                  <li>Marketing</li>
                   <li>Logo Design</li>
                 </ul>
-          <h6 class="work-year">2018</h6>
+          <h6 class="work-year">2009 - 2018</h6>
         </div>
           <div class="two-thirds column" style="margin-top: 15%">
             <h5>I Love Logos</h5>
-            <p>Funny I know, but I do. Memorable logos are paramont to a solid brand identities. The ability for a logo to stand alone, in any application, is a principal requirement of every well-crafted brand.</p>
+            <p>Simple, memorable logos are the most successful. I strive to distill ideas to their simplest forms. No more, no less.</p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->

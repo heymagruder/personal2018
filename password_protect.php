@@ -110,7 +110,7 @@ function showLoginPasswordProtect($error_msg) {
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Christopher Magruder | Brand and Interface Designer</title>
+  <title>Christopher Magruder | Senior User Experience Designer</title>
   <meta name="description" content="">
   <meta name="author" content="">
 

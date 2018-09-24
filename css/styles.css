@@ -627,6 +627,9 @@ q {font-style: italic;}
 @media only screen and (max-width: 840px) {
   .contact-cta {
     text-align: center;
+    background-color: #1dc7d0;
+    margin-top: 120px;
+    padding: 40px 50px;
   }
 }
 
