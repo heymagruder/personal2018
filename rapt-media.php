@@ -114,10 +114,10 @@
       <br/>
       <div class="row" style="margin-top: 4%">
         <div class="one-half column">
-          <img class="u-full-width" src="images/rapt/rapt-foc-spread.jpg">
+          <img class="u-full-width" src="images/rapt/rapt-logo.gif">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="images/rapt/rapt-colors.jpg">
+          <img class="u-full-width" src="images/rapt/rapt-foc-spread.jpg">
         </div>
       </div>
       <br/>
@@ -127,6 +127,14 @@
         </div>
       </div>
       <br/>
+      <div class="row" style="margin-top: 4%">
+        <div class="one-half column">
+          <img class="u-full-width" src="images/rapt/rapt-foc-spread.jpg">
+        </div>
+        <div class="one-half column">
+          <img class="u-full-width" src="images/rapt/rapt-color-palette.gif">
+        </div>
+      </div>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/rapt/rapt-ny.jpg">
