@@ -25,8 +25,7 @@
 
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900|Source+Sans+Pro:400,700,100" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Kanit:800" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:400,700,100" rel="stylesheet">
   
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

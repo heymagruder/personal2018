@@ -314,21 +314,6 @@ nav ul li a { color: black; }
 nav ul li a:visited { color: black; }
 nav ul li a:hover { opacity: 0.4; }
 
-.brand-logo {
-  color: #666;
-  font-family: 'Kanit', sans-serif;
-  text-align: left;
-  font-size: 2em;
-  line-height: 2px;
-  text-decoration: none;
-  font-weight: 800;
-}
-
-a .brand-logo {
-  text-decoration: none;
-  color: red;
-}
-
 .brand-nav {
 	font-size: 1.0em;
   padding: 10px;
@@ -365,7 +350,7 @@ a[href]:not(.brand-logo) {
 
 .darker {
   color: #324142;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .trust-bar {
