@@ -15,8 +15,8 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
   <title>Christopher Magruder | Senior User Experience Designer</title>
-  <meta name="description" content="">
-  <meta name="author" content="">
+  <meta name="description" content="Creating simple, engaging solutions to complex user problems.">
+  <meta name="author" content="Christopher Magruder">
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
