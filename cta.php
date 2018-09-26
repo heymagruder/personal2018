@@ -4,7 +4,7 @@
 			  <p class="cta-info">Want to see how I can help?</p>
 		</div>
 		<div class="one-third column">
-				<p class="cta-info-button"><button><a href="contact.php">Contact Me</button></p>
+				<p class="cta-info-button"><button><a href="contact">Contact Me</button></p>
 		</div>
 	</div>
 </div>

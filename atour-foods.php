@@ -109,7 +109,6 @@
           <div class="two-thirds column" style="margin-top: 15%">
             <h5>Our Family, To Yours</h5>
             <p>From a family owned store to the shelves of major supermarkets, I've worked with Atour Foods for close to a decade helping market their traditional Kaymak spread.  We've worked together to take a their family recipe across multiple languages and cultures.</p>
-            <p>......</p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
