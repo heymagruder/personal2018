@@ -1,4 +1,4 @@
- <div class="container">
+ <div class="container u-full-width">
  	<div class="row">
  		<div class="twelve columns">
 		    <footer>
