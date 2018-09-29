@@ -90,7 +90,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-nasdaq.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-aworkbench.jpg">
         </div>
       </div>
 
@@ -110,11 +110,9 @@
           </div>
         </div>
           <div class="two-thirds column" style="margin-top: 15%">
-            <h5>A wider picture, a deeper focus.</h5>
-            <p>While IHS and Markit on Demand worked to finish their merger, our internal design team focused on how to combine the current websites. </p>
-            <p>We had over 3000 products in 20 different verticals, plus multiple technologies powering each legacy site. The idea wasn't to reinvent company, but rather integrate a system that better defines the future for the combined business.</p>
-            <p>Throughout a 6 week timespan we examined the current products, talked to business owners, interviewed stakeholders and gained perspective on how to approach the design.</p>
-
+            <h5>Improving Private Banking</h5>
+            <p>Working alongside business owners we improved a product developed for Private Bankers. They provide personalized financial services to high-net-worth individuals, so speed and efficiency is paramount. </p>
+            <p>We validated with Private Bankers early to confirm our decisions and limit our scope, providing a clear path for improvement. Streamlining the content resulted in a robust and useful interface, increasing efficiency.</p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
@@ -125,46 +123,46 @@
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/morganstanley/morganstanley_aworkbench.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-aworkbench.jpg">
         </div>
       </div>
       <br/>
         <div class="row" style="margin-top: 4%">
         <div class="one-half column">
-          <img class="u-full-width" src="images/morganstanley/morganstanley_amodule.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-amodule.jpg">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="images/morganstanley/morganstanley_dropdown.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-dropdown.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-02.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-arow.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-mobile.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-anotes.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 4%">
         <div class="one-half column">
-          <img class="u-full-width" src="images/morganstanley/morganstanley_amodule.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-amodule.jpg">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="images/morganstanley/morganstanley_amodule.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-amodule.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-04.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-insights.jpg">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-05.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-anotes.jpg">
         </div>
       </div>
       
@@ -177,7 +175,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-nasdaq.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-insights.jpg">
         </div>
       </div>
       <!-- End Grid Demo -->
