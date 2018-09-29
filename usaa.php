@@ -101,20 +101,19 @@
           <div class="project-info">
               <h2>USAA</h2>
               <ul class="work-role">
-                <li>Design</li>
-                <li>Branding</li>
-                <li>Marketing</li>
-                <li>Interactive Video Production</li>
-                <li>Product Design</li>
+                <li>User Experience</li>
+                <li>Visual Design</li>
               </ul>
-              <p class="work-data">2017-2018</p>
+              <p class="work-data">2018</p>
           </div>
         </div>
           <div class="two-thirds column" style="margin-top: 15%">
-            <h5>A wider picture, a deeper focus.</h5>
-            <p>While IHS and Markit on Demand worked to finish their merger, our internal design team focused on how to combine the current websites. </p>
-            <p>We had over 3000 products in 20 different verticals, plus multiple technologies powering each legacy site. The idea wasn't to reinvent company, but rather integrate a system that better defines the future for the combined business.</p>
-            <p>Throughout a 6 week timespan we examined the current products, talked to business owners, interviewed stakeholders and gained perspective on how to approach the design.</p>
+            <h5>Investing can be difficult. Especially for the novice.</h5>
+            <p>When USAA asked us to rethink their current experience we knew it had to appeal to the novice and the power user. This is a difficult task. It needed to be approachable, but not insulting, and still robust.</p>
+
+            <p>TWorking together with their UX team, we redesigned informative screens like Stocks, ETFs and Mutual Funds quote pages. We also worked on robust tools like Alerts, Watchlists, and Screeners—even supplemental screens like quick quote popups for securities.</p>
+
+            <p>All screens included up-to-date Morningstar data and trade capabilities. They were built in React modules and delivered to USAA as F2 Apps, allowing control over content and placement. </p>
 
           </div>
       </div>

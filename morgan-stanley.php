@@ -101,13 +101,12 @@
           <div class="project-info">
               <h2>Morgan Stanley</h2>
               <ul class="work-role">
-                <li>Design</li>
-                <li>Branding</li>
-                <li>Marketing</li>
-                <li>Interactive Video Production</li>
-                <li>Product Design</li>
+                <li>Discovery & Definition</li>
+                <li>User Interviews</li>
+                <li>User Experience</li>
+                <li>Visual Design</li>
               </ul>
-              <p class="work-data">2017-2018</p>
+              <p class="work-data">2018</p>
           </div>
         </div>
           <div class="two-thirds column" style="margin-top: 15%">
@@ -126,7 +125,16 @@
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-findings.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley_aworkbench.jpg">
+        </div>
+      </div>
+      <br/>
+        <div class="row" style="margin-top: 4%">
+        <div class="one-half column">
+          <img class="u-full-width" src="images/morganstanley/morganstanley_amodule.jpg">
+        </div>
+        <div class="one-half column">
+          <img class="u-full-width" src="images/morganstanley/morganstanley_dropdown.jpg">
         </div>
       </div>
       <br/>
@@ -144,10 +152,10 @@
       <br/>
       <div class="row" style="margin-top: 4%">
         <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-01.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley_amodule.jpg">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-03.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley_amodule.jpg">
         </div>
       </div>
       <br/>

@@ -156,7 +156,7 @@
       <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
             <h4>"Atour Foods wouldn't be where it is today at without the hard work and creativity from Christopher. From our logo to our website, he's been leading the charge to elevate the brand. "</h4>
-            <p>-Sonny Khoshaba, Co-Founder, Atour Foods</p>
+            <p>-Sonny Khoshaba, President, Atour Foods</p>
         </div>
       </div>
       <div class="row" style="margin-top: 4%">
