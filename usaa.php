@@ -90,7 +90,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-nasdaq.jpg">
+          <img class="u-full-width" src="images/usaa/usaa-header.png">
         </div>
       </div>
 
@@ -111,7 +111,7 @@
             <h5>Investing can be difficult. Especially for the novice.</h5>
             <p>When USAA asked us to rethink their current experience we knew it had to appeal to the novice and the power user. This is a difficult task. It needed to be approachable, but not insulting, and still robust.</p>
 
-            <p>Working together with their UX team, we redesigned quote pages for Stocks, ETFs and Mutual Funds. We also worked on robust tools like Alerts, Watchlists, and Screeners—even supplemental screens like quick quote popups.</p>
+            <p>Working together with their UX team, we redesigned quote pages for Stocks, ETFs and Mutual Funds. We also worked on robust tools like Alerts, Watchlists, Fund Comparison, and Screeners—even supplemental screens like quick quote popups.</p>
 
             <p>Including main pages, workflows, interstitial and edge cases the number of screens neared two hundred. All screens included up-to-date Morningstar data and trade capabilities. They were built as React modules and delivered to USAA as F2 Apps, allowing control over content and placement. </p>
 
@@ -141,29 +141,27 @@
         </div>
       </div>
       <br/>
+      <div class="row" style="margin-top: 10%">
       <div class="twelve column">
-          <img class="u-full-width" src="images/usaa/usaa-screener.jpg">
+          <img class="u-full-width" src="images/usaa/usaa-screeners.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 4%">
         <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-01.jpg">
+          <img class="u-full-width" src="images/usaa/usaa-mf-qq.jpg">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-03.jpg">
+          <img class="u-full-width" src="images/usaa/usaa-mf-qq2.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
-        <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-04.jpg">
-        </div>
-        <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-05.jpg">
+      <div class="twelve column">
+          <img class="u-full-width" src="images/usaa/usaa-fundcompare.jpg">
         </div>
       </div>
-      
+      <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
             <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
@@ -172,8 +170,8 @@
       </div>
 
       <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-nasdaq.jpg">
+      <div class="twelve column">
+          <img class="u-full-width" src="images/usaa/usaa-fundcompare.jpg">
         </div>
       </div>
       <!-- End Grid Demo -->
