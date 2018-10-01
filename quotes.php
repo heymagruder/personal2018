@@ -9,18 +9,28 @@
 
   <!-- Full-width slides/quotes -->
   <div class="mySlides">
-    <q>Christopher is a talented designer who's always thinking about the business needs around the design.</q>
-    <p class="author">- Caleb Hanson, VP Product, Rapt Media</p>
+    <q>What sets Christopher apart is his passion for design and his natural curiosity for developing compelling solutions.</q>
+    <p class="author">- Ben Dybas, Creative Director, Bearings Branding</p>
   </div>
 
   <div class="mySlides">
-    <q>What sets Christopher apart is his passion for design and his natural curiosity for developing compelling solutions. </q>
-    <p class="author">- Ben Dybas, Creative Director - Bearings Branding</p>
+    <q>Christopher has an eye for detail, is self-directed and motivated, and adept at managing projects and the individuals involved.</q>
+    <p class="author">- Brannan McGill, Design Director, Rezora</p>
   </div>
 
   <div class="mySlides">
-    <q>Christopher is creative, responsive and accomplishes his objectives on time and on budget! He has been instrumental in the success of my business.</q>
-    <p class="author">- Scott Harrison, Founder Fireplace Blocker, LLC</p>
+    <q>Christopher is a multi-talented designer who brings with him personal integrity, a strong work ethic, and a kind of open, warm, friendliness that adds immeasurably to the office.</q>
+    <p class="author">- Erika Trautman, Senior Product Manager, Google</p>
+  </div>
+
+  <div class="mySlides">
+    <q>Christopher' ability to translate disparate concepts and ideas into a a cohesive brand, image and message have continually impressed</q>
+    <p class="author">- Ryan Hale, Services Director, AHEAD</p>
+  </div>
+
+  <div class="mySlides">
+    <q>Christopher is creative, responsive and accomplishes projects on time and on budget! He has been instrumental in the success of my business.</q>
+    <p class="author">- Scott Harrison, Founder, Fireplace Blocker, LLC</p>
   </div>
 
   <!-- Next/prev buttons -->
@@ -33,5 +43,8 @@
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
 </div>
 </div>
+

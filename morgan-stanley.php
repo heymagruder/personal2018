@@ -90,7 +90,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/morganstanley/morganstanley-aworkbench.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-header.jpg">
         </div>
       </div>
 
@@ -112,7 +112,7 @@
           <div class="two-thirds column" style="margin-top: 15%">
             <h5>Improving Private Banking</h5>
             <p>Working alongside business owners we improved a product developed for Private Bankers. They provide personalized financial services to high-net-worth individuals, so speed and efficiency is paramount. </p>
-            <p>We validated with Private Bankers early to confirm our decisions and limit our scope, providing a clear path for improvement. Streamlining the content resulted in a robust and useful interface, increasing efficiency.</p>
+            <p>During our engagement we focused on improving the user experience for Alerts, Opportunities and Pipeline. We validated with Private Bankers early to confirm our decisions and limit our scope, providing a clear path for improvement. We streamlined the content providing a robust and useful interface, increasing efficiency. </p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
@@ -150,35 +150,34 @@
       <br/>
       <div class="row" style="margin-top: 4%">
         <div class="one-half column">
-          <img class="u-full-width" src="images/morganstanley/morganstanley-amodule.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-anotes-none.jpg">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="images/morganstanley/morganstanley-amodule.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-anotes-full.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
-        <div class="one-half column">
+        <div class="twelve column">
           <img class="u-full-width" src="images/morganstanley/morganstanley-insights.jpg">
         </div>
-        <div class="one-half column">
-          <img class="u-full-width" src="images/morganstanley/morganstanley-anotes.jpg">
-        </div>
       </div>
-      
+      <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
             <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
             <p>-Caleb Hanson, VP Product, Rapt Media</p>
         </div>
       </div>
-
+      <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/morganstanley/morganstanley-insights.jpg">
+          <img class="u-full-width" src="images/morganstanley/morganstanley-alerts-group.jpg">
         </div>
       </div>
       <!-- End Grid Demo -->
+
+      <p class="footnote">All work was done while employeed at IHS Markit.</p>
 
     </div><!-- End Container -->
 <?php include('cta.php'); ?>

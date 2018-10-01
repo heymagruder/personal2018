@@ -111,9 +111,9 @@
             <h5>Investing can be difficult. Especially for the novice.</h5>
             <p>When USAA asked us to rethink their current experience we knew it had to appeal to the novice and the power user. This is a difficult task. It needed to be approachable, but not insulting, and still robust.</p>
 
-            <p>TWorking together with their UX team, we redesigned informative screens like Stocks, ETFs and Mutual Funds quote pages. We also worked on robust tools like Alerts, Watchlists, and Screeners—even supplemental screens like quick quote popups for securities.</p>
+            <p>Working together with their UX team, we redesigned quote pages for Stocks, ETFs and Mutual Funds. We also worked on robust tools like Alerts, Watchlists, and Screeners—even supplemental screens like quick quote popups.</p>
 
-            <p>All screens included up-to-date Morningstar data and trade capabilities. They were built in React modules and delivered to USAA as F2 Apps, allowing control over content and placement. </p>
+            <p>Including main pages, workflows, interstitial and edge cases the number of screens neared two hundred. All screens included up-to-date Morningstar data and trade capabilities. They were built as React modules and delivered to USAA as F2 Apps, allowing control over content and placement. </p>
 
           </div>
       </div>
@@ -125,19 +125,24 @@
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-findings.jpg">
+          <img class="u-full-width" src="images/usaa/usaa-markets-full.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-02.jpg">
+          <img class="u-full-width" src="images/usaa/usaa-market-headers.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-mobile.jpg">
+          <img class="u-full-width" src="images/usaa/usaa-components.jpg">
+        </div>
+      </div>
+      <br/>
+      <div class="twelve column">
+          <img class="u-full-width" src="images/usaa/usaa-screener.jpg">
         </div>
       </div>
       <br/>
@@ -172,6 +177,8 @@
         </div>
       </div>
       <!-- End Grid Demo -->
+
+      <p class="footnote">All work was done while employeed at IHS Markit.</p>
 
     </div><!-- End Container -->
 <?php include('cta.php'); ?>

@@ -174,6 +174,8 @@
       </div>
       <!-- End Grid Demo -->
 
+      <p class="footnote">All work was done while employeed at IHS Markit.</p>
+      
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
 
