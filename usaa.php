@@ -131,12 +131,6 @@
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/usaa/usaa-market-headers.jpg">
-        </div>
-      </div>
-      <br/>
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
           <img class="u-full-width" src="images/usaa/usaa-components.jpg">
         </div>
       </div>
@@ -147,7 +141,7 @@
         </div>
       </div>
       <br/>
-      <div class="row" style="margin-top: 4%">
+      <div class="row" style="margin-top: 10%">
         <div class="one-half column">
           <img class="u-full-width" src="images/usaa/usaa-mf-qq.jpg">
         </div>
@@ -171,7 +165,7 @@
 
       <div class="row" style="margin-top: 10%">
       <div class="twelve column">
-          <img class="u-full-width" src="images/usaa/usaa-fundcompare.jpg">
+          <img class="u-full-width" src="images/usaa/usaa-etf-quote.jpg">
         </div>
       </div>
       <!-- End Grid Demo -->
