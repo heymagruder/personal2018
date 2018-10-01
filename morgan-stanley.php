@@ -163,13 +163,13 @@
         </div>
       </div>
       <br/>
-      <div class="row" style="margin-top: 10%">
+<!--       <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
             <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
             <p>-Caleb Hanson, VP Product, Rapt Media</p>
         </div>
       </div>
-      <br/>
+      <br/> -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/morganstanley/morganstanley-alerts-group.jpg">
