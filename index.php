@@ -121,17 +121,17 @@
       <div class="big-biz one-half column" style="margin-top: 8%">
         <h6 class="biz">Small Business</h6>
               <ol>
-                <li><a href="keyzio">Keyzio
-                <p class="descriptor">Improving the user experience.</p>
-                </a></li>
                 <li><a href="rapt-media">Rapt Media
                 <p class="descriptor">Helping build an interactive video platform.</p>
                 </a></li>
-               <li><a href="colorado14ers">Colorado 14ers
-                <p class="descriptor">Redesigning Colorado's best hiking resource.</p>
-                </a></li>
                 <li><a href="atour-foods">Atour Foods
                 <p class="descriptor">Branding a business from a kitchen to a dairy.</p>
+                </a></li>
+                <li><a href="colorado14ers">Colorado 14ers
+                <p class="descriptor">Redesigning Colorado's best hiking resource.</p>
+                </a></li>
+                <li><a href="keyzio">Keyzio
+                <p class="descriptor">Improving the user experience.</p>
                 </a></li>
                 <li><a href="logo-archive">Logo Archive
                 <p class="descriptor">A collection of logos, icons & brand elements.</p>
