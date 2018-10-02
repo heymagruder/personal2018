@@ -113,7 +113,7 @@
 
             <p>Working together with their UX team, we redesigned quote pages for Stocks, ETFs and Mutual Funds. We also worked on robust tools like Alerts, Watchlists, Fund Comparison, and Screeners—even supplemental screens like quick quote popups.</p>
 
-            <p>Including main pages, workflows, interstitial and edge cases the number of screens neared two hundred. All screens included up-to-date Morningstar data and trade capabilities. They were built as React modules and delivered to USAA as F2 Apps, allowing control over content and placement. </p>
+            <p>Including main pages, workflows, interstitial and edge cases the number of screens neared 200. All screens included up-to-date Morningstar data and trade capabilities. They were built as React modules and delivered to USAA as F2 Apps, allowing control over content and placement. </p>
 
           </div>
       </div>
