@@ -37,7 +37,7 @@
   <link rel="stylesheet" href="css/animate.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/css/animsition.min.css">
 
-  <!-- Favicon
+   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
@@ -46,23 +46,23 @@
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
-  <link rel="canonical" href="http://cmagruder.me/"/>
+  <link rel="canonical" href="http://heymagruder.com"/>
 
   <!-- Meta
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <!-- Facebook Open Graph  -->
   <meta property="og:site_name" content="Christopher Magruder"/>
   <meta property="og:title" content="Creating simple, engaging solutions to complex user problems."/>
-  <meta property="og:url" content="http://cmagruder.me"/>
+  <meta property="og:url" content="http://heymagruder.com"/>
   <meta property="og:type" content="website"/>
   <meta property="og:description" content="I've spent over a decade combining my passion for design and technology to create, build and deploy interactive experiences, applications and digital marketing."/>
-  <meta property="og:image" content="http://cmagruder.me/content/seo/facebook.jpg"/>
+  <meta property="og:image" content="seo/facebook.jpg"/>
   
   <!-- Meta Open Graph  -->
   <meta property="og:title" content="User Interface Designer" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="http://cmagruder.me/" />
-  <meta property="og:image" content="http://cmagruder.me/content/seo/facebook.jpg" />
+  <meta property="og:url" content="http://heymagruder.com" />
+  <meta property="og:image" content="seo/facebook.jpg" />
   
   <!-- Twitter Open Graph  -->
   <meta name="twitter:card" content="summary_large_image">
@@ -70,7 +70,7 @@
   <meta name="twitter:creator" content="@heymagruder">
   <meta name="twitter:title" content="Creating simple, engaging solutions to complex user problems.">
   <meta name="twitter:description" content="I've spent over a decade combining my passion for design and technology to create, build and deploy interactive experiences, applications and digital marketing.">
-  <meta name="twitter:image" content="http://cmagruder.me/content/seo/facebook.jpg">
+  <meta name="twitter:image" content="seo/facebook.jpg">
 
 </head>
 <body>
