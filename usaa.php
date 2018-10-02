@@ -156,13 +156,12 @@
         </div>
       </div>
       <br/>
-<!--       <div class="row" style="margin-top: 10%">
+       <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
-            <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
-            <p>-Caleb Hanson, VP Product, Rapt Media</p>
+            <h4>"Markit was able to deliver a design that is approachable and not overly technical, which is perfect for our members."</h4>
+            <p>-USAA Executive</p>
         </div>
-      </div> -->
-
+      </div>
       <div class="row" style="margin-top: 10%">
       <div class="twelve column">
           <img class="u-full-width" src="images/usaa/usaa-etf-quote.jpg">
