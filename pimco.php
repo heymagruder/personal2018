@@ -90,7 +90,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-nasdaq.jpg">
+          <img class="u-full-width" src="images/pimco/pimco-header.jpg">
         </div>
       </div>
 
@@ -101,21 +101,14 @@
           <div class="project-info">
               <h2>Pimco</h2>
               <ul class="work-role">
-                <li>Design</li>
-                <li>Branding</li>
-                <li>Marketing</li>
-                <li>Interactive Video Production</li>
-                <li>Product Design</li>
+                <li>Visual Design</li>
               </ul>
-              <p class="work-data">2017-2018</p>
+              <p class="work-data">2018</p>
           </div>
         </div>
           <div class="two-thirds column" style="margin-top: 15%">
-            <h5>A wider picture, a deeper focus.</h5>
-            <p>While IHS and Markit on Demand worked to finish their merger, our internal design team focused on how to combine the current websites. </p>
-            <p>We had over 3000 products in 20 different verticals, plus multiple technologies powering each legacy site. The idea wasn't to reinvent company, but rather integrate a system that better defines the future for the combined business.</p>
-            <p>Throughout a 6 week timespan we examined the current products, talked to business owners, interviewed stakeholders and gained perspective on how to approach the design.</p>
-
+            <h5>Helping Market, Marketing.</h5>
+            <p>Working together with their brand team we supported PIMCO with a redesign of their marketing pages.</p>
           </div>
       </div>
     </div><!-- End Container For Intro Content -->
@@ -126,69 +119,35 @@
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-findings.jpg">
+          <img class="u-full-width" src="images/pimco/pimco-page-full.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-02.jpg">
+          <img class="u-full-width" src="images/pimco/pimco-funds.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-mobile.jpg">
+          <img class="u-full-width" src="images/pimco/pimco-page-tabbed.jpg">
         </div>
       </div>
       <br/>
-      <div class="row" style="margin-top: 4%">
-        <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-01.jpg">
-        </div>
-        <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-03.jpg">
-        </div>
-      </div>
-      <br/>
-      <div class="row" style="margin-top: 10%">
-        <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-04.jpg">
-        </div>
-        <div class="one-half column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-05.jpg">
-        </div>
-      </div>
-      
-      <div class="row" style="margin-top: 10%">
+<!--       <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
             <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
             <p>-Caleb Hanson, VP Product, Rapt Media</p>
         </div>
-      </div>
+      </div> -->
 
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/ihsmarkit/ihsmarkit-nasdaq.jpg">
-        </div>
-      </div>
       <!-- End Grid Demo -->
 
       <p class="footnote">All work was done while employeed at IHS Markit.</p>
       
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
-
-
-<!-- <div class="view-work-cta u-full-width">
-    <a href="logo-archive.php"><div class="one-half column view-big-biz">
-      <p class="view-more">&larr; View Previous</p>
-    </div></a>
-
-    <a href="#"><div class="one-half column view-sm-biz">
-       <p class="view-more">View Next &rarr;</p>
-    </div></a>
-</div> -->
 
 <?php include('work-list.php'); ?>
 <?php include('footer.php'); ?>
