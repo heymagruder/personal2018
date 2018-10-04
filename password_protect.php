@@ -103,7 +103,7 @@ function showLoginPasswordProtect($error_msg) {
   gtag('config', 'UA-126384960-1');
 </script>
 <head>
-  <title>Please enter password to access this page</title>
+  <title>Please enter a password to access this page</title>
   <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
   <META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
   <!-- Basic Page Needs
