@@ -56,7 +56,7 @@
   <meta property="og:image" content="seo/facebook.jpg"/>
   
   <!-- Meta Open Graph  -->
-  <meta property="og:title" content="User Interface Designer" />
+  <meta property="og:title" content="Senior User Experience Designer" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="http://heymagruder.com" />
   <meta property="og:image" content="seo/facebook.jpg" />
