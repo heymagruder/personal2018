@@ -86,7 +86,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/atourfoods/atourfoods_hero.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods-hero.jpg">
         </div>
       </div>
 
@@ -119,60 +119,60 @@
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/atourfoods/atourfoods_logotype.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods-logo.gif">
+        </div>
+      </div>
+      <br/>
+      <div class="row" style="margin-top: 10%">
+        <div class="one-half column">
+          <img class="u-full-width" src="images/atourfoods/atourfoods-logotype-square.jpg">
+        </div>
+        <div class="one-half column">
+          <img class="u-full-width" src="images/atourfoods/atourfoods-icon-square.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/atourfoods/atourfoods_icon.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods-guidelines.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="one-half column">
-          <img class="u-full-width" src="images/atourfoods/atourfoods_logotype_square.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods-cards-square.jpg">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="images/atourfoods/atourfoods_icon_square.jpg">
-        </div>
-      </div>
-      <br/>
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/atourfoods/atourfoods_guidelines.jpg">
-        </div>
-      </div>
-      <br/>
-      <div class="row" style="margin-top: 10%">
-        <div class="one-half column">
-          <img class="u-full-width" src="images/atourfoods/atourfoods_cards_square.jpg">
-        </div>
-        <div class="one-half column">
-          <img class="u-full-width" src="images/atourfoods/atourfoods_glass.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods-glass.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
-            <h4>"Atour Foods wouldn't be where it is today at without the hard work and creativity from Christopher. From our logo to our website, he's been leading the charge to elevate the brand. "</h4>
+            <h4>"Atour Foods wouldn't be where it is today without the hard work and creativity from Christopher. From our logo to our website, he's been leading the charge to elevate the brand."</h4>
             <p>-Sonny Khoshaba, President, Atour Foods</p>
         </div>
       </div>
       <div class="row" style="margin-top: 4%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/atourfoods/atourfoods_honey.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods-honey.jpg">
+        </div>
+      </div>
+      <br/>
+      <div class="row" style="margin-top: 4%">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/atourfoods/atourfoods-recipe.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/atourfoods/atourfoods_recipe-mockup.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods-recipe-mockup.jpg">
         </div>
       </div>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/atourfoods/atourfoods_tubs.jpg">
+          <img class="u-full-width" src="images/atourfoods/atourfoods-tubs.jpg">
         </div>
       </div><!-- End Grid Demo -->
     </div><!-- End Container -->
