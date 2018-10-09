@@ -106,7 +106,7 @@
       <div class="six columns offset-by-one" style="margin-top: 6%">
         <p>Over the past 14 years, I've had the privilege of working with clients from startups to global brands. Between brand, digital, product and marketing–I’ve worked and delivered it all. I've spent my life helping other people succeed and it's something that I enjoy.</p>
 
-        <p>I also believe in pushing the boundaries of technology, to me learning is growing. I'm one of the organizers of RefreshDenver, a local meetup focused on advancing the creative and technical aspects of our industry. If you're local or looking to learn something new, feel free to stop by and say hello.</p>
+        <p>I also believe in pushing the boundaries of technology, to me learning is growing. I'm one of the organizers of <a href="https://www.meetup.com/refreshdenver/" target="_blank">RefreshDenver</a>, a local meetup focused on advancing the creative and technical aspects of our industry. If you're local or looking to learn something new, feel free to stop by and say hello.</p>
 
         <p>I currently live in beautiful Colorado with my wife, two sons and a couple of rescue dogs. When I'm not working, I'm playing hockey, enjoying the outdoors, or working on my vintage 4x4.</p>
       </div>
