@@ -138,8 +138,9 @@
         <div class="grid-img"><img src="images/logos/we-work-nights.png"></div>
         <div class="grid-img"><img src="images/logos/Zenubu.png"></div>
       </div> 
-  </div> 
-</div><!-- End Container -->
+    </div> 
+  </div> <!-- End Logo Grid Container -->
+</div><!-- End Mian Container -->
   
 <?php include('cta.php'); ?>
 
