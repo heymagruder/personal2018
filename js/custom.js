@@ -24,6 +24,7 @@ $(document).ready(function() {
 
     (function() {
         var el = document.getElementById("shuffle");
+        if (!el) return
         var text = new ShuffleText(el);
         
         text.start();
