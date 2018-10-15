@@ -169,7 +169,7 @@
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column work-quote">
-            <h4>"It's not just about all the data we have, it’s about tailoring it to our customers needs."</h4>
+            <h4>"It's not just about all the data we have, it’s about tailoring it to<br> our customers needs."</h4>
             <p>-IHS Markit Executive</p>
         </div>
       </div>
