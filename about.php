@@ -117,7 +117,10 @@
         <h5>Experience</h5>
         <ol>
             <li class="experience">
-              <span class="date">2017 &mdash; Today</span>
+              <span class="date">2018 &mdash; Today</span>
+              <strong>Creative Director, Brand</strong>, ConsenSys
+            </li>
+              <span class="date">2017 &mdash; 2018</span>
               <strong>VP Design</strong>, IHS Markit
             </li>
             <li>
