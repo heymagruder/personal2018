@@ -143,7 +143,7 @@
         <h5>Side Projects</h5>
           <ol>
             <li><a href="http://refreshdenver.org/" target="_blank">RefreshDenver</a></li>
-            <li><a href="http://cmagruder.me/fajokes/" target="_blank">Financial Advisor Jokes</a></li>
+            <li><a href="http://heymagruder.com/fajokes/" target="_blank">Financial Advisor Jokes</a></li>
             <li><a href="http://www.nameies.com" target="_blank">Nameies</a></li>
             <li><a href="http://coderdojodenver.com/" target="_blank">CoderDojo</a></li>
           </ol>
