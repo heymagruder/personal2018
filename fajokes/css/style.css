@@ -1,0 +1,85 @@
+.btn-row{
+    padding-top: 50px;
+}
+
+.btn {
+    background-color: #fff;
+    border: none;
+    color: #28312E;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+
+}
+
+.btn:hover {
+    opacity: 0.8;
+
+}
+
+.btn-twitter {
+    background-color: #1dcaff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 25px
+
+}
+
+.btn-twitter:hover {
+    opacity: 0.8;
+
+}
+
+.cbp-qtrotator {
+	position: relative;
+    margin: 3em auto 5em auto;
+    width: 100%;
+    min-height: 400px;
+    font-size: 2.5em;
+    font-weight: 100;
+    line-height: 45px;
+    padding: 80px;
+    color: #17492B;
+    /* default fallback */
+    background: rgb(255, 255, 255) transparent;
+    /* nice browsers */
+    background: rgba(255, 255, 255, 0.2);
+    /* IE 6/7 */
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#CCFFFFFF, endColorstr=#CCFFFFFF);
+    /* IE8 */    
+        -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#CCFFFFFF, endColorstr=#CCFFFFFF)";
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    border-top: 1px solid #eaeaea;
+    width: 90%;
+    margin: 0 auto;
+    font-size: 0.8em;
+    color: #666;
+}
+
+/* Example for media query */
+@media screen and (max-width: 30.6em) { 
+
+    .cbp-qtrotator {
+        font-size: 2.1em;
+        padding: 20px;
+        margin: 0.8em auto 1em auto;
+    }
+
+    header {
+    padding: 2.2em 0.1em 0.7em;
+    }
+}
+
+
