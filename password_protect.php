@@ -147,7 +147,7 @@ function showLoginPasswordProtect($error_msg) {
 <?php include('nav.php'); ?>
 
   <style>
-    input { border: 1px solid #a2a2a2; padding: 9px; width: 50%;  }
+    input { border: 1px solid #a2a2a2; padding: 9px;}
   </style>
   <div class="pass-box">
   <form method="post">
