@@ -54,13 +54,13 @@
   <meta property="og:url" content="http://heymagruder.com"/>
   <meta property="og:type" content="website"/>
   <meta property="og:description" content="I've spent over a decade combining my passion for design and technology to create, build and deploy interactive experiences, applications and digital marketing."/>
-  <meta property="og:image" content="/seo/facebook.jpg"/>
+  <meta property="og:image" content="seo/facebook.jpg"/>
   
   <!-- Meta Open Graph  -->
   <meta property="og:title" content="Senior User Experience Designer" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="http://heymagruder.com" />
-  <meta property="og:image" content="/seo/facebook.jpg" />
+  <meta property="og:image" content="seo/facebook.jpg" />
   
   <!-- Twitter Open Graph  -->
   <meta name="twitter:card" content="summary_large_image">
@@ -68,7 +68,7 @@
   <meta name="twitter:creator" content="@heymagruder">
   <meta name="twitter:title" content="Creating simple, engaging solutions to complex user problems.">
   <meta name="twitter:description" content="I've spent over a decade combining my passion for design and technology to create, build and deploy interactive experiences, applications and digital marketing.">
-  <meta name="twitter:image" content="/seo/facebook.jpg">
+  <meta name="twitter:image" content="seo/facebook.jpg">
 
 </head>
 <body>
@@ -135,12 +135,6 @@
           <img class="u-full-width" src="images/colorado/14ers-site1.jpg">
         </div>
       </div>
-<!--       <div class="row" style="margin-top: 10%">
-        <div class="twelve column work-quote">
-            <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
-            <p>-Caleb Hanson, VP Product, Rapt Media</p>
-        </div>
-      </div> -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
           <img class="u-full-width" src="images/colorado/14ers-site2.jpg">
@@ -148,17 +142,6 @@
       </div><!-- End Grid Demo -->
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
-
-<!-- <div class="view-work-cta u-full-width">
-    <a href="rapt-media.php"><div class="one-half column view-big-biz">
-      <p class="view-more">&larr; View Previous</p>
-    </div></a>
-
-    <a href="atour-foods.php"><div class="one-half column view-sm-biz">
-       <p class="view-more">View Next &rarr;</p>
-    </div></a>
-</div> -->
-
 <?php include('work-list.php'); ?>
 <?php include('footer.php'); ?>
 <?php include('footer-code.php'); ?>

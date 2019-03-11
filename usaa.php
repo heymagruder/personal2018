@@ -56,13 +56,13 @@
   <meta property="og:url" content="http://heymagruder.com"/>
   <meta property="og:type" content="website"/>
   <meta property="og:description" content="I've spent over a decade combining my passion for design and technology to create, build and deploy interactive experiences, applications and digital marketing."/>
-  <meta property="og:image" content="/seo/facebook.jpg"/>
+  <meta property="og:image" content="seo/facebook.jpg"/>
   
   <!-- Meta Open Graph  -->
   <meta property="og:title" content="Senior User Experience Designer" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="http://heymagruder.com" />
-  <meta property="og:image" content="/seo/facebook.jpg" />
+  <meta property="og:image" content="seo/facebook.jpg" />
   
   <!-- Twitter Open Graph  -->
   <meta name="twitter:card" content="summary_large_image">
@@ -70,7 +70,7 @@
   <meta name="twitter:creator" content="@heymagruder">
   <meta name="twitter:title" content="Creating simple, engaging solutions to complex user problems.">
   <meta name="twitter:description" content="I've spent over a decade combining my passion for design and technology to create, build and deploy interactive experiences, applications and digital marketing.">
-  <meta name="twitter:image" content="/seo/facebook.jpg">
+  <meta name="twitter:image" content="seo/facebook.jpg">
 
 </head>
 <body>
@@ -173,18 +173,6 @@
 
     </div><!-- End Container -->
 <?php include('cta.php'); ?>
-
-
-<!-- <div class="view-work-cta u-full-width">
-    <a href="logo-archive.php"><div class="one-half column view-big-biz">
-      <p class="view-more">&larr; View Previous</p>
-    </div></a>
-
-    <a href="#"><div class="one-half column view-sm-biz">
-       <p class="view-more">View Next &rarr;</p>
-    </div></a>
-</div>
- -->
 <?php include('work-list.php'); ?>
 <?php include('footer.php'); ?>
 <?php include('footer-code.php'); ?>
