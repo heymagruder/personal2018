@@ -86,7 +86,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/rapt/rapt-cards.jpg">
+          <img class="u-full-width" src="images/consensyslabs/consensys_labs_hero.jpg">
         </div>
       </div>
 
@@ -97,34 +97,38 @@
           <div class="project-info">
             <h2>ConsenSys Labs</h2>
               <ul class="work-role">
-                <li>Design</li>
                 <li>Branding</li>
+                <li>Visual Strategy</li>
+                <li>Brand Strategy</li>
                 <li>Marketing</li>
               </ul>
-              <p class="work-data">2018-2019</p>
+              <p class="work-data">2019</p>
           </div>
         </div>
           <div class="two-thirds column" style="margin-top: 15%">
-            <h5>Launching an interactive video technology.</h5>
-            <p>Working at a startup is both exciting and exhausting. Not only are you working nonstop to build a new technology but sometimes you find yourself laying down the tracks as the train is moving. It's scary. It's exciting. It's motivating. But most of all it's working together to create something new.</p>
+            <h5>Becoming a beacon of clarity in the fog of web3.</h5>
+                <p>ConsensSys labs is a web3 venture firm. We incubate and support over 50
+                    active ventures through funding, world-class product, business and advisory
+                    services, a network of web3 technical, industry, and entrepreneurial
+                    expertise and structured engagement with legal, HR and finance resources
+                    from day 1.</p>
 
-            <p>During my time I was responsible for three major areas: Interactive Video & Production, Product & Content Marketing, and Brand & Visual Language.</p>
-          </div>
+            </div>
       </div>
     </div><!-- End Container For Intro Content -->
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/rapt/rapt-icons.jpg">
+          <img class="u-full-width" src="images/consensyslabs/consensys_labs_cards.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="one-half column">
-          <img class="u-full-width" src="images/rapt/rapt-logo.gif">
+          <img class="u-full-width" src="images/consensyslabs/consensys_labs_t.jpg">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="images/rapt/rapt-notes.jpg">
+          <img class="u-full-width" src="images/consensyslabs/consensys_labs_t.jpg">
         </div>
       </div>
       <br/>
@@ -171,8 +175,7 @@
           <img class="u-full-width" src="images/rapt/rapt-sites2.jpg">
       </div>
     </div><!-- End Grid Demo -->
-
-        <p class="footnote">Rapt Media was recently acquired by Kaltura <a href="https://techcrunch.com/2018/05/25/kaltura-acquires-rapt-media/" target="_blank">Read More</a></p>
+        <p class="footnote">All work was done while employeed at ConsenSys. Credit design and stragety work to <a href="#" target="_blank">Sarah Morgan</a</p>
 
     </div><!-- End Container -->
 
