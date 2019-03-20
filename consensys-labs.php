@@ -107,6 +107,7 @@
         </div>
           <div class="two-thirds column" style="margin-top: 15%">
             <h5>Becoming a beacon of clarity in the fog of web3.</h5>
+            <p>ConsenSys Labs supports entrepreneurs and developers around the world as they build on the Ethereum platform.</p>
                 <p>ConsensSys labs is a web3 venture firm. We incubate and support over 50
                     active ventures through funding, world-class product, business and advisory
                     services, a network of web3 technical, industry, and entrepreneurial
@@ -146,10 +147,10 @@
       <br/>
       <div class="row" style="margin-top: 4%">
         <div class="one-half column">
-          <img class="u-full-width" src="images/rapt/rapt-foc-spread.jpg">
+          <img class="u-full-width" src="images/consensyslabs/consensys_labs_avatar_black.jpg">
         </div>
         <div class="one-half column">
-          <img class="u-full-width" src="images/rapt/rapt-color-palette.gif">
+          <img class="u-full-width" src="images/consensyslabs/consensys_labs_avatar_white.jpg">
         </div>
       </div>
       <div class="row" style="margin-top: 10%">
@@ -161,7 +162,7 @@
         <div class="row" style="margin-top: 10%">
           <div class="twelve column work-quote">
               <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
-              <p>-Caleb Hanson, VP Product, Rapt Media</p>
+              <p>-Thomas Rush, Head of Platform, ConsenSys Labs</p>
           </div>
         </div>
         <div class="row" style="margin-top: 10%">
@@ -175,7 +176,7 @@
           <img class="u-full-width" src="images/rapt/rapt-sites2.jpg">
       </div>
     </div><!-- End Grid Demo -->
-        <p class="footnote">All work was done while employeed at ConsenSys. Credit design and stragety work to <a href="#" target="_blank">Sarah Morgan</a</p>
+        <p class="footnote">All work was done while employeed at ConsenSys. Design and stragety credit to <a href="#" target="_blank">Sarah Morgan</a</p>
 
     </div><!-- End Container -->
 
