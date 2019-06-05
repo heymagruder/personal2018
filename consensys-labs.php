@@ -86,7 +86,7 @@
 
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/keyzio/keyzio-hero.jpg">
+          <img class="u-full-width" src="images/consensyslabs/consensys_labs_hero.jpg">
         </div>
       </div>
 
@@ -95,78 +95,91 @@
       <div class="row">
         <div class="one-third column" style="margin-top: 15%">
           <div class="project-info">
-            <h2>Keyzio</h2>
+            <h2>ConsenSys Labs</h2>
               <ul class="work-role">
-                <li>Art Direction</li>
                 <li>Branding</li>
-                <li>Print Design</li>
-                <li>User Experience</li>
+                <li>Visual Strategy</li>
+                <li>Brand Strategy</li>
+                <li>Marketing</li>
               </ul>
-              <p class="work-data">2016-2017</p>
+              <p class="work-data">2019</p>
           </div>
         </div>
           <div class="two-thirds column" style="margin-top: 15%">
-            <h5>Where Every House Is For Sale</h5>
-            
-            <p> Keyzio is a network of buyers and sellers that showcase for-sale-by-owner properties. The sellers create a profile and use social media to promote and market their houses before listing on the MLS.</p>
-            
-            <p>I helped improve the user flow on their application by providing a simple on-boarding process for users to get started. This helped set the stage for users and guide them through the experience. We also redesigned the internal pages to help with visual consistency.</p>
+            <h5>Becoming a beacon of clarity in the fog of web3.</h5>
+            <p>ConsenSys Labs supports entrepreneurs and developers around the world as they build on the Ethereum platform.</p>
+                <p>ConsensSys labs is a web3 venture firm. We incubate and support over 50
+                    active ventures through funding, world-class product, business and advisory
+                    services, a network of web3 technical, industry, and entrepreneurial
+                    expertise and structured engagement with legal, HR and finance resources
+                    from day 1.</p>
 
-            <p>Once the screens where completed, I refined to the app icon and built out brand touchpoints, including web and marketing materials. </p>
-          </div>
+            </div>
       </div>
     </div><!-- End Container For Intro Content -->
 
-
-
-<!-- Grid Demo
-      –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/keyzio/keyzio-icon-logo.png">
+          <img class="u-full-width" src="images/consensyslabs/consensys_labs_cards.jpg">
+        </div>
+      </div>
+      <br/>
+      <div class="row" style="margin-top: 10%">
+        <div class="one-half column">
+          <img class="u-full-width" src="images/consensyslabs/consensys_labs_t.jpg">
+        </div>
+        <div class="one-half column">
+          <img class="u-full-width" src="images/consensyslabs/consensys_labs_t.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/keyzio/keyzio-wires-flow.jpg">
+          <img class="u-full-width" src="images/rapt/rapt-foc-spread.jpg">
         </div>
       </div>
       <br/>
       <div class="row" style="margin-top: 10%">
         <div class="twelve column">
-          <img class="u-full-width" src="images/keyzio/keyzio-signup.jpg">
+          <img class="u-full-width" src="images/rapt/rapt-foc.jpg">
+        </div>
+      </div>
+      <br/>
+      <div class="row" style="margin-top: 4%">
+        <div class="one-half column">
+          <img class="u-full-width" src="images/consensyslabs/consensys_labs_avatar_black.jpg">
+        </div>
+        <div class="one-half column">
+          <img class="u-full-width" src="images/consensyslabs/consensys_labs_avatar_white.jpg">
+        </div>
+      </div>
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/rapt/rapt-ny.jpg">
         </div>
       </div>
       <br/>
         <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/keyzio/keyzio-onboading-screens.jpg">
+          <div class="twelve column work-quote">
+              <h4>"Christopher is a talented designer who's always thinking about the business needs around the design."</h4>
+              <p>-Thomas Rush, Head of Platform, ConsenSys Labs</p>
+          </div>
         </div>
-      </div>
-      <br/>
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column work-quote">
-            <h4>"Christopher was able to view our business, identify areas of improvement and deliver results."</h4>
-            <p>-Parker Hills, CO-Founder, Keyzio, Inc.</p>
-        </div>
-      </div>
-      <div class="row" style="margin-top: 10%">
-        <div class="twelve column">
-          <img class="u-full-width" src="images/keyzio/keyzio-listings.jpg">
-        </div>
-      </div>
-      <br/>
         <div class="row" style="margin-top: 10%">
-        <div class="one-half column">
-          <img class="u-full-width" src="images/keyzio/keyzio-business-set.jpg">
-        </div>
-        <div class="one-half column">
-          <img class="u-full-width" src="images/keyzio/keyzio-site-mock.jpg">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/rapt/rapt-icons.jpg">
         </div>
       </div>
-      <br/><!-- End Grid Demo -->
+      <br/>
+      <div class="row" style="margin-top: 10%">
+        <div class="twelve column">
+          <img class="u-full-width" src="images/rapt/rapt-sites2.jpg">
+      </div>
+    </div><!-- End Grid Demo -->
+        <p class="footnote">All work was done while employeed at ConsenSys. Design and stragety credit to <a href="#" target="_blank">Sarah Morgan</a</p>
+
     </div><!-- End Container -->
+
 <?php include('cta.php'); ?>
 <?php include('work-list.php'); ?>
 <?php include('footer.php'); ?>
@@ -174,6 +187,6 @@
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-
+  
 </body>
 </html>
