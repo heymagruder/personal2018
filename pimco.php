@@ -106,7 +106,7 @@
               <p class="work-data">2018</p>
           </div>
         </div>
-          <div class="two-thirds column" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 16%">
             <h5>Helping Market, Marketing.</h5>
             <p>Working together with their brand team we supported PIMCO with a redesign of their marketing pages.</p>
           </div>

@@ -102,7 +102,7 @@
               <p class="work-data">2017</p>
           </div>
         </div>
-          <div class="two-thirds column" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 16%">
             <h5>Perform Like A Pro</h5>
             
               <p>Passion projects keep the skills sharp. They allow you to push boundaries and comfort levels. It’s an opportunity to get outside the normal restraints that come along from client work.</p>

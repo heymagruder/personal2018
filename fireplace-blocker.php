@@ -106,7 +106,7 @@
               <p class="work-data">2010-2018</p>
           </div>
         </div>
-          <div class="two-thirds column" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 16%">
             <h5>From Our Family, To Yours</h5>
             <p>Entrepreneur sprit. When you see a need for a product you go out and build it. </p>
             <p>The revolutionary fireplace blocker saves you money by reducing heat loss from your fireplace.</p>

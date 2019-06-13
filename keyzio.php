@@ -105,7 +105,7 @@
               <p class="work-data">2016-2017</p>
           </div>
         </div>
-          <div class="two-thirds column" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 16%">
             <h5>Where Every House Is For Sale</h5>
             
             <p> Keyzio is a network of buyers and sellers that showcase for-sale-by-owner properties. The sellers create a profile and use social media to promote and market their houses before listing on the MLS.</p>

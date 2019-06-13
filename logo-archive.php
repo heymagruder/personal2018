@@ -94,7 +94,7 @@
                 </ul>
           <h6 class="work-year">2009 - 2018</h6>
         </div>
-          <div class="two-thirds column" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 16%">
             <h5>I Love Logos</h5>
             <p>Simple, memorable logos are the most successful. I strive to distill ideas to their simplest forms. No more, no less.</p>
           </div>
@@ -127,6 +127,7 @@
         <div class="grid-img"><img src="images/logos/Listzu-2.png"></div>
         <div class="grid-img"><img src="images/logos/Oh!-Media-Group.png"></div>
         <div class="grid-img"><img src="images/logos/Painting-Houses.png"></div>
+        <div class="grid-img"><img src="images/logos/sobol.gif"></div>
         <div class="grid-img"><img src="images/logos/petfoto.png"></div>
         <div class="grid-img"><img src="images/logos/Push2Me.png"></div>
         <div class="grid-img"><img src="images/logos/refresh.png"></div>

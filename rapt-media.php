@@ -106,7 +106,7 @@
               <p class="work-data">2016-2017</p>
           </div>
         </div>
-          <div class="two-thirds column" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 16%">
             <h5>Launching an interactive video technology.</h5>
             <p>Working at a startup is both exciting and exhausting. Not only are you working nonstop to build a new technology but sometimes you find yourself laying down the tracks as the train is moving. It's scary. It's exciting. It's motivating. But most of all it's working together to create something new.</p>
 

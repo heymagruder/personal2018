@@ -107,7 +107,7 @@
               <p class="work-data">2018</p>
           </div>
         </div>
-          <div class="two-thirds column" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 16%">
             <h5>Investing can be difficult. Especially for the novice.</h5>
             <p>When USAA asked us to rethink their current experience we knew it had to appeal to the novice and the power user. This is a difficult task. It needed to be approachable, but not insulting, and still robust.</p>
 

@@ -108,7 +108,7 @@
               <p class="work-data">2017-2018</p>
           </div>
         </div>
-          <div class="two-thirds column" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 16%">
             <h5>A wider picture, a deeper focus.</h5>
 
             <p>While IHS and Markit on Demand completed their merger, our internal design team focused on how to combine the current websites.</p>

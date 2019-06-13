@@ -109,7 +109,7 @@
               <p class="work-data">2018</p>
           </div>
         </div>
-          <div class="two-thirds column" style="margin-top: 15%">
+          <div class="two-thirds column" style="margin-top: 16%">
             <h5>Improving Private Banking</h5>
             <p>Working alongside business owners we improved a product developed for Private Bankers. They provide personalized financial services to high-net-worth individuals, so speed and efficiency is paramount. </p>
             <p>During our engagement we focused on improving the user experience for Alerts, Opportunities and Pipeline. We validated with Private Bankers early to confirm our decisions and limit our scope, providing a clear path for improvement. We streamlined the content providing a robust and useful interface, increasing efficiency. </p>
