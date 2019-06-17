@@ -135,7 +135,6 @@
         <div class="grid-img"><img src="images/logos/radarhr.png"></div>
         <div class="grid-img"><img src="images/logos/SmartCrops.png"></div>
         <div class="grid-img"><img src="images/logos/upstack.png"></div>
-        <div class="grid-img"><img src="images/logos/WaterWaveDrip.png"></div>
         <div class="grid-img"><img src="images/logos/we-work-nights.png"></div>
         <div class="grid-img"><img src="images/logos/Zenubu.png"></div>
       </div> 
