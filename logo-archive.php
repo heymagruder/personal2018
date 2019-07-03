@@ -122,6 +122,7 @@
         <div class="grid-img"><img src="images/logos/Golden-2.png"></div>
         <div class="grid-img"><img src="images/logos/GreenOverGrey.png"></div>
         <div class="grid-img"><img src="images/logos/GreatLakes.png"></div>
+        <div class="grid-img"><img src="images/logos/Helena.png"></div>
         <div class="grid-img"><img src="images/logos/F-Icon.png"></div>
         <div class="grid-img"><img src="images/logos/iradon.png"></div>
         <div class="grid-img"><img src="images/logos/Listzu-2.png"></div>
@@ -133,7 +134,7 @@
         <div class="grid-img"><img src="images/logos/refresh.png"></div>
         <div class="grid-img"><img src="images/logos/Rolling-Sans.png"></div>
         <div class="grid-img"><img src="images/logos/radarhr.png"></div>
-        <div class="grid-img"><img src="images/logos/SmartCrops.png"></div>
+<!--         <div class="grid-img"><img src="images/logos/SmartCrops.png"></div> -->
         <div class="grid-img"><img src="images/logos/upstack.png"></div>
         <div class="grid-img"><img src="images/logos/we-work-nights.png"></div>
         <div class="grid-img"><img src="images/logos/Zenubu.png"></div>
