@@ -14,7 +14,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
    <meta charset="utf-8">
-  <title>Christopher Magruder | Senior User Experience Designer</title>
+  <title>Christopher Magruder | Designer</title>
   <meta name="description" content="Creating simple, engaging solutions to complex user problems.">
   <meta name="author" content="Christopher Magruder">
 
