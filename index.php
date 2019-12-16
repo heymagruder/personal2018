@@ -89,7 +89,7 @@
 
     <div class="row">
       <div class="ten columns" style="margin-top: 6%">
-        <p class="main-name">Christopher Magruder - Designer</p>
+        <p class="main-name">Christopher Magruder | Designer</p>
         <h3 class="intro-text" id="shuffle">Design for Business, <br>Big and Small.</h3>
         <p class="intro-para">Hello. I'm Christopher Magruder and I'm a designer.</p>
         <p class="intro-para">I've spent the last fourteen years helping <span class="darker">build brands</span> of all sizes.</p>
