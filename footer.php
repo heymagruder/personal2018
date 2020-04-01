@@ -1,4 +1,4 @@
- <div class="container">
+
  	<div class="row">
  		<div class="twelve columns">
 		    <footer>
@@ -7,4 +7,3 @@
 		    </footer>
 	    </div>
     </div>
-</div>
