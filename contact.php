@@ -107,8 +107,6 @@
       <a href="https://twitter.com/heymagruder" target="_blank">@heymagruder</a></div>
       </div>
  </div><!-- End Container -->
- <br>
- <br>
  <?php include('footer.php'); ?>
  <?php include('footer-code.php'); ?>
 
