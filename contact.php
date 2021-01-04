@@ -90,7 +90,7 @@
     <div class="row">
       <div class="seven columns" style="margin-top: 10%">
                 <p class="main-name">Christopher Magruder | Designer</p>
-        <h3 class="intro-text" id="shuffle">Reach Out, <br>& Say Hi.</h3>
+        <h3 class="intro-text" id="shuffle">Reach Out <br>& Say Hi.</h3>
       </div>
     </div>
 
